@@ -1,8 +1,10 @@
 import React, { useState, useMemo, useCallback } from 'react';
 import { CheckCircle2, XCircle, ChevronRight, RefreshCw, Trophy } from 'lucide-react';
+import { quizData as importedQuizData, appTexts as importedAppTexts } from './quiz-data.js';
 
-// --- Data Mockup (Based on the provided French QCM and mock translations) ---
-const quizData = [
+// --- Use imported quiz data from quiz-data.js ---
+// Original mock data kept below for reference but commented out
+/* const quizData = [
   {
     id: 1,
     correctOptionKey: 'B',
@@ -136,9 +138,14 @@ const quizData = [
     }
   },
 ];
+*/
 
-// App texts for Summary and Buttons
-const appTexts = {
+// Use the imported data
+const quizData = importedQuizData;
+const appTexts = importedAppTexts;
+
+// Original app texts kept below for reference but commented out
+/* const appTexts = {
   en: {
     title: "Trilingual Skipper Quiz",
     question: "Question",
@@ -179,6 +186,7 @@ const appTexts = {
     selectedAnswer: "Ваш Выбор:",
   }
 };
+*/
 
 // Set the desired order of languages for the stacked question/answer text
 const languages = ['en', 'fr', 'ru'];
@@ -396,6 +404,21 @@ export default function App() {
                 </p>
             </div>
             ))}
+
+            {/* Display images if available */}
+            {currentQuestion.images && currentQuestion.images.length > 0 && (
+            <div className="mt-6 space-y-3">
+                {currentQuestion.images.map((imageData, idx) => (
+                <div key={idx} className="rounded-lg overflow-hidden border-2 border-indigo-200">
+                    <img 
+                    src={imageData} 
+                    alt={`Question ${currentQuestionIndex + 1} - Image ${idx + 1}`}
+                    className="w-full h-auto max-h-96 object-contain bg-gray-50"
+                    />
+                </div>
+                ))}
+            </div>
+            )}
         </div>
 
         {/* Answer Options - All translations stacked in each option box (Fr-En-Ru) */}

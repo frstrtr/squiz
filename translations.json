@@ -1,0 +1,482 @@
+{
+  "1": {
+    "en": {
+      "question": "In which one of the following scenarios would a skipper be committing an offence under the Tourism Authority Act 2006?",
+      "options": {
+        "A": "operating a pleasure craft without a second person onboard to do lookout duties",
+        "B": "skipper’s licence",
+        "C": "operating a pleasure craft at 27 knots in open seas when no other craft is in sight",
+        "D": "operating a pleasure craft at 21.5 nautical miles off the shore of Flic en Flac being holder of a Category"
+      }
+    },
+    "fr": {
+      "question": "Dans lequel des scénarios suivants le capitaine commettrait-il une infraction en vertu de la Tourism Authority Act 2006 ?",
+      "options": {
+        "A": "conduire un bateau de plaisance sans une seconde personne à bord pour assurer la veille",
+        "B": "permis du skipper",
+        "C": "naviguer à 27 nœuds en haute mer alors qu'aucun autre navire n'est en vue",
+        "D": "naviguer à 21,5 milles nautiques au large de Flic en Flac en tant que titulaire d'une catégorie"
+      }
+    }
+  },
+  "2": {
+    "en": {
+      "question": "When reporting the position of your craft at sea by the use of this magnetic compass, you need to mention the correct direction with respect to the lighthouse as",
+      "options": {
+        "A": "345 C",
+        "B": "185 C",
+        "C": "350 C",
+        "D": "165 C"
+      }
+    },
+    "fr": {
+      "question": "En signalant la position de votre embarcation en mer à l'aide de ce compas magnétique, vous devez indiquer la direction correcte par rapport au phare comme",
+      "options": {
+        "A": "345°",
+        "B": "185°",
+        "C": "350°",
+        "D": "165°"
+      }
+    }
+  },
+  "7": {
+    "en": {
+      "question": "Which statement in respect of lookout duties at sea is FALSE?",
+      "options": {
+        "A": "when alone onboard a craft at sea, the responsibility of maintaining lookout rests with the skipper",
+        "B": "a skipper is not relieved of his obligation to maintain lookout at night even though visibility is excellent",
+        "C": "a skipper should ensure that lookout is being maintained at all times by day and by night",
+        "D": "a skipper may stop maintaining visual lookout in restricted visibility if a radar is being operated"
+      }
+    },
+    "fr": {
+      "question": "Laquelle des affirmations concernant la veille en mer est FAUSSE ?",
+      "options": {
+        "A": "lorsqu'il est seul à bord d'un navire en mer, la responsabilité de la veille incombe au skipper",
+        "B": "un skipper n'est pas dispensé de son obligation d'assurer la veille la nuit même si la visibilité est excellente",
+        "C": "un skipper doit s'assurer que la veille est maintenue en permanence, de jour comme de nuit",
+        "D": "un skipper peut cesser la veille visuelle en visibilité réduite si un radar est en service"
+      }
+    }
+  },
+  "8": {
+    "en": {
+      "question": "‘Safe speed’ is a speed adopted by a skipper based on several factors. One of them is",
+      "options": {
+        "A": "his age and experience",
+        "B": "the number of persons detailed for lookout duties",
+        "C": "the length of the craft",
+        "D": "the boat traffic density at any given time"
+      }
+    },
+    "fr": {
+      "question": "La « vitesse sûre » est une vitesse adoptée par un skipper en fonction de plusieurs facteurs. L'un d'eux est",
+      "options": {
+        "A": "son âge et son expérience",
+        "B": "le nombre de personnes affectées aux tâches de veille",
+        "C": "la longueur de l'embarcation",
+        "D": "la densité du trafic maritime à un instant donné"
+      }
+    }
+  },
+  "11": {
+    "en": {
+      "question": "You are operating a pleasure craft at 17 knots on high seas when suddenly the visibility reduces drastically. You come down in speed to 6 knots. What is the next action you would take in an order of priority?",
+      "options": {
+        "A": "Plot a GPS fix on the chart",
+        "B": "Call all vessels on channel 16 and request their GPS positions",
+        "C": "Switch on navigational lights",
+        "D": "Switch on the radar"
+      }
+    },
+    "fr": {
+      "question": "Vous naviguez à 17 nœuds en haute mer lorsque la visibilité diminue brusquement. Vous réduisez votre vitesse à 6 nœuds. Quelle est la prochaine action à entreprendre par ordre de priorité ?",
+      "options": {
+        "A": "faire un point GPS sur la carte",
+        "B": "appeler tous les navires sur le canal 16 et demander leurs positions GPS",
+        "C": "allumer les feux de navigation",
+        "D": "allumer le radar"
+      }
+    }
+  },
+  "16": {
+    "en": {
+      "question": "Which statement concerning LOW PRESSURE areas is FALSE?",
+      "options": {
+        "A": "wind blows counter-clockwise around the centre of a Low Pressure area in the Southern Hemisphere",
+        "B": "atmospheric pressure gradually increases when moving away from the centre of a Low Pressure area",
+        "C": "Low Pressure Areas are characterised by unstable weather conditions",
+        "D": "Continuous heating of a large body of seawater results in Low Pressure areas being formed"
+      }
+    },
+    "fr": {
+      "question": "Quelle affirmation concernant les zones de basse pression est FAUSSE ?",
+      "options": {
+        "A": "le vent souffle en sens anti-horaire autour du centre d'une zone de basse pression dans l'hémisphère sud",
+        "B": "la pression atmosphérique augmente progressivement en s'éloignant du centre d'une zone de basse pression",
+        "C": "les zones de basse pression se caractérisent par des conditions météorologiques instables",
+        "D": "le réchauffement continu d'une grande masse d'eau de mer entraîne la formation de zones de basse pression"
+      }
+    }
+  },
+  "9": {
+    "fr": {
+      "question": "Votre bateau est devant un port pour le chenalage avant de s’accoster à une jetée. Mais vous ne voyez que cette bouée droit devant vous. Vous devez alors",
+      "options": {
+        "A": "laisser cette bouée sur bâbord au début du chenalage",
+        "B": "appeler l’autorité portuaire sur canal 16 pour des directives",
+        "C": "laisser cette bouée sur tribord au début du chenalage",
+        "D": "stopper les moteurs et faire marche arrière"
+      }
+    },
+    "en": {
+      "question": "Your boat is approaching a harbour to enter the channel before berthing at a jetty, but you can only see this buoy directly ahead. You should then",
+      "options": {
+        "A": "leave this buoy to port at the start of the channel",
+        "B": "call the port authority on channel 16 for instructions",
+        "C": "leave this buoy to starboard at the start of the channel",
+        "D": "stop the engines and go astern"
+      }
+    }
+  },
+  "17": {
+    "fr": {
+      "question": "Quelle est la manœuvre à faire si vous pensez que vous êtes sur le bateau non-privilégié?",
+      "options": {
+        "A": "venir sur bâbord par 15 degrés et augmenter la vitesse pour passer devant le navire B",
+        "B": "ralentir et venir sur tribord par au moins 60 degrés",
+        "C": "stopper et engager les moteurs en arrière",
+        "D": "stopper et faire un appel radio pour connaître les intentions du navire B"
+      }
+    },
+    "en": {
+      "question": "What manoeuvre should you make if you believe you are the give-way vessel?",
+      "options": {
+        "A": "turn to port by 15 degrees and increase speed to pass ahead of vessel B",
+        "B": "slow down and turn to starboard by at least 60 degrees",
+        "C": "stop and engage the engines astern",
+        "D": "stop and make a radio call to ascertain vessel B's intentions"
+      }
+    }
+  },
+  "21": {
+    "fr": {
+      "question": "Quel marque/s de jour montre un bateau à voile qui est également propulsé par un moteur ?",
+      "options": {
+        "A": "deux boules noires superposées.",
+        "B": "un bicone noir",
+        "C": "une forme conique noire avec la pointe montrant vers le bas.",
+        "D": "une boule noire."
+      }
+    },
+    "en": {
+      "question": "Which day shape(s) indicates a sailing vessel that is also propelled by machinery?",
+      "options": {
+        "A": "two black balls one above the other",
+        "B": "a black bicone",
+        "C": "a black conical shape with the apex pointing downwards",
+        "D": "a black ball"
+      }
+    }
+  },
+  "22": {
+    "fr": {
+      "question": "Dans cette situation, selon les règlements internationaux pour prévenir les abordages en mer, vous devez",
+      "options": {
+        "A": "changer votre cap vers tribord et maintenir une bonne distance du voilier",
+        "B": "maintenir votre cap et votre vitesse",
+        "C": "changer votre cap vers bâbord et maintenir une bonne distance du voilier",
+        "D": "attendre que le voilier manœuvre en premier"
+      }
+    },
+    "en": {
+      "question": "In this situation, according to the International Regulations for Preventing Collisions at Sea, you should",
+      "options": {
+        "A": "change your course to starboard and keep a safe distance from the sailing vessel",
+        "B": "maintain your course and speed",
+        "C": "change your course to port and keep a safe distance from the sailing vessel",
+        "D": "wait for the sailing vessel to manoeuvre first"
+      }
+    }
+  },
+  "23": {
+    "fr": {
+      "question": "Un skipper doit toujours manœuvrer son bateau pour qu’il puisse récupérer un ‘homme à la mer’ sur le côté",
+      "options": {
+        "A": "tribord",
+        "B": "au vent",
+        "C": "bâbord",
+        "D": "sous le vent"
+      }
+    },
+    "en": {
+      "question": "A skipper should always manoeuvre his boat so that he can recover a man overboard on the",
+      "options": {
+        "A": "starboard side",
+        "B": "windward side",
+        "C": "port side",
+        "D": "leeward side"
+      }
+    }
+  },
+  "24": {
+    "fr": {
+      "question": "C’est qui l’autorité ou la personne qui prend la décision d’abandonner un bateau dans une situation de crise et de lancer le radeau de sauvetage ?",
+      "options": {
+        "A": "la National Coast Guard",
+        "B": "le propriétaire du bateau",
+        "C": "la Tourism Authority",
+        "D": "le skipper du bateau"
+      }
+    },
+    "en": {
+      "question": "Who is the authority or person that makes the decision to abandon a vessel in a crisis and to launch the liferaft?",
+      "options": {
+        "A": "the National Coast Guard",
+        "B": "the owner of the vessel",
+        "C": "the Tourism Authority",
+        "D": "the skipper of the vessel"
+      }
+    }
+  },
+  "25": {
+    "fr": {
+      "question": "Laquelle parmi ces affirmations est FAUSSE concernant le canal 16 sur la radio VHF ?",
+      "options": {
+        "A": "On peut utiliser le canal 16 pour contacter un bateau",
+        "B": "On peut passer un message de détresse sur le canal 16",
+        "C": "On ne peut pas transmettre sur le canal 16 quand on navigue dans un port",
+        "D": "On ne peut pas transmettre longuement sur le canal 16"
+      }
+    },
+    "en": {
+      "question": "Which of the following statements is FALSE regarding VHF channel 16?",
+      "options": {
+        "A": "you may use channel 16 to contact another vessel",
+        "B": "you may broadcast a distress message on channel 16",
+        "C": "you may not transmit on channel 16 when navigating inside a port",
+        "D": "you may not make long transmissions on channel 16"
+      }
+    }
+  },
+  "26": {
+    "fr": {
+      "question": "Pour appeler l’autorité portuaire de la Mauritius Ports Authority sur radio VHF, il faut sélectionner",
+      "options": {
+        "A": "le canal 8",
+        "B": "le canal 78",
+        "C": "le canal 16",
+        "D": "le canal 74"
+      }
+    },
+    "en": {
+      "question": "To call the Mauritius Ports Authority on VHF you should select",
+      "options": {
+        "A": "channel 8",
+        "B": "channel 78",
+        "C": "channel 16",
+        "D": "channel 74"
+      }
+    }
+  },
+  "27": {
+    "fr": {
+      "question": "Ces marques indiquent que",
+      "options": {
+        "A": "le pétrolier s’est échoué",
+        "B": "le pétrolier est au mouillage",
+        "C": "le pétrolier ne peut pas manœuvrer d’après les règlements en raison des circonstances exceptionnelles",
+        "D": "le pétrolier a besoin d’aide"
+      }
+    },
+    "en": {
+      "question": "These marks indicate that",
+      "options": {
+        "A": "the tanker is aground",
+        "B": "the tanker is at anchor",
+        "C": "the tanker cannot manoeuvre under the rules due to exceptional circumstances",
+        "D": "the tanker requires assistance"
+      }
+    }
+  },
+  "28": {
+    "fr": {
+      "question": "Vous êtes le skipper d’un bateau qui navigue à 20 nœuds en haute mer et soudain la visibilité est réduite en raison d’une grosse pluie. Vous devez tout d’abord",
+      "options": {
+        "A": "allumer le radar",
+        "B": "réduire la vitesse",
+        "C": "appeler sur le canal 16 pour demander les positions GPS des bateaux dans la région",
+        "D": "faire un point sur votre carte"
+      }
+    },
+    "en": {
+      "question": "You are the skipper of a boat making 20 knots on the high seas when heavy rain suddenly reduces visibility. You should first",
+      "options": {
+        "A": "switch on the radar",
+        "B": "reduce speed",
+        "C": "call on channel 16 to request GPS positions of vessels in the area",
+        "D": "take a fix on your chart"
+      }
+    }
+  },
+  "29": {
+    "fr": {
+      "question": "Le mouvement d’air d’une zone de haute pression vers une zone de basse pression est plus connu comme",
+      "options": {
+        "A": "le courant océanique",
+        "B": "le vent",
+        "C": "la marée",
+        "D": "un anticyclone"
+      }
+    },
+    "en": {
+      "question": "The movement of air from a high pressure area to a low pressure area is better known as",
+      "options": {
+        "A": "an ocean current",
+        "B": "the wind",
+        "C": "the tide",
+        "D": "an anticyclone"
+      }
+    }
+  },
+  "30": {
+    "fr": {
+      "question": "Une isobare sur une carte météo est une courbe, une ligne ou même un cercle qui relie les régions en mer qui ont la même",
+      "options": {
+        "A": "température d’eau",
+        "B": "pression atmosphérique",
+        "C": "profondeur",
+        "D": "salinité"
+      }
+    },
+    "en": {
+      "question": "An isobar on a weather chart is a curve, line or even a circle that joins areas at sea which have the same",
+      "options": {
+        "A": "water temperature",
+        "B": "atmospheric pressure",
+        "C": "depth",
+        "D": "salinity"
+      }
+    }
+  },
+  "31": {
+    "fr": {
+      "question": "Vous recevez un appel radio sur le canal 16 qui commence par ‘MAYDAY MAYDAY MAYDAY’. Cela veut dire que la station qui appelle",
+      "options": {
+        "A": "fait face à un problème de moteur",
+        "B": "fait face à une situation où la vie humaine est en danger",
+        "C": "va transmettre des informations concernant un danger pour la navigation",
+        "D": "va transmettre la position d’un paquebot qui vient de mouiller"
+      }
+    },
+    "en": {
+      "question": "You receive a radio call on channel 16 beginning ‘MAYDAY MAYDAY MAYDAY’. This means that the station calling",
+      "options": {
+        "A": "is facing an engine problem",
+        "B": "is facing a situation where human life is in danger",
+        "C": "is about to transmit information concerning a danger to navigation",
+        "D": "is about to transmit the position of a liner that has just anchored"
+      }
+    }
+  },
+  "32": {
+    "fr": {
+      "question": "Votre assistant attire votre attention vers un autre navire un peu plus au large montrant ces feux qu’il n’arrive pas à comprendre. Vous lui expliquez que c’est un navire",
+      "options": {
+        "A": "qui est en train de pêcher à la ligne",
+        "B": "probablement plus de 50 mètres faisant route de gauche à droite",
+        "C": "probablement plus de 50 mètres et qui n'est pas maître de sa manœuvre",
+        "D": "probablement plus de 50 mètres faisant route de droite à gauche"
+      }
+    },
+    "en": {
+      "question": "Your lookout points out another vessel further offshore showing lights he cannot identify. You explain that it is a vessel",
+      "options": {
+        "A": "engaged in line fishing",
+        "B": "probably over 50 metres making way from left to right",
+        "C": "probably over 50 metres and not in command of its manoeuvre",
+        "D": "probably over 50 metres making way from right to left"
+      }
+    }
+  },
+  "33": {
+    "fr": {
+      "question": "Quels sont les trois éléments qui représentent le triangle du feu ?",
+      "options": {
+        "A": "oxygène, chaleur et combustible",
+        "B": "chaleur, nitrogène et combustible",
+        "C": "chaleur, humidité et combustible",
+        "D": "oxygène, humidité et nitrogène"
+      }
+    },
+    "en": {
+      "question": "What are the three elements that make up the fire triangle?",
+      "options": {
+        "A": "oxygen, heat and fuel",
+        "B": "heat, nitrogen and fuel",
+        "C": "heat, moisture and fuel",
+        "D": "oxygen, moisture and nitrogen"
+      }
+    }
+  },
+  "34": {
+    "fr": {
+      "question": "Où doit-on généralement se positionner avant d’utiliser un extincteur en cas d’incendie sur le pont d’un bateau en mer ?",
+      "options": {
+        "A": "sur le côté bâbord",
+        "B": "sur le côté tribord",
+        "C": "sur le côté au vent",
+        "D": "sur le côté sous le vent"
+      }
+    },
+    "en": {
+      "question": "Where should you generally position yourself before using a fire extinguisher on a deck fire at sea?",
+      "options": {
+        "A": "on the port side",
+        "B": "on the starboard side",
+        "C": "on the windward side",
+        "D": "on the leeward side"
+      }
+    }
+  },
+  "35": {
+    "fr": {
+      "question": "Une des précautions à prendre avant de mettre en marche un moteur hors-bord est",
+      "options": {
+        "A": "de s’assurer que la pompe à eau est opérationnelle",
+        "B": "de s’assurer que le moteur n’est pas déjà engagé en avant ou en arrière",
+        "C": "de s’assurer que le moteur est de la catégorie 4 temps",
+        "D": "de s’assurer qu’il n’y a personne d’autre sur le bateau"
+      }
+    },
+    "en": {
+      "question": "One of the precautions to take before starting an outboard engine is",
+      "options": {
+        "A": "to ensure the water pump is operational",
+        "B": "to ensure the engine is not already engaged forward or astern",
+        "C": "to ensure the engine is a 4-stroke type",
+        "D": "to ensure there is no one else on the boat"
+      }
+    }
+  },
+  "36": {
+    "fr": {
+      "question": "D’après la Tourism Authority Act 2006, un cas de collision en mer doit être rapporté à la National Coast Guard",
+      "options": {
+        "A": "par le skipper seulement",
+        "B": "par le propriétaire du bateau seulement",
+        "C": "par un des passagers à bord du bateau",
+        "D": "par le skipper ou par le propriétaire du bateau"
+      }
+    },
+    "en": {
+      "question": "According to the Tourism Authority Act 2006, a case of collision at sea must be reported to the National Coast Guard",
+      "options": {
+        "A": "by the skipper only",
+        "B": "by the owner of the vessel only",
+        "C": "by one of the passengers on board the vessel",
+        "D": "by the skipper or by the owner of the vessel"
+      }
+    }
+  }
+}

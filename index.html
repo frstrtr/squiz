@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trilingual Skipper Quiz</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- React CDN -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <!-- Babel standalone for JSX transformation -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
+    <div id="root"></div>
+    
+    <!-- Quiz data module -->
+    <script type="module" src="quiz-data.js"></script>
+    
+    <!-- Main app -->
+    <script type="text/babel" data-type="module">
+        import { quizData, appTexts } from './quiz-data.js';
+        import React, { useState, useMemo, useCallback } from 'react';
+        
+        // Inline the lucide-react icons as simple SVG components
+        const CheckCircle2 = ({ className = "", size = 24 }) => (
+            <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+                <circle cx="12" cy="12" r="10"></circle>
+                <path d="m9 12 2 2 4-4"></path>
+            </svg>
+        );
+        
+        const XCircle = ({ className = "", size = 24 }) => (
+            <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+                <circle cx="12" cy="12" r="10"></circle>
+                <path d="m15 9-6 6"></path>
+                <path d="m9 9 6 6"></path>
+            </svg>
+        );
+        
+        const ChevronRight = ({ className = "", size = 24 }) => (
+            <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+                <path d="m9 18 6-6-6-6"></path>
+            </svg>
+        );
+        
+        const RefreshCw = ({ className = "", size = 24 }) => (
+            <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+                <path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"></path>
+                <path d="M21 3v5h-5"></path>
+                <path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"></path>
+                <path d="M3 21v-5h5"></path>
+            </svg>
+        );
+        
+        const Trophy = ({ className = "", size = 24 }) => (
+            <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+                <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path>
+                <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path>
+                <path d="M4 22h16"></path>
+                <path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path>
+                <path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path>
+                <path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path>
+            </svg>
+        );
+        
+        // Load the main component from squiz.jsx
+        fetch('squiz.jsx')
+            .then(response => response.text())
+            .then(code => {
+                // Remove the imports from the code since we're providing them inline
+                const cleanCode = code
+                    .replace(/import React.*?from 'react';/g, '')
+                    .replace(/import \{.*?\} from 'lucide-react';/g, '')
+                    .replace(/import \{.*?\} from '\.\/quiz-data\.js';/g, '')
+                    .replace(/const quizData = importedQuizData;/g, '')
+                    .replace(/const appTexts = importedAppTexts;/g, '');
+                
+                // Execute the component code
+                eval(Babel.transform(cleanCode, { presets: ['react'] }).code);
+                
+                // Render the app
+                const root = ReactDOM.createRoot(document.getElementById('root'));
+                root.render(<SkipperQuiz />);
+            });
+    </script>
+</body>
+</html>

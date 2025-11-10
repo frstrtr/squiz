@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Data Preview</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .question-card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .question-text {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .lang-label {
+            display: inline-block;
+            background: #4F46E5;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            margin-right: 10px;
+        }
+        .image-container {
+            margin: 15px 0;
+            border: 2px solid #E5E7EB;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+        .options {
+            margin-top: 15px;
+        }
+        .option {
+            padding: 8px;
+            margin: 5px 0;
+            border-left: 3px solid #4F46E5;
+            background: #F3F4F6;
+        }
+        h1 {
+            color: #1F2937;
+            border-bottom: 3px solid #4F46E5;
+            padding-bottom: 10px;
+        }
+        .stats {
+            background: #EFF6FF;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>📚 Quiz Data Preview - 36 Questions with 13 Images</h1>
+    
+    <div class="stats">
+        <strong>Summary:</strong><br>
+        ✅ Total Questions: 36<br>
+        🖼️ Total Images: 13<br>
+        🌍 Languages: English, French, Russian<br>
+        📝 Questions with images: 13
+    </div>
+    
+    <div id="questions"></div>
+
+    <script type="module">
+        import { quizData } from './quiz-data.js';
+        
+        const container = document.getElementById('questions');
+        
+        quizData.slice(0, 5).forEach((question, index) => {
+            const card = document.createElement('div');
+            card.className = 'question-card';
+            
+            let html = `<h2>Question ${index + 1}</h2>`;
+            
+            // Display questions in all languages
+            ['en', 'fr', 'ru'].forEach(lang => {
+                if (question.translations[lang]) {
+                    html += `
+                        <div style="margin: 10px 0;">
+                            <span class="lang-label">${lang.toUpperCase()}</span>
+                            <div class="question-text">${question.translations[lang].question}</div>
+                        </div>
+                    `;
+                    
+                    // Show options
+                    if (question.translations[lang].options) {
+                        html += '<div class="options">';
+                        Object.entries(question.translations[lang].options).forEach(([key, value]) => {
+                            const isCorrect = key === question.correctOptionKey;
+                            html += `<div class="option" style="${isCorrect ? 'border-left-color: #10B981; font-weight: bold;' : ''}">${key}. ${value}</div>`;
+                        });
+                        html += '</div>';
+                    }
+                }
+            });
+            
+            // Display images if available
+            if (question.images && question.images.length > 0) {
+                html += `<div style="margin-top: 15px;"><strong>📷 ${question.images.length} Image(s):</strong></div>`;
+                question.images.forEach((imgSrc, imgIdx) => {
+                    html += `
+                        <div class="image-container">
+                            <img src="${imgSrc}" alt="Question ${index + 1} - Image ${imgIdx + 1}" loading="lazy" />
+                        </div>
+                    `;
+                });
+            }
+            
+            card.innerHTML = html;
+            container.appendChild(card);
+        });
+        
+        // Add note about remaining questions
+        const note = document.createElement('div');
+        note.className = 'question-card';
+        note.style.background = '#FEF3C7';
+        note.innerHTML = `
+            <p><strong>📋 Showing first 5 questions</strong></p>
+            <p>Total of ${quizData.length} questions available in quiz-data.js</p>
+            <p>The React app (squiz.jsx) has been updated to import this data and display images automatically.</p>
+        `;
+        container.appendChild(note);
+    </script>
+</body>
+</html>

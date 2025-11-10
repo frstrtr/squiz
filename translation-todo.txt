@@ -1,0 +1,105 @@
+TRANSLATION TODO LIST
+============================================================
+
+NEED ENGLISH TRANSLATION (18 questions):
+------------------------------------------------------------
+
+Question 9:
+FR: Votre bateau est devant un port pour le chenalage avant de s’accoster ā une jetée. Mais vous ne voyez que cette bouée droit devant vous. Vous devez alors
+EN: [NEEDS TRANSLATION]
+
+Question 17:
+FR: Quelle est la manœuvre ā faire si vous pensez que vous êtes sur le bateau non-privilégié?
+EN: [NEEDS TRANSLATION]
+
+Question 21:
+FR: Quel marque/s de jour montre un bateau à voile qui est également propulsé par un moteur ?
+EN: [NEEDS TRANSLATION]
+
+Question 22:
+FR: Dans cette situation, selon les règlements internationaux pour prévenir les abordages en mer, vous devezA changer votre cap vers tribord et maintenir une bonne distance du voilierB maintenir votre cap et vitesseC changer votre cap vers bâbord et maintenir une bonne distance du voilierD attendre que le voilier manœuvre en premier.Question 24Il est actuellement 1045 h et vous vous rendez compte que d’après le GPS votre bateau a fait une vitesse moyenne de 10 nœuds. Quelle distance le bateau peut avoir parcouru pendant ces dernières 15 minutes ?
+EN: [NEEDS TRANSLATION]
+
+Question 23:
+FR: Un skipper doit toujours manœuvrer son bateau pour qu’il puisse récupérer un ‘homme à la mer’ sur le côté
+EN: [NEEDS TRANSLATION]
+
+Question 24:
+FR: C’est qui l’autorité ou la personne qui prend la décision d’abandonner un bateau dans une situation de crise et de lançer le radeau de sauvetage ?
+EN: [NEEDS TRANSLATION]
+
+Question 25:
+FR: Laquelle parmi ces arguments est FAUX concernant le canal 16 sur la radio VHF ?
+EN: [NEEDS TRANSLATION]
+
+Question 26:
+FR: Pour appeler l’autorité portuaire de la Mauritius Ports Authority sur radio VHF, il faut sélecter
+EN: [NEEDS TRANSLATION]
+
+Question 27:
+FR: Ces marques indiquent que
+EN: [NEEDS TRANSLATION]
+
+Question 28:
+FR: Vous êtes le skipper d’un bateau qui navigue ā 20 nœuds en haute mer et soudain la visibilité est réduite en raison d’une grosse pluie. Vous devez tout d’abord
+EN: [NEEDS TRANSLATION]
+
+Question 29:
+FR: Le mouvement d’air d’une zone de haute pression vers une zone de basse pression est plus connu comme
+EN: [NEEDS TRANSLATION]
+
+Question 30:
+FR: Une isobare sur une carte météo est une courbe, une ligne ou même un cercle qui relie les régions en mer qui ont la même
+EN: [NEEDS TRANSLATION]
+
+Question 31:
+FR: Vous recevez un appel radio sur le canal 16 qui commence par ‘MAYDAY MAYDAY MAYDAY’.Cela veut dire que la station qui appelle
+EN: [NEEDS TRANSLATION]
+
+Question 32:
+FR: Votre assistant attire votre attention vers un autre navire un peu plus au large montrant ces feux qu’il n’arrive pas à comprendre Vous lui expliquez que c’est un navire
+EN: [NEEDS TRANSLATION]
+
+Question 33:
+FR: Quels sont les trois éléments qui représentent le triangle du feu ?
+EN: [NEEDS TRANSLATION]
+
+Question 34:
+FR: Où doit-on généralement se positionner avant d’utiliser un extincteur en cas d’incendie sur le pont d’un bateau en mer ?
+EN: [NEEDS TRANSLATION]
+
+Question 35:
+FR: Une des précautions à prendre avant de mettre en marche un moteur hors bord est
+EN: [NEEDS TRANSLATION]
+
+Question 36:
+FR: D’apres la Tourism Authority Act 2006, un cas de collision en mer doit être rapporté à la National Coast Guard
+EN: [NEEDS TRANSLATION]
+
+
+NEED FRENCH TRANSLATION (6 questions):
+------------------------------------------------------------
+
+Question 1:
+EN: In which one of the following scenarios would a skipper be committing an offence under the Tourism Authority Act 2006?
+FR: [NEEDS TRANSLATION]
+
+Question 2:
+EN: When reporting the position of your craft at sea by the use of this magnetic compass, you need to mention the correct direction with respect to the lighthouse as
+FR: [NEEDS TRANSLATION]
+
+Question 7:
+EN: Which statement in respect of lookout duties at sea is FALSE?
+FR: [NEEDS TRANSLATION]
+
+Question 8:
+EN: ‘Safe speed’ is a speed adopted by a skipper based on several factors. One of them is
+FR: [NEEDS TRANSLATION]
+
+Question 11:
+EN: You are operating a pleasure craft at 17 knots on high seas when suddenly the visibility reduces drastically. You come down in speed to 6 knots. What is the next action you would take in an order of priority?
+FR: [NEEDS TRANSLATION]
+
+Question 16:
+EN: Which statement concerning LOW PRESSURE areas is FALSE?
+FR: [NEEDS TRANSLATION]
