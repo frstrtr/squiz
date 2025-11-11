@@ -1,39 +1,5 @@
-// Auto-generated quiz data (imports for image assets)
+// Auto-generated quiz data - Browser compatible version
 // Generated from quiz-data-final.json
-import img_q10_0 from './assets/q10_0.png';
-import img_q112 from './assets/q112.png';
-import img_q113 from './assets/q113.png';
-import img_q11_0 from './assets/q11_0.png';
-import img_q13_0 from './assets/q13_0.png';
-import img_q15_0 from './assets/q15_0.png';
-import img_q17_0 from './assets/q17_0.png';
-import img_q18_0 from './assets/q18_0.png';
-import img_q2_0 from './assets/q2_0.png';
-import img_q3_0 from './assets/q3_0.png';
-import img_q4_0 from './assets/q4_0.png';
-import img_q53 from './assets/q53.png';
-import img_q56 from './assets/q56.png';
-import img_q5_0 from './assets/q5_0.png';
-import img_q66_0 from './assets/q66_0.png';
-import img_q69 from './assets/q69.png';
-import img_q6_0 from './assets/q6_0.png';
-import img_q70 from './assets/q70.png';
-import img_q72 from './assets/q72.png';
-import img_q73 from './assets/q73.png';
-import img_q74 from './assets/q74.png';
-import img_q75 from './assets/q75.png';
-import img_q76 from './assets/q76.png';
-import img_q77 from './assets/q77.png';
-import img_q78 from './assets/q78.png';
-import img_q79 from './assets/q79.png';
-import img_q81 from './assets/q81.png';
-import img_q82 from './assets/q82.png';
-import img_q87 from './assets/q87.png';
-import img_q8_0 from './assets/q8_0.png';
-import img_q94 from './assets/q94.png';
-import img_q95 from './assets/q95.png';
-import img_q97 from './assets/q97.png';
-import img_q9_0 from './assets/q9_0.png';
 
 export const quizData = [
   {
@@ -93,7 +59,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q2_0"
+      "assets/q2_0.png"
     ]
   },
   {
@@ -124,7 +90,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q3_0"
+      "assets/q3_0.png"
     ]
   },
   {
@@ -155,7 +121,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q4_0"
+      "assets/q4_0.png"
     ]
   },
   {
@@ -186,7 +152,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q5_0"
+      "assets/q5_0.png"
     ]
   },
   {
@@ -198,7 +164,8 @@ export const quizData = [
         "options": {
           "C": "come to port by not more than 15 degrees",
           "A": "come to course to 205 ◦",
-          "D": "keep well clear since it is an isolated danger buoy"
+          "D": "keep well clear since it is an isolated danger buoy",
+          "B": "stay on the same course and pass about 100 m to starboard of this buoy"
         }
       },
       "fr": {
@@ -206,7 +173,8 @@ export const quizData = [
         "options": {
           "C": "venir à bâbord de pas plus de 15 degrés",
           "A": "venir au cap 205°",
-          "D": "rester bien à l'écart car c'est une bouée de danger isolé"
+          "D": "rester bien à l'écart car c'est une bouée de danger isolé",
+          "B": "rester sur le même cap et passer à environ 100 m à tribord de cette bouée"
         }
       },
       "ru": {
@@ -215,7 +183,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q6_0"
+      "assets/q6_0.png"
     ]
   },
   {
@@ -275,7 +243,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q8_0"
+      "assets/q8_0.png"
     ]
   },
   {
@@ -306,7 +274,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q9_0"
+      "assets/q9_0.png"
     ]
   },
   {
@@ -366,7 +334,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q11_0"
+      "assets/q11_0.png"
     ]
   },
   {
@@ -426,7 +394,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q13_0"
+      "assets/q13_0.png"
     ]
   },
   {
@@ -486,7 +454,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q15_0"
+      "assets/q15_0.png"
     ]
   },
   {
@@ -546,8 +514,8 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q17_0",
-      "img_q95"
+      "assets/q17_0.png",
+      "assets/q95.png"
     ]
   },
   {
@@ -593,12 +561,12 @@ export const quizData = [
         }
       },
       "fr": {
-        "question": "Ce navire",
+        "question": "Vous êtes en mer au large du port de Port Louis et vous entendez un appel radio commençant par les mots SECURITE SECURITE SECURITE. Cela signifie que ce qui suit sera un message concernant",
         "options": {
-          "A": "est restreint dans sa capacité de manoeuvre.",
-          "B": "est handicapé par son tirant d’eau.",
-          "C": "est non-maître de sa manœuvre.",
-          "D": "s’est échoué"
+          "A": "un cas de danger imminent pour la vie humaine",
+          "B": "un cas où la sécurité de la navigation peut être compromise",
+          "C": "un cas de navire immobilisé par une panne de moteur",
+          "D": "un cas de navire transportant des marchandises dangereuses"
         }
       },
       "ru": {
@@ -755,7 +723,7 @@ export const quizData = [
   },
   {
     "id": 25,
-    "correctOptionKey": "B",
+    "correctOptionKey": "C",
     "translations": {
       "en": {
         "question": "Which of the following statements is FALSE regarding VHF channel 16?",
@@ -988,7 +956,7 @@ export const quizData = [
   },
   {
     "id": 33,
-    "correctOptionKey": "B",
+    "correctOptionKey": "A",
     "translations": {
       "en": {
         "question": "What are the three elements that make up the fire triangle?",
@@ -1156,7 +1124,7 @@ export const quizData = [
   },
   {
     "id": 39,
-    "correctOptionKey": "B",
+    "correctOptionKey": "D",
     "translations": {
       "en": {
         "question": "What is meant by ‘maintaining a lookout at sea’?",
@@ -1464,7 +1432,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q53"
+      "assets/q53.png"
     ],
     "source": "model questions -french (1).docx"
   },
@@ -1544,7 +1512,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q56"
+      "assets/q56.png"
     ],
     "source": "model questions -french (1).docx"
   },
@@ -1780,7 +1748,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q66_0"
+      "assets/q66_0.png"
     ],
     "source": "manual_addition"
   },
@@ -1860,7 +1828,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q69"
+      "assets/q69.png"
     ],
     "source": "manual_addition"
   },
@@ -1888,7 +1856,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q70"
+      "assets/q70.png"
     ],
     "source": "manual_addition"
   },
@@ -1942,7 +1910,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q72"
+      "assets/q72.png"
     ],
     "source": "manual_addition"
   },
@@ -1970,7 +1938,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q73"
+      "assets/q73.png"
     ],
     "source": "manual_addition"
   },
@@ -1998,7 +1966,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q74"
+      "assets/q74.png"
     ],
     "source": "manual_addition"
   },
@@ -2026,7 +1994,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q75"
+      "assets/q75.png"
     ],
     "source": "manual_addition"
   },
@@ -2054,7 +2022,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q76"
+      "assets/q76.png"
     ],
     "source": "manual_addition"
   },
@@ -2082,7 +2050,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q77"
+      "assets/q77.png"
     ],
     "source": "manual_addition"
   },
@@ -2110,7 +2078,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q78"
+      "assets/q78.png"
     ],
     "source": "manual_addition"
   },
@@ -2138,7 +2106,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q79"
+      "assets/q79.png"
     ],
     "source": "manual_addition"
   },
@@ -2192,7 +2160,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q81"
+      "assets/q81.png"
     ],
     "source": "manual_addition"
   },
@@ -2220,7 +2188,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q82"
+      "assets/q82.png"
     ],
     "source": "manual_addition"
   },
@@ -2352,7 +2320,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q87"
+      "assets/q87.png"
     ],
     "source": "manual_addition"
   },
@@ -2406,7 +2374,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q10_0"
+      "assets/q10_0.png"
     ],
     "source": "manual_addition"
   },
@@ -2538,7 +2506,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q94"
+      "assets/q94.png"
     ],
     "source": "manual_addition"
   },
@@ -2566,7 +2534,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q95"
+      "assets/q95.png"
     ],
     "source": "manual_addition"
   },
@@ -2594,7 +2562,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q18_0"
+      "assets/q18_0.png"
     ]
   },
   {
@@ -2621,7 +2589,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q97"
+      "assets/q97.png"
     ]
   },
   {
@@ -2998,7 +2966,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q112"
+      "assets/q112.png"
     ]
   },
   {
@@ -3025,7 +2993,7 @@ export const quizData = [
       }
     },
     "images": [
-      "img_q113"
+      "assets/q113.png"
     ]
   },
   {
@@ -3278,7 +3246,7 @@ export const quizData = [
   },
   {
     "id": 120,
-    "correctOptionKey": "B",
+    "correctOptionKey": "C",
     "translations": {
       "en": {
         "question": "Which one of the following statements about VHF channel 16 is FALSE?",
@@ -3883,5 +3851,57 @@ export const quizData = [
         }
       }
     }
+  },
+  {
+    "id": 145,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Ce navire",
+        "options": {
+          "A": "est restreint dans sa capacité de manoeuvre.",
+          "B": "est handicapé par son tirant d’eau.",
+          "C": "est non-maître de sa manœuvre.",
+          "D": "s’est échoué"
+        }
+      },
+      "en": {
+        "question": "This vessel",
+        "options": {
+          "A": "is restricted in its ability to maneuver",
+          "B": "is constrained by its draft",
+          "C": "is not under command",
+          "D": "has run aground"
+        }
+      }
+    },
+    "images": [
+      "assets/q79.png"
+    ]
   }
 ];
+
+export const appTexts = {
+  en: {
+    title: "Skipper Quiz",
+    startQuiz: "Start Quiz",
+    nextQuestion: "Next Question",
+    previousQuestion: "Previous",
+    submitQuiz: "Submit Quiz",
+    score: "Score",
+    correctAnswers: "Correct Answers",
+    reviewAnswers: "Review Answers",
+    restartQuiz: "Restart Quiz"
+  },
+  fr: {
+    title: "Quiz Skipper",
+    startQuiz: "Commencer le Quiz",
+    nextQuestion: "Question Suivante",
+    previousQuestion: "Précédent",
+    submitQuiz: "Soumettre le Quiz",
+    score: "Score",
+    correctAnswers: "Réponses Correctes",
+    reviewAnswers: "Revoir les Réponses",
+    restartQuiz: "Recommencer le Quiz"
+  }
+};
