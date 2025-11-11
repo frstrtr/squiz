@@ -643,9 +643,9 @@
         }
       },
       "fr": {
-        "question": "Dans cette situation, selon les règlements internationaux pour prévenir les abordages en mer, vous devezA changer votre cap vers tribord et maintenir une bonne distance du voilierB maintenir votre cap et vitesseC changer votre cap vers bâbord et maintenir une bonne distance du voilierD attendre que le voilier manœuvre en premier.Question 24Il est actuellement 1045 h et vous vous rendez compte que d’après le GPS votre bateau a fait une vitesse moyenne de 10 nœuds. Quelle distance le bateau peut avoir parcouru pendant ces dernières 15 minutes ?",
+        "question": "Dans cette situation, selon les règlements internationaux pour prévenir les abordages en mer, vous devez",
         "options": {
-          "A": "5 nautiquesB 2,5 nautiquesC 10 nautiquesD 12,5 nautiques",
+          "A": "changer votre cap vers tribord et maintenir une bonne distance du voilier",
           "B": "maintenir votre cap et votre vitesse",
           "C": "changer votre cap vers bâbord et maintenir une bonne distance du voilier",
           "D": "attendre que le voilier manœuvre en premier"
@@ -946,7 +946,8 @@
         "options": {}
       }
     },
-    "images": []
+    "images": [],
+    "imageUrl": "assets/q145.png"
   },
   {
     "id": 33,
@@ -1069,63 +1070,6 @@
     "correctOptionKey": "B",
     "translations": {
       "en": {
-        "question": "[TO TRANSLATE] et 78...",
-        "options": {}
-      },
-      "fr": {
-        "question": "et 78",
-        "options": {}
-      },
-      "ru": {
-        "question": "",
-        "options": {}
-      }
-    },
-    "images": []
-  },
-  {
-    "id": 38,
-    "correctOptionKey": "B",
-    "translations": {
-      "en": {
-        "question": "[TO TRANSLATE] et 74...",
-        "options": {}
-      },
-      "fr": {
-        "question": "et 74",
-        "options": {}
-      },
-      "ru": {
-        "question": "",
-        "options": {}
-      }
-    },
-    "images": []
-  },
-  {
-    "id": 39,
-    "correctOptionKey": "B",
-    "translations": {
-      "en": {
-        "question": "[TO TRANSLATE] et 72...",
-        "options": {}
-      },
-      "fr": {
-        "question": "et 72",
-        "options": {}
-      },
-      "ru": {
-        "question": "",
-        "options": {}
-      }
-    },
-    "images": []
-  },
-  {
-    "id": 40,
-    "correctOptionKey": "B",
-    "translations": {
-      "en": {
         "question": "Which one of the following actions does not amount to an offence under the Tourism Authority Act 2006?",
         "options": {
           "A": "permitting 14 persons to take a trip at sea on a pleasure craft bearing registration mark PC 2145 OL 12",
@@ -1148,7 +1092,7 @@
     "source": "SAMPLE QUESTIONS FROM MY UPCOMING   BOOK.docx"
   },
   {
-    "id": 41,
+    "id": 38,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1174,7 +1118,7 @@
     "source": "SAMPLE QUESTIONS FROM MY UPCOMING   BOOK.docx"
   },
   {
-    "id": 42,
+    "id": 39,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1200,7 +1144,7 @@
     "source": "SAMPLE QUESTIONS FROM MY UPCOMING   BOOK.docx"
   },
   {
-    "id": 43,
+    "id": 40,
     "correctOptionKey": "D",
     "translations": {
       "en": {
@@ -1226,7 +1170,7 @@
     "source": "SAMPLE QUESTIONS FROM MY UPCOMING   BOOK.docx"
   },
   {
-    "id": 44,
+    "id": 41,
     "correctOptionKey": "D",
     "translations": {
       "en": {
@@ -1252,7 +1196,7 @@
     "source": "SAMPLE QUESTIONS FROM MY UPCOMING   BOOK.docx"
   },
   {
-    "id": 45,
+    "id": 42,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1278,7 +1222,7 @@
     "source": "SAMPLE QUESTIONS FROM MY UPCOMING   BOOK.docx"
   },
   {
-    "id": 46,
+    "id": 43,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1304,7 +1248,7 @@
     "source": "SAMPLE QUESTIONS FROM MY UPCOMING   BOOK.docx"
   },
   {
-    "id": 47,
+    "id": 44,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -1330,7 +1274,7 @@
     "source": "SAMPLE QUESTIONS FROM MY UPCOMING   BOOK.docx"
   },
   {
-    "id": 48,
+    "id": 45,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1356,7 +1300,7 @@
     "source": "SAMPLE QUESTIONS FROM MY UPCOMING   BOOK.docx"
   },
   {
-    "id": 49,
+    "id": 46,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1382,7 +1326,7 @@
     "source": "SAMPLE QUESTIons .docx"
   },
   {
-    "id": 50,
+    "id": 47,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1408,7 +1352,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 51,
+    "id": 48,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1434,7 +1378,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 52,
+    "id": 49,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1460,7 +1404,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 53,
+    "id": 50,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1488,7 +1432,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 54,
+    "id": 51,
     "correctOptionKey": "D",
     "translations": {
       "fr": {
@@ -1514,7 +1458,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 55,
+    "id": 52,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1540,7 +1484,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 56,
+    "id": 53,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1568,7 +1512,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 57,
+    "id": 54,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1594,7 +1538,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 58,
+    "id": 55,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1620,7 +1564,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 59,
+    "id": 56,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1646,7 +1590,7 @@
     "source": "model questions -french (1).docx"
   },
   {
-    "id": 61,
+    "id": 57,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1672,7 +1616,7 @@
     "source": "model questions -french rep.docx"
   },
   {
-    "id": 62,
+    "id": 58,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -1698,7 +1642,7 @@
     "source": "model questions -french rep.docx"
   },
   {
-    "id": 63,
+    "id": 59,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1724,7 +1668,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 64,
+    "id": 60,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -1750,7 +1694,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 65,
+    "id": 61,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1776,7 +1720,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 66,
+    "id": 62,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1804,7 +1748,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 67,
+    "id": 63,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1830,7 +1774,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 68,
+    "id": 64,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -1856,7 +1800,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 69,
+    "id": 65,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -1884,7 +1828,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 70,
+    "id": 66,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -1912,7 +1856,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 71,
+    "id": 67,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -1938,7 +1882,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 72,
+    "id": 68,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -1966,7 +1910,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 73,
+    "id": 69,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -1994,7 +1938,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 74,
+    "id": 70,
     "correctOptionKey": "A",
     "translations": {
       "en": {
@@ -2022,7 +1966,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 75,
+    "id": 71,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -2050,7 +1994,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 76,
+    "id": 72,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -2078,7 +2022,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 77,
+    "id": 73,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -2106,7 +2050,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 78,
+    "id": 74,
     "correctOptionKey": "A",
     "translations": {
       "en": {
@@ -2134,7 +2078,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 79,
+    "id": 75,
     "correctOptionKey": "D",
     "translations": {
       "en": {
@@ -2162,7 +2106,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 80,
+    "id": 76,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -2188,7 +2132,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 81,
+    "id": 77,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -2216,7 +2160,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 82,
+    "id": 78,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -2244,7 +2188,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 83,
+    "id": 79,
     "correctOptionKey": "C",
     "translations": {
       "en": {
@@ -2270,7 +2214,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 84,
+    "id": 80,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -2296,7 +2240,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 85,
+    "id": 81,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2322,7 +2266,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 86,
+    "id": 82,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2348,7 +2292,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 87,
+    "id": 83,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2376,7 +2320,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 88,
+    "id": 84,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2402,7 +2346,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 89,
+    "id": 85,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2430,7 +2374,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 90,
+    "id": 86,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2456,7 +2400,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 91,
+    "id": 87,
     "correctOptionKey": "D",
     "translations": {
       "fr": {
@@ -2482,7 +2426,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 92,
+    "id": 88,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2508,7 +2452,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 93,
+    "id": 89,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2534,7 +2478,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 94,
+    "id": 90,
     "correctOptionKey": "D",
     "translations": {
       "fr": {
@@ -2562,7 +2506,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 95,
+    "id": 91,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2590,7 +2534,7 @@
     "source": "manual_addition"
   },
   {
-    "id": 96,
+    "id": 92,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2617,7 +2561,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 93,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2644,7 +2588,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 94,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2669,7 +2613,7 @@
     "images": []
   },
   {
-    "id": 99,
+    "id": 95,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2694,7 +2638,7 @@
     "images": []
   },
   {
-    "id": 100,
+    "id": 96,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2719,7 +2663,7 @@
     "images": []
   },
   {
-    "id": 101,
+    "id": 97,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2744,7 +2688,7 @@
     "images": []
   },
   {
-    "id": 102,
+    "id": 98,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2769,7 +2713,7 @@
     "images": []
   },
   {
-    "id": 103,
+    "id": 99,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2794,7 +2738,7 @@
     "images": []
   },
   {
-    "id": 104,
+    "id": 100,
     "correctOptionKey": "A",
     "translations": {
       "fr": {
@@ -2819,7 +2763,7 @@
     "images": []
   },
   {
-    "id": 105,
+    "id": 101,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2844,7 +2788,7 @@
     "images": []
   },
   {
-    "id": 106,
+    "id": 102,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2869,7 +2813,7 @@
     "images": []
   },
   {
-    "id": 107,
+    "id": 103,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2894,7 +2838,7 @@
     "images": []
   },
   {
-    "id": 108,
+    "id": 104,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2919,7 +2863,7 @@
     "images": []
   },
   {
-    "id": 109,
+    "id": 105,
     "correctOptionKey": "D",
     "translations": {
       "fr": {
@@ -2944,7 +2888,7 @@
     "images": []
   },
   {
-    "id": 110,
+    "id": 106,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -2969,7 +2913,7 @@
     "images": []
   },
   {
-    "id": 111,
+    "id": 107,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -2994,7 +2938,7 @@
     "images": []
   },
   {
-    "id": 112,
+    "id": 108,
     "correctOptionKey": "A",
     "translations": {
       "fr": {
@@ -3021,7 +2965,7 @@
     ]
   },
   {
-    "id": 113,
+    "id": 109,
     "correctOptionKey": "A",
     "translations": {
       "fr": {
@@ -3048,7 +2992,7 @@
     ]
   },
   {
-    "id": 114,
+    "id": 110,
     "correctOptionKey": "D",
     "translations": {
       "fr": {
@@ -3073,7 +3017,7 @@
     "images": []
   },
   {
-    "id": 115,
+    "id": 111,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -3098,7 +3042,7 @@
     "images": []
   },
   {
-    "id": 116,
+    "id": 112,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -3123,7 +3067,7 @@
     "images": []
   },
   {
-    "id": 117,
+    "id": 113,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -3148,7 +3092,7 @@
     "images": []
   },
   {
-    "id": 118,
+    "id": 114,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -3173,7 +3117,7 @@
     "images": []
   },
   {
-    "id": 119,
+    "id": 115,
     "correctOptionKey": "A",
     "translations": {
       "fr": {
@@ -3198,7 +3142,7 @@
     "images": []
   },
   {
-    "id": 120,
+    "id": 116,
     "correctOptionKey": "A",
     "translations": {
       "fr": {
@@ -3223,7 +3167,7 @@
     "images": []
   },
   {
-    "id": 121,
+    "id": 117,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -3248,7 +3192,7 @@
     "images": []
   },
   {
-    "id": 122,
+    "id": 118,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -3272,7 +3216,7 @@
     }
   },
   {
-    "id": 123,
+    "id": 119,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -3296,7 +3240,7 @@
     }
   },
   {
-    "id": 124,
+    "id": 120,
     "correctOptionKey": "B",
     "translations": {
       "en": {
@@ -3320,7 +3264,7 @@
     }
   },
   {
-    "id": 125,
+    "id": 121,
     "correctOptionKey": "A",
     "translations": {
       "fr": {
@@ -3344,7 +3288,7 @@
     }
   },
   {
-    "id": 126,
+    "id": 122,
     "correctOptionKey": "B",
     "translations": {
       "fr": {
@@ -3368,7 +3312,7 @@
     }
   },
   {
-    "id": 127,
+    "id": 123,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -3392,7 +3336,7 @@
     }
   },
   {
-    "id": 128,
+    "id": 124,
     "correctOptionKey": "C",
     "translations": {
       "fr": {
@@ -3416,7 +3360,7 @@
     }
   },
   {
-    "id": 129,
+    "id": 125,
     "correctOptionKey": "A",
     "translations": {
       "fr": {
@@ -3440,7 +3384,7 @@
     }
   },
   {
-    "id": 130,
+    "id": 126,
     "correctOptionKey": "A",
     "translations": {
       "fr": {
@@ -3459,6 +3403,446 @@
           "B": "a vessel being towed",
           "C": "a fishing vessel",
           "D": "a vessel not under command"
+        }
+      }
+    }
+  },
+  {
+    "id": 127,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Qu'attendez-vous de votre assistant dans sa tâche comme veilleur ?",
+        "options": {
+          "A": "Qu'il s'assure que tous les passagers sont à l'aise sur leurs sièges.",
+          "B": "Qu'il vous aide à faire une bonne évaluation de la situation de navigation et de vous informer de tout risque de collision.",
+          "C": "Qu'il vérifie que le bateau se dirige dans la bonne direction.",
+          "D": "Qu'il vous rappelle de l'heure par sa montre."
+        }
+      },
+      "en": {
+        "question": "What do you expect from your assistant in their role as lookout?",
+        "options": {
+          "A": "That they ensure all passengers are comfortable in their seats",
+          "B": "That they help you make a proper assessment of the navigation situation and inform you of any collision risk",
+          "C": "That they verify the boat is heading in the right direction",
+          "D": "That they remind you of the time on their watch"
+        }
+      }
+    }
+  },
+  {
+    "id": 128,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Droit devant vous à une distance d'environ 200 mètres, vous remarquez un voilier faisant route directement opposée qui montre la marque suivante et il y a fort risque de collision. Qu'est-ce que cette marque de jour indique ?",
+        "options": {
+          "A": "le voilier a besoin d'assistance",
+          "B": "le voilier est aussi en train d'utiliser son moteur pour avancer",
+          "C": "le voilier est en train de pêcher à la ligne",
+          "D": "le voilier est équipé d'un moteur, mais qui est en panne."
+        }
+      },
+      "en": {
+        "question": "Directly ahead of you at a distance of approximately 200 meters, you notice a sailing vessel on an opposite course displaying the following day shape and there is a high risk of collision. What does this day shape indicate?",
+        "options": {
+          "A": "the sailing vessel needs assistance",
+          "B": "the sailing vessel is also using its engine to proceed",
+          "C": "the sailing vessel is engaged in fishing",
+          "D": "the sailing vessel is equipped with an engine, but it has broken down"
+        }
+      }
+    },
+    "imageUrl": "assets/q132.png"
+  },
+  {
+    "id": 129,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Dans cette situation, selon les règlements internationaux pour prévenir les abordages en mer, vous devez",
+        "options": {
+          "A": "changer votre cap vers tribord et maintenir une bonne distance du voilier",
+          "B": "maintenir votre cap et vitesse",
+          "C": "changer votre cap vers bâbord et maintenir une bonne distance du voilier",
+          "D": "attendre que le voilier manœuvre en premier."
+        }
+      },
+      "en": {
+        "question": "In this situation, according to the International Regulations for Preventing Collisions at Sea, you should",
+        "options": {
+          "A": "change your course to starboard and keep a safe distance from the sailing vessel",
+          "B": "maintain your course and speed",
+          "C": "change your course to port and keep a safe distance from the sailing vessel",
+          "D": "wait for the sailing vessel to manoeuvre first"
+        }
+      }
+    }
+  },
+  {
+    "id": 130,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Il est actuellement 1045 h et vous vous rendez compte que d'après le GPS votre bateau a fait une vitesse moyenne de 10 nœuds. Quelle distance le bateau peut avoir parcouru pendant ces dernières 15 minutes ?",
+        "options": {
+          "A": "5 nautiques",
+          "B": "2,5 nautiques",
+          "C": "10 nautiques",
+          "D": "12,5 nautiques"
+        }
+      },
+      "en": {
+        "question": "It is currently 1045 h and you realize that according to GPS your boat has made an average speed of 10 knots. What distance could the boat have traveled during the last 15 minutes?",
+        "options": {
+          "A": "5 nautical miles",
+          "B": "2.5 nautical miles",
+          "C": "10 nautical miles",
+          "D": "12.5 nautical miles"
+        }
+      }
+    }
+  },
+  {
+    "id": 131,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Il commence à pleuvoir à verse et la visibilité est réduite de manière drastique. Dans une telle situation, vous devez",
+        "options": {
+          "A": "réduire la vitesse et changer le cap vers bâbord.",
+          "B": "réduire la vitesse, allumer les lumières de navigation et continuer avec une extrême prudence.",
+          "C": "maintenir le cap et la vitesse",
+          "D": "augmenter la vitesse mais maintenir le cap."
+        }
+      },
+      "en": {
+        "question": "It starts to rain heavily and visibility is drastically reduced. In such a situation, you should",
+        "options": {
+          "A": "reduce speed and change course to port",
+          "B": "reduce speed, turn on navigation lights and continue with extreme caution",
+          "C": "maintain course and speed",
+          "D": "increase speed but maintain course"
+        }
+      }
+    }
+  },
+  {
+    "id": 132,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Votre assistant vous signale avoir vu un bateau légèrement sur votre bâbord droit devant. Bientôt vous vous rendez compte qu'il porte un pavillon comme indiqué ci-dessous. Ce pavillon indique que le bateau",
+        "options": {
+          "A": "a besoin d'une aide urgente",
+          "B": "est engagé dans des activités de plongée",
+          "C": "est à la dérive",
+          "D": "a eu un accident de plongée"
+        }
+      },
+      "en": {
+        "question": "Your assistant reports seeing a vessel slightly on your port side ahead. Soon you realize it is flying a flag as shown below. This flag indicates that the vessel",
+        "options": {
+          "A": "needs urgent assistance",
+          "B": "is engaged in diving activities",
+          "C": "is drifting",
+          "D": "has had a diving accident"
+        }
+      }
+    },
+    "imageUrl": "assets/q136.png"
+  },
+  {
+    "id": 133,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Vous devez dans cette situation",
+        "options": {
+          "A": "ralentir et changer le cap maintenant une distance minimale de 100 mètres",
+          "B": "ralentir et changer le cap en maintenant une distance minimale de 50 mètres",
+          "C": "ralentir et maintenir votre cap",
+          "D": "approcher le bateau pour lui porter secours."
+        }
+      },
+      "en": {
+        "question": "In this situation you must",
+        "options": {
+          "A": "slow down and change course maintaining a minimum distance of 100 meters",
+          "B": "slow down and change course maintaining a minimum distance of 50 meters",
+          "C": "slow down and maintain your course",
+          "D": "approach the vessel to provide assistance"
+        }
+      }
+    },
+    "imageUrl": "assets/placeholder-missing.png"
+  },
+  {
+    "id": 134,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Vous êtes au large de Baie du Tombeau, et vous voyez une balise cardinale exactement droit devant avec ces cônes noirs au-dessus. Tout en réalisant que vous faites cap SUD vous",
+        "options": {
+          "A": "devez laisser cette balise sur votre tribord",
+          "B": "devez laisser cette balise sur votre bâbord",
+          "C": "pouvez laisser cette balise soit sur votre bâbord ou votre tribord",
+          "D": "pouvez passer tout près de la balise parce qu'il a d'eau saine de chaque cote."
+        }
+      },
+      "en": {
+        "question": "You are off Baie du Tombeau, and you see a cardinal buoy directly ahead with these black cones above. While realizing you are heading SOUTH you",
+        "options": {
+          "A": "must leave this buoy on your starboard side",
+          "B": "must leave this buoy on your port side",
+          "C": "can leave this buoy on either your port or starboard side",
+          "D": "can pass very close to the buoy because there is safe water on each side"
+        }
+      }
+    },
+    "imageUrl": "assets/q138.png"
+  },
+  {
+    "id": 135,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Votre bateau de plaisance est à environ 2 nautiques au large de la rade de Port Louis et vous devez naviguer dans le chenal. Après avoir positionné le bateau sur les marques d'alignements, vous devez repérer",
+        "options": {
+          "A": "un ensemble de deux marques d'eaux saines",
+          "B": "des marques latérales",
+          "C": "un ensemble de deux marques spéciales",
+          "D": "un ensemble de deux marques de couleur rouge"
+        }
+      },
+      "en": {
+        "question": "Your pleasure craft is approximately 2 nautical miles off Port Louis roadstead and you must navigate in the channel. After positioning the boat on the leading marks, you must identify",
+        "options": {
+          "A": "a set of two safe water marks",
+          "B": "lateral marks",
+          "C": "a set of two special marks",
+          "D": "a set of two red marks"
+        }
+      }
+    }
+  },
+  {
+    "id": 136,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Sur quel canal du radio VHF devez-vous appeler la tour de contrôle du port de Port Louis pour obtenir l'autorisation d'entrer ?",
+        "options": {
+          "A": "canal 12 ou 16",
+          "B": "canal 61",
+          "C": "canal 18",
+          "D": "canal 69"
+        }
+      },
+      "en": {
+        "question": "On which VHF radio channel should you call the Port Louis port control tower to obtain permission to enter?",
+        "options": {
+          "A": "channel 12 or 16",
+          "B": "channel 61",
+          "C": "channel 18",
+          "D": "channel 69"
+        }
+      }
+    }
+  },
+  {
+    "id": 137,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Vous êtes dans le chenal et soudain, sur votre tribord avant à environ 100 mètres vous apercevez un bateau rapide qui va croiser votre chemin dangereusement. Dans ce cas, vous devez :",
+        "options": {
+          "A": "ralentir et faire un grand changement de cap vers tribord",
+          "B": "ralentir et faire un grand changement de cap vers bâbord",
+          "C": "maintenir votre cap et vitesse",
+          "D": "maintenir votre cap et augmenter votre vitesse pour passer devant le bateau rapide"
+        }
+      },
+      "en": {
+        "question": "You are in the channel and suddenly, on your starboard bow about 100 meters away you see a fast boat that is going to cross your path dangerously. In this case, you must:",
+        "options": {
+          "A": "slow down and make a large course change to starboard",
+          "B": "slow down and make a large course change to port",
+          "C": "maintain your course and speed",
+          "D": "maintain your course and increase your speed to pass ahead of the fast boat"
+        }
+      }
+    },
+    "imageUrl": "assets/q141.png"
+  },
+  {
+    "id": 138,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Vous êtes au large et vous voyez un grand pétrolier montrant ces marques de jour superposées. Ces marques indiquent que",
+        "options": {
+          "A": "le pétrolier s'est échoue",
+          "B": "le pétrolier est au mouillage",
+          "C": "le pétrolier ne peut pas manœuvrer d'après les règlements en raison des circonstances exceptionnelles",
+          "D": "le pétrolier a besoin d'aide"
+        }
+      },
+      "en": {
+        "question": "You are offshore and you see a large tanker displaying these vertical day shapes. These marks indicate that",
+        "options": {
+          "A": "the tanker is aground",
+          "B": "the tanker is at anchor",
+          "C": "the tanker cannot maneuver under the rules due to exceptional circumstances",
+          "D": "the tanker requires assistance"
+        }
+      }
+    },
+    "imageUrl": "assets/q142.png"
+  },
+  {
+    "id": 139,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Au large de la cote une personne abord d'une pirogue à l'intérieur du lagon faisant des signaux comme ci-dessous. Que veut vous transmettre cette personne ?",
+        "options": {
+          "A": "il salue les touristes à bord de votre bateau",
+          "B": "il a besoin d'assistance",
+          "C": "il vous indique que votre bateau se dirige vers des eaux peu profondes",
+          "D": "il vous indique que vous devez changer votre cap vers bâbord."
+        }
+      },
+      "en": {
+        "question": "Off the coast, a person aboard a pirogue inside the lagoon is making signals as shown below. What is this person trying to communicate to you?",
+        "options": {
+          "A": "they are greeting the tourists aboard your boat",
+          "B": "they need assistance",
+          "C": "they are indicating that your boat is heading towards shallow water",
+          "D": "they are indicating that you must change your course to port"
+        }
+      }
+    },
+    "imageUrl": "assets/q143.png"
+  },
+  {
+    "id": 140,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Vous remarquez sur votre bâbord, un bateau montrant les feux suivants. Ces feux indiquent que le navire",
+        "options": {
+          "A": "ne peut pas s'écarter de la route d'un autre navire de par la nature du travail qu'il fait.",
+          "B": "ne peut pas s'écarter de la route d'un autre navire, parce qu'il est en train de pêcher à la senne.",
+          "C": "ne peut pas s'écarter de la route d'un autre navire en raison des circonstances exceptionnelles",
+          "D": "est en détresse et a besoin d'assistance immédiate"
+        }
+      },
+      "en": {
+        "question": "You notice on your port side, a vessel displaying the following lights. These lights indicate that the vessel",
+        "options": {
+          "A": "cannot keep out of the way of another vessel due to the nature of the work it is doing",
+          "B": "cannot keep out of the way of another vessel because it is engaged in seine net fishing",
+          "C": "cannot keep out of the way of another vessel due to exceptional circumstances",
+          "D": "is in distress and needs immediate assistance"
+        }
+      }
+    },
+    "imageUrl": "assets/q144.png"
+  },
+  {
+    "id": 141,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Soudain, vous entendez quelqu'un hurler 'HOMME À LA MER BABORD'. Quelles sont les actions initiales que vous devez prendre ?",
+        "options": {
+          "A": "appeler la National Coast Guard par radio VHF et informer votre compagnie par téléphone cellulaire",
+          "B": "stopper les moteurs et appeler la National Coast Guard par radio VHF",
+          "C": "stopper les moteurs et jeter une bouée de sauvetage à bâbord",
+          "D": "stopper les moteurs et se jeter à l'eau pour sauver l'homme"
+        }
+      },
+      "en": {
+        "question": "Suddenly, you hear someone shout 'MAN OVERBOARD PORT SIDE'. What are the initial actions you must take?",
+        "options": {
+          "A": "call the National Coast Guard on VHF radio and inform your company by mobile phone",
+          "B": "stop the engines and call the National Coast Guard on VHF radio",
+          "C": "stop the engines and throw a lifebuoy to port",
+          "D": "stop the engines and jump into the water to rescue the person"
+        }
+      }
+    }
+  },
+  {
+    "id": 142,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Droit devant, vous remarquez un bateau roulant lentement que vous êtes en train de rattraper. Lequel de ses feux de navigation vous est visible dans ce cas ?",
+        "options": {
+          "A": "le feu de cote tribord",
+          "B": "le feu de cote bâbord",
+          "C": "le feu de poupe",
+          "D": "le feu de tête de mat"
+        }
+      },
+      "en": {
+        "question": "Directly ahead, you notice a boat moving slowly that you are overtaking. Which of its navigation lights is visible to you in this case?",
+        "options": {
+          "A": "the starboard side light",
+          "B": "the port side light",
+          "C": "the stern light",
+          "D": "the masthead light"
+        }
+      }
+    }
+  },
+  {
+    "id": 143,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Lorsque vous êtes sur le point final de l'accostage, vous vous rendez compte que quelque chose vient de percuter votre bateau. En fait, c'est une pirogue de pêche qui vient d'entrer en collision avec votre bateau. Quelle doit être votre première réaction ?",
+        "options": {
+          "A": "noter la position exacte de la collision d'après le GPS.",
+          "B": "s'assurer qu'il n'y a aucune victime ou blessé y compris sur la pirogue.",
+          "C": "s'assurer que la pirogue n'est pas endommagée",
+          "D": "s'assurer que votre bateau n'est pas endommagé"
+        }
+      },
+      "en": {
+        "question": "When you are at the final stage of docking, you realize that something has just struck your boat. In fact, it is a fishing pirogue that has just collided with your boat. What should be your first reaction?",
+        "options": {
+          "A": "note the exact position of the collision according to GPS",
+          "B": "ensure that there are no casualties or injuries including on the pirogue",
+          "C": "ensure that the pirogue is not damaged",
+          "D": "ensure that your boat is not damaged"
+        }
+      }
+    }
+  },
+  {
+    "id": 144,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Vous constatez des dommages mineurs sur la coque du côté tribord et tout semble normal. Selon la Tourism Authority Act 2006, vous",
+        "options": {
+          "A": "n'êtes pas obligé de rapporter ce cas de collision à la NCG parce qu'il n'y a eu que des dommages mineurs",
+          "B": "devez rapporter ce cas de collision à la NCG dans un délai de 5 jours",
+          "C": "devez rapporter ce cas de collision à la NCG le plus tôt possible pendant les 24 heures qui suivent",
+          "D": "n'avez pas besoin de rapporter ce cas de collision à la NCG parce qu'il n'y a pas eu de blessé ou de victime"
+        }
+      },
+      "en": {
+        "question": "You notice minor damage to the hull on the starboard side and everything seems normal. According to the Tourism Authority Act 2006, you",
+        "options": {
+          "A": "are not required to report this collision case to the NCG because there was only minor damage",
+          "B": "must report this collision case to the NCG within 5 days",
+          "C": "must report this collision case to the NCG as soon as possible within 24 hours",
+          "D": "do not need to report this collision case to the NCG because there were no injuries or casualties"
         }
       }
     }
