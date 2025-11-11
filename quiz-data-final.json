@@ -161,7 +161,8 @@
         "options": {
           "C": "come to port by not more than 15 degrees",
           "A": "come to course to 205 ◦",
-          "D": "keep well clear since it is an isolated danger buoy"
+          "D": "keep well clear since it is an isolated danger buoy",
+          "B": "stay on the same course and pass about 100 m to starboard of this buoy"
         }
       },
       "fr": {
@@ -169,7 +170,8 @@
         "options": {
           "C": "venir à bâbord de pas plus de 15 degrés",
           "A": "venir au cap 205°",
-          "D": "rester bien à l'écart car c'est une bouée de danger isolé"
+          "D": "rester bien à l'écart car c'est une bouée de danger isolé",
+          "B": "rester sur le même cap et passer à environ 100 m à tribord de cette bouée"
         }
       },
       "ru": {
@@ -556,12 +558,12 @@
         }
       },
       "fr": {
-        "question": "Ce navire",
+        "question": "Vous êtes en mer au large du port de Port Louis et vous entendez un appel radio commençant par les mots SECURITE SECURITE SECURITE. Cela signifie que ce qui suit sera un message concernant",
         "options": {
-          "A": "est restreint dans sa capacité de manoeuvre.",
-          "B": "est handicapé par son tirant d’eau.",
-          "C": "est non-maître de sa manœuvre.",
-          "D": "s’est échoué"
+          "A": "un cas de danger imminent pour la vie humaine",
+          "B": "un cas où la sécurité de la navigation peut être compromise",
+          "C": "un cas de navire immobilisé par une panne de moteur",
+          "D": "un cas de navire transportant des marchandises dangereuses"
         }
       },
       "ru": {
@@ -718,7 +720,7 @@
   },
   {
     "id": 25,
-    "correctOptionKey": "B",
+    "correctOptionKey": "C",
     "translations": {
       "en": {
         "question": "Which of the following statements is FALSE regarding VHF channel 16?",
@@ -951,7 +953,7 @@
   },
   {
     "id": 33,
-    "correctOptionKey": "B",
+    "correctOptionKey": "A",
     "translations": {
       "en": {
         "question": "What are the three elements that make up the fire triangle?",
@@ -1119,7 +1121,7 @@
   },
   {
     "id": 39,
-    "correctOptionKey": "B",
+    "correctOptionKey": "D",
     "translations": {
       "en": {
         "question": "What is meant by ‘maintaining a lookout at sea’?",
@@ -3241,7 +3243,7 @@
   },
   {
     "id": 120,
-    "correctOptionKey": "B",
+    "correctOptionKey": "C",
     "translations": {
       "en": {
         "question": "Which one of the following statements about VHF channel 16 is FALSE?",
@@ -3846,5 +3848,32 @@
         }
       }
     }
+  },
+  {
+    "id": 145,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Ce navire",
+        "options": {
+          "A": "est restreint dans sa capacité de manoeuvre.",
+          "B": "est handicapé par son tirant d’eau.",
+          "C": "est non-maître de sa manœuvre.",
+          "D": "s’est échoué"
+        }
+      },
+      "en": {
+        "question": "This vessel",
+        "options": {
+          "A": "is restricted in its ability to maneuver",
+          "B": "is constrained by its draft",
+          "C": "is not under command",
+          "D": "has run aground"
+        }
+      }
+    },
+    "images": [
+      "assets/q79.png"
+    ]
   }
 ]
