@@ -25,8 +25,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "В каком из следующих сценариев шкипер совершит правонарушение в соответствии с Законом о туризме 2006 года?",
+        "options": {
+          "A": "управление прогулочным судном без второго человека на борту для несения вахты",
+          "B": "управление прогулочным судном без навигационных огней в лунную ночь",
+          "C": "управление прогулочным судном со скоростью 27 узлов в открытом море, когда другие суда не видны",
+          "D": "управление прогулочным судном на расстоянии 21,5 морских миль от берега Флик-ан-Флак, имея категорию"
+        }
       }
     },
     "images": []
@@ -54,8 +59,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "При сообщении о положении вашего судна в море с помощью этого магнитного компаса необходимо указать правильное направление относительно маяка как",
+        "options": {
+          "A": "345°",
+          "B": "185°",
+          "C": "350°",
+          "D": "165°"
+        }
       }
     },
     "images": [
@@ -85,8 +95,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Этот знак указывает на",
+        "options": {
+          "A": "безопасные воды",
+          "B": "изолированную опасность",
+          "C": "опасность слева",
+          "D": "опасность справа"
+        }
       }
     },
     "images": [
@@ -116,13 +131,16 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Изолированная опасность обозначена следующим знаком",
+        "options": {
+          "A": "красный конус",
+          "B": "зеленый конус",
+          "C": "черные сферы на красном и черном буе",
+          "D": "красные и белые вертикальные полосы"
+        }
       }
     },
-    "images": [
-      "assets/q4_0.png"
-    ]
+    "images": []
   },
   {
     "id": 5,
@@ -147,8 +165,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Шкипер может получить информацию о погоде на ВМФ канале",
+        "options": {
+          "A": "12",
+          "B": "16",
+          "C": "71",
+          "D": "72"
+        }
       }
     },
     "images": [
@@ -178,8 +201,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "В соответствии с МППСС, когда два судна с механическим двигателем идут прямо друг на друга так, что существует риск столкновения, какой маневр должен выполнить шкипер?",
+        "options": {
+          "A": "изменить курс влево и пройти правым бортом к правому борту другого судна",
+          "B": "остаться на том же курсе и пройти примерно в 100 м справа от этого буя",
+          "C": "изменить курс вправо и пройти левым бортом к левому борту другого судна",
+          "D": "изменить курс вправо и пройти правым бортом к правому борту другого судна"
+        }
       }
     },
     "images": [
@@ -209,8 +237,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Что означает МППСС?",
+        "options": {
+          "A": "Международные правила предупреждения столкновений на море",
+          "B": "Международная конвенция по охране человеческой жизни на море",
+          "C": "Международный кодекс безопасности судоходства",
+          "D": "Международная ассоциация портов и гаваней"
+        }
       }
     },
     "images": []
@@ -238,8 +271,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Порт находится в следующем направлении от вашего текущего местоположения",
+        "options": {
+          "A": "северо-восток",
+          "B": "юго-запад",
+          "C": "северо-запад",
+          "D": "юго-восток"
+        }
       }
     },
     "images": [
@@ -269,8 +307,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Вы плывете на север, и ветер дует с северо-востока. Направление ветра относительно вашего судна",
+        "options": {
+          "A": "справа по носу",
+          "B": "слева по носу",
+          "C": "справа по корме",
+          "D": "слева по корме"
+        }
       }
     },
     "images": [
@@ -300,8 +343,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Имея компас, показанный выше, текущий курс судна",
+        "options": {
+          "A": "045°",
+          "B": "090°",
+          "C": "135°",
+          "D": "270°"
+        }
       }
     },
     "images": []
@@ -329,8 +377,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "В соответствии с кардинальной системой буев это",
+        "options": {
+          "A": "северный буй",
+          "B": "южный буй",
+          "C": "восточный буй",
+          "D": "западный буй"
+        }
       }
     },
     "images": [
@@ -360,8 +413,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Максимальная скорость для прогулочных судов в лагуне составляет",
+        "options": {
+          "A": "5 узлов",
+          "B": "10 узлов",
+          "C": "15 узлов",
+          "D": "20 узлов"
+        }
       }
     },
     "images": []
@@ -389,8 +447,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Пожалуйста, укажите название части А судна",
+        "options": {
+          "A": "корма",
+          "B": "левый борт",
+          "C": "нос",
+          "D": "правый борт"
+        }
       }
     },
     "images": [
@@ -420,8 +483,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Шкипер может связаться со станцией управления порта Луи, Port Louis Harbour Control, на канале ВМФ",
+        "options": {
+          "A": "12",
+          "B": "16",
+          "C": "14",
+          "D": "71"
+        }
       }
     },
     "images": []
@@ -449,8 +517,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Угловое расстояние между истинным севером и магнитным севером называется",
+        "options": {
+          "A": "компасная девиация",
+          "B": "магнитное склонение",
+          "C": "азимут",
+          "D": "пеленг"
+        }
       }
     },
     "images": [
@@ -480,8 +553,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Безопасные воды обозначены буем следующего типа",
+        "options": {
+          "A": "красный конус",
+          "B": "зеленый конус",
+          "C": "черные сферы на красном и черном буе",
+          "D": "красные и белые вертикальные полосы с красной сферой"
+        }
       }
     },
     "images": []
@@ -509,8 +587,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Боковая система буев обозначает",
+        "options": {
+          "A": "безопасные воды",
+          "B": "левую и правую стороны канала",
+          "C": "изолированную опасность",
+          "D": "специальную зону"
+        }
       }
     },
     "images": [
@@ -541,8 +624,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Согласно приведенному выше рисунку, вы выходите из гавани по каналу. Какой из следующих курсов вам следует выбрать?",
+        "options": {
+          "A": "оставить красный буй слева и зеленый буй справа",
+          "B": "оставить зеленый буй слева и красный буй справа",
+          "C": "оставить красный буй с любой стороны",
+          "D": "оставить зеленый буй с любой стороны"
+        }
       }
     },
     "images": []
@@ -570,8 +658,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Вы находитесь в море у побережья Порт-Луи и слышите радиовызов, начинающийся со слов SECURITE SECURITE SECURITE. Это означает, что следующее сообщение касается",
+        "options": {
+          "A": "опасности для жизни",
+          "B": "безопасности навигации",
+          "C": "срочного медицинского сообщения",
+          "D": "пожара на борту судна"
+        }
       }
     },
     "images": []
@@ -599,8 +692,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Какое из следующих утверждений НЕВЕРНО в отношении морских буев?",
+        "options": {
+          "A": "кардинальные буи указывают на четыре квадранта относительно опасности",
+          "B": "боковые буи обозначают левую и правую стороны канала",
+          "C": "буи изолированной опасности устанавливаются прямо над опасностью",
+          "D": "буи безопасных вод всегда красного цвета"
+        }
       }
     },
     "images": []
@@ -628,8 +726,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "В соответствии с МППСС, судно, которое обязано уступить дорогу, называется",
+        "options": {
+          "A": "судно, которое должно уступить дорогу",
+          "B": "судно, которое должно держаться на курсе",
+          "C": "привилегированное судно",
+          "D": "обгоняющее судно"
+        }
       }
     },
     "images": []
@@ -657,8 +760,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Канал бедствия ВМФ",
+        "options": {
+          "A": "канал 12",
+          "B": "канал 14",
+          "C": "канал 16",
+          "D": "канал 71"
+        }
       }
     },
     "images": []
@@ -686,8 +794,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Что из следующего НЕ является частью пожарного треугольника?",
+        "options": {
+          "A": "кислород",
+          "B": "азот",
+          "C": "тепло",
+          "D": "топливо"
+        }
       }
     },
     "images": []
@@ -715,8 +828,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Какое из следующих утверждений НЕВЕРНО?",
+        "options": {
+          "A": "ВМФ канал 16 является международным каналом вызова и бедствия",
+          "B": "ВМФ канал 16 можно использовать для связи между судами в пределах гавани",
+          "C": "ВМФ канал 16 используется береговой охраной для вызова судов",
+          "D": "ВМФ канал 16 следует использовать только для первоначального вызова, а затем перейти на рабочий канал"
+        }
       }
     },
     "images": []
@@ -744,8 +862,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Какое из следующих утверждений НЕВЕРНО?",
+        "options": {
+          "A": "держите якорную цепь в чистоте и смазке",
+          "B": "проверьте крепление якорной цепи к судну",
+          "C": "очистите якорь от грязи или водорослей после использования",
+          "D": "храните якорь незакрепленным на палубе"
+        }
       }
     },
     "images": []
@@ -773,8 +896,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Вахта должна вестись",
+        "options": {
+          "A": "только визуально",
+          "B": "только по радару",
+          "C": "только на слух",
+          "D": "всеми доступными средствами"
+        }
       }
     },
     "images": []
@@ -802,8 +930,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "При буксировке воднолыжника шкипер должен иметь на борту",
+        "options": {
+          "A": "по крайней мере одного другого компетентного человека для наблюдения за воднолыжником",
+          "B": "медицинскую аптечку",
+          "C": "запасной буксировочный трос",
+          "D": "запасной спасательный жилет"
+        }
       }
     },
     "images": []
@@ -831,8 +964,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Правый борт судна - это",
+        "options": {
+          "A": "передняя часть",
+          "B": "задняя часть",
+          "C": "правая сторона, если смотреть вперед",
+          "D": "левая сторона, если смотреть вперед"
+        }
       }
     },
     "images": []
@@ -860,8 +998,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Если течение идет против ветра, море будет",
+        "options": {
+          "A": "спокойнее",
+          "B": "более неспокойным",
+          "C": "без изменений",
+          "D": "более предсказуемым"
+        }
       }
     },
     "images": []
@@ -889,8 +1032,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "При выходе из гавани по каналу какой буй следует оставить слева?",
+        "options": {
+          "A": "красный буй",
+          "B": "зеленый буй",
+          "C": "желтый буй",
+          "D": "буй безопасных вод"
+        }
       }
     },
     "images": []
@@ -918,8 +1066,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "В соответствии с МППСС, какое из следующих судов имеет право прохода?",
+        "options": {
+          "A": "парусное судно над судном с механическим двигателем",
+          "B": "судно с механическим двигателем над парусным судном",
+          "C": "большее судно над меньшим",
+          "D": "быстрое судно над медленным"
+        }
       }
     },
     "images": []
@@ -947,8 +1100,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Какое из следующих действий НЕ рекомендуется при постановке на якорь?",
+        "options": {
+          "A": "выбрать защищенное место",
+          "B": "проверить глубину воды",
+          "C": "выпустить достаточную длину якорной цепи",
+          "D": "заякориться в главном судоходном канале"
+        }
       }
     },
     "images": [],
@@ -977,8 +1135,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Спасательные жилеты должны",
+        "options": {
+          "A": "храниться в запертом шкафчике",
+          "B": "быть доступными для всех на борту",
+          "C": "надеваться только детьми",
+          "D": "надеваться только в плохую погоду"
+        }
       }
     },
     "images": []
@@ -1006,8 +1169,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "При встрече с другим судном лоб в лоб, какой маневр должен выполнить каждый шкипер?",
+        "options": {
+          "A": "повернуть влево",
+          "B": "повернуть вправо",
+          "C": "остановиться",
+          "D": "подать звуковой сигнал"
+        }
       }
     },
     "images": []
@@ -1035,8 +1203,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Минимальный возраст для получения лицензии шкипера категории A составляет",
+        "options": {
+          "A": "16 лет",
+          "B": "18 лет",
+          "C": "21 год",
+          "D": "25 лет"
+        }
       }
     },
     "images": []
@@ -1064,8 +1237,13 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "",
-        "options": {}
+        "question": "Огни судна должны быть включены",
+        "options": {
+          "A": "только ночью",
+          "B": "от заката до рассвета и при ограниченной видимости",
+          "C": "только в тумане",
+          "D": "только при входе в гавань"
+        }
       }
     },
     "images": []
@@ -1090,6 +1268,15 @@ export const quizData = [
           "B": "opérer un bateau de plaisance seul la nuit",
           "C": "ne pas présenter la licence de skipper ou une copie de celle-ci lorsque demandée par un agent autorisé",
           "D": "opérer un bateau de plaisance la nuit sans feux de navigation"
+        }
+      },
+      "ru": {
+        "question": "Красная ракета означает",
+        "options": {
+          "A": "требуется помощь",
+          "B": "судно стоит на якоре",
+          "C": "судно ведет рыболовство",
+          "D": "судно маневрирует"
         }
       }
     },
@@ -1117,6 +1304,15 @@ export const quizData = [
           "C": "lorsqu'il doit arriver à destination à temps",
           "D": "lorsqu'il navigue dans une zone de visibilité réduite"
         }
+      },
+      "ru": {
+        "question": "При движении задним ходом румпель должен быть повернут",
+        "options": {
+          "A": "в том же направлении, куда вы хотите, чтобы пошла корма",
+          "B": "в противоположном направлении от того, куда вы хотите, чтобы пошла корма",
+          "C": "всегда влево",
+          "D": "всегда вправо"
+        }
       }
     },
     "images": [],
@@ -1142,6 +1338,15 @@ export const quizData = [
           "B": "surveiller uniquement la présence d'autres navires sur le radar",
           "C": "maintenir uniquement une veille auditive sur le canal VHF 16",
           "D": "utiliser tous les moyens disponibles à bord du navire pour déterminer s'il existe un risque d'abordage"
+        }
+      },
+      "ru": {
+        "question": "Лицензия шкипера категории A позволяет управлять прогулочным судном на расстоянии до",
+        "options": {
+          "A": "3 морских миль от берега",
+          "B": "5 морских миль от берега",
+          "C": "10 морских миль от берега",
+          "D": "15 морских миль от берега"
         }
       }
     },
@@ -1169,6 +1374,15 @@ export const quizData = [
           "C": "90 degrés",
           "D": "30 degrés"
         }
+      },
+      "ru": {
+        "question": "При якорной стоянке рекомендуется выпустить якорную цепь длиной",
+        "options": {
+          "A": "равной глубине воды",
+          "B": "в два раза больше глубины воды",
+          "C": "в три-четыре раза больше глубины воды",
+          "D": "в пять раз больше глубины воды"
+        }
       }
     },
     "images": [],
@@ -1194,6 +1408,15 @@ export const quizData = [
           "B": "Une baisse de température",
           "C": "Une augmentation de la vitesse du vent",
           "D": "Une baisse de la pression atmosphérique de plus de 3 mb après correction pour la hauteur du baromètre au-dessus du niveau de la mer"
+        }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений НЕВЕРНО относительно огней судна?",
+        "options": {
+          "A": "зеленый огонь показывается с правого борта",
+          "B": "красный огонь показывается с левого борта",
+          "C": "белый огонь показывается на корме",
+          "D": "желтый огонь показывается на носу"
         }
       }
     },
@@ -1221,6 +1444,15 @@ export const quizData = [
           "C": "Un exposé sur l'expérience du skipper dans la conduite de navires en mer",
           "D": "Une description du profil de l'entreprise pour laquelle ils travaillent"
         }
+      },
+      "ru": {
+        "question": "Что означает MAYDAY?",
+        "options": {
+          "A": "срочное медицинское сообщение",
+          "B": "сообщение о безопасности",
+          "C": "сигнал бедствия",
+          "D": "просьба о погодной информации"
+        }
       }
     },
     "images": [],
@@ -1246,6 +1478,15 @@ export const quizData = [
           "B": "Réduire la vitesse",
           "C": "Vérifier la profondeur de l'eau à l'aide du sondeur",
           "D": "Cesser de maintenir une veille visuelle"
+        }
+      },
+      "ru": {
+        "question": "Лицензия шкипера должна быть продлена каждые",
+        "options": {
+          "A": "1 год",
+          "B": "2 года",
+          "C": "3 года",
+          "D": "5 лет"
         }
       }
     },
@@ -1273,6 +1514,15 @@ export const quizData = [
           "C": "traverser le chenal d'un côté à l'autre de manière à gêner le passage d'un grand navire",
           "D": "jeter l'ancre en cas d'urgence"
         }
+      },
+      "ru": {
+        "question": "При буксировке воднолыжника минимальное расстояние от других судов или пловцов должно быть",
+        "options": {
+          "A": "50 метров",
+          "B": "100 метров",
+          "C": "150 метров",
+          "D": "200 метров"
+        }
       }
     },
     "images": [],
@@ -1298,6 +1548,15 @@ export const quizData = [
           "B": "En affichant une boule noire à l'avant uniquement et un feu blanc visible sur tout l'horizon à l'arrière du navire",
           "C": "En affichant une boule noire à l'avant, un feu jaune clignotant à l'arrière, et en émettant un son prolongé suivi de 2 sons courts à des intervalles ne dépassant pas 2 minutes",
           "D": "En affichant une boule noire à l'avant du navire et à l'arrière 3 boules noires en ligne verticale"
+        }
+      },
+      "ru": {
+        "question": "Корма судна - это",
+        "options": {
+          "A": "передняя часть",
+          "B": "задняя часть",
+          "C": "правая сторона",
+          "D": "левая сторона"
         }
       }
     },
@@ -1325,6 +1584,15 @@ export const quizData = [
           "C": "Jeter la bouée de sauvetage vers la personne, placer un veilleur, manœuvre du bateau",
           "D": "Jeter la bouée de sauvetage vers la personne, appel Mayday sur le canal VHF 16, manœuvre du bateau"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих действий следует предпринять в первую очередь при обнаружении пожара на борту?",
+        "options": {
+          "A": "прыгнуть за борт",
+          "B": "подать сигнал бедствия",
+          "C": "отключить топливо и электричество",
+          "D": "попытаться потушить огонь"
+        }
       }
     },
     "images": [],
@@ -1350,6 +1618,15 @@ export const quizData = [
           "B": "The craft is not allowed to navigate beyond 12 nautical miles from shore",
           "C": "The craft is licensed for commercial activity",
           "D": "The craft can also navigate in the lagoon"
+        }
+      },
+      "ru": {
+        "question": "Левый борт судна - это",
+        "options": {
+          "A": "передняя часть",
+          "B": "задняя часть",
+          "C": "правая сторона, если смотреть вперед",
+          "D": "левая сторона, если смотреть вперед"
         }
       }
     },
@@ -1377,6 +1654,15 @@ export const quizData = [
           "C": "the vertical distance between the waterline and the gunwale of the boat",
           "D": "the distance between the bow and the stern of the boat"
         }
+      },
+      "ru": {
+        "question": "Максимальная скорость в пределах 300 метров от берега составляет",
+        "options": {
+          "A": "3 узла",
+          "B": "5 узлов",
+          "C": "8 узлов",
+          "D": "10 узлов"
+        }
       }
     },
     "images": [],
@@ -1403,6 +1689,15 @@ export const quizData = [
           "C": "3 nautical miles",
           "D": "9 nautical miles"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно ВМФ радио?",
+        "options": {
+          "A": "канал 16 можно использовать для длительных разговоров",
+          "B": "можно передавать на канале 16 в любое время",
+          "C": "после установления связи на канале 16 следует перейти на рабочий канал",
+          "D": "канал 16 предназначен только для коммерческих судов"
+        }
       }
     },
     "images": [],
@@ -1428,6 +1723,15 @@ export const quizData = [
           "B": "a change of course of 10 to 15 degrees to starboard",
           "C": "stop and engage engines astern",
           "D": "maintain your course and speed because you are on the privileged vessel"
+        }
+      },
+      "ru": {
+        "question": "При движении в тумане судно должно",
+        "options": {
+          "A": "двигаться с максимальной скоростью",
+          "B": "подавать звуковые сигналы",
+          "C": "выключить все огни",
+          "D": "продолжать движение без изменений"
         }
       }
     },
@@ -1457,6 +1761,15 @@ export const quizData = [
           "C": "white in color and visible on the whole horizon.",
           "D": "white in color and visible over an angle of 135 degrees."
         }
+      },
+      "ru": {
+        "question": "Оранжевый дым означает",
+        "options": {
+          "A": "судно празднует",
+          "B": "сигнал бедствия",
+          "C": "судно маневрирует",
+          "D": "судно стоит на якоре"
+        }
       }
     },
     "images": [],
@@ -1483,6 +1796,15 @@ export const quizData = [
           "C": "a presentation by the skipper of their expertise in the field of safety at sea",
           "D": "a presentation of the company that manages the boat"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений НЕВЕРНО?",
+        "options": {
+          "A": "спасательные жилеты должны быть в хорошем состоянии",
+          "B": "дети должны всегда носить спасательные жилеты на борту",
+          "C": "спасательные жилеты должны соответствовать размеру владельца",
+          "D": "спасательные жилеты не нужны в спокойную погоду"
+        }
       }
     },
     "images": [],
@@ -1508,6 +1830,15 @@ export const quizData = [
           "B": "release the aft line, rudder to zero, both engines astern",
           "C": "release the aft line, rudder to the right, port engine forward",
           "D": "release both lines, rudder to the left, both engines forward"
+        }
+      },
+      "ru": {
+        "question": "Это",
+        "options": {
+          "A": "восточный кардинальный буй",
+          "B": "западный кардинальный буй",
+          "C": "северный кардинальный буй",
+          "D": "южный кардинальный буй"
         }
       }
     },
@@ -1537,6 +1868,15 @@ export const quizData = [
           "C": "90 degrees",
           "D": "5 degrees"
         }
+      },
+      "ru": {
+        "question": "Судно, обгоняющее другое судно, должно",
+        "options": {
+          "A": "держаться подальше от обгоняемого судна",
+          "B": "иметь право прохода",
+          "C": "подать три коротких звуковых сигнала",
+          "D": "обгонять только с правой стороны"
+        }
       }
     },
     "images": [],
@@ -1562,6 +1902,15 @@ export const quizData = [
           "B": "Stability",
           "C": "Displacement",
           "D": "Balance"
+        }
+      },
+      "ru": {
+        "question": "Наиболее важным фактором при определении безопасной скорости является",
+        "options": {
+          "A": "мощность двигателя",
+          "B": "видимость и условия движения",
+          "C": "размер судна",
+          "D": "расстояние до порта"
         }
       }
     },
@@ -1589,6 +1938,15 @@ export const quizData = [
           "C": "To arrive at the destination on time",
           "D": "To communicate regularly with the Coast Guard"
         }
+      },
+      "ru": {
+        "question": "Это знак",
+        "options": {
+          "A": "безопасных вод",
+          "B": "изолированной опасности",
+          "C": "западного кардинального буя",
+          "D": "специальной зоны"
+        }
       }
     },
     "images": [],
@@ -1614,6 +1972,15 @@ export const quizData = [
           "B": "Red and green",
           "C": "Yellow and black",
           "D": "Blue and white"
+        }
+      },
+      "ru": {
+        "question": "Якорь должен быть сброшен",
+        "options": {
+          "A": "после остановки судна",
+          "B": "на полной скорости",
+          "C": "только в глубокой воде",
+          "D": "только в мелкой воде"
         }
       }
     },
@@ -1641,6 +2008,15 @@ export const quizData = [
           "C": "to mark areas of danger",
           "D": "to mark anchorage areas"
         }
+      },
+      "ru": {
+        "question": "Согласно МППСС, если два судна с механическим двигателем пересекают курсы так, что существует риск столкновения",
+        "options": {
+          "A": "оба судна должны повернуть вправо",
+          "B": "судно, у которого другое судно справа, должно уступить дорогу",
+          "C": "судно, у которого другое судно слева, должно уступить дорогу",
+          "D": "большее судно имеет право прохода"
+        }
       }
     },
     "images": [],
@@ -1666,6 +2042,15 @@ export const quizData = [
           "B": "donner des instructions claires au skipper qu'un maximum de 14 personnes embarquent sur le bateau, lui y compris",
           "C": "transmettre au skipper les heures de marée haute et de marée basse",
           "D": "conseiller au skipper de ne jamais modifier le cap vers bâbord dans aucune situation en mer"
+        }
+      },
+      "ru": {
+        "question": "Человек за бортом! Что следует сделать в первую очередь?",
+        "options": {
+          "A": "прыгнуть за ним",
+          "B": "бросить спасательный круг",
+          "C": "подать сигнал бедствия MAYDAY",
+          "D": "развернуть судно"
         }
       }
     },
@@ -1693,6 +2078,15 @@ export const quizData = [
           "C": "exploiter un bateau de plaisance à des fins privées alors qu'il n'a que 16 ans",
           "D": "faire naviguer un bateau de plaisance à une vitesse de 12 nœuds dans le chenal de Grand River South East"
         }
+      },
+      "ru": {
+        "question": "Якорный огонь - это",
+        "options": {
+          "A": "красный огонь на корме",
+          "B": "зеленый огонь на носу",
+          "C": "белый круговой огонь",
+          "D": "желтый мигающий огонь"
+        }
       }
     },
     "images": [],
@@ -1719,6 +2113,15 @@ export const quizData = [
           "C": "être visible sur votre côté droit",
           "D": "être visible mais de couleur verte"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих действий НЕ рекомендуется перед выходом в море?",
+        "options": {
+          "A": "проверить прогноз погоды",
+          "B": "проверить топливо и воду",
+          "C": "сообщить кому-то о вашем плане",
+          "D": "выйти без проверки оборудования"
+        }
       }
     },
     "images": [],
@@ -1744,6 +2147,15 @@ export const quizData = [
           "B": "au relèvement 022° T depuis le phare Ilot Benoit",
           "C": "au sud-ouest du phare Ilot Benoit",
           "D": "à l'est du phare Ilot Benoit"
+        }
+      },
+      "ru": {
+        "question": "Килеватость судна - это",
+        "options": {
+          "A": "угол наклона судна",
+          "B": "глубина судна под водой",
+          "C": "ширина судна",
+          "D": "длина судна"
         }
       }
     },
@@ -1773,6 +2185,15 @@ export const quizData = [
           "C": "18 nœuds",
           "D": "24 nœuds"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО?",
+        "options": {
+          "A": "судно с механическим двигателем всегда имеет право прохода",
+          "B": "парусное судно всегда имеет право прохода",
+          "C": "судно, ограниченное в маневренности, имеет право прохода",
+          "D": "быстрое судно имеет право прохода"
+        }
       }
     },
     "images": [],
@@ -1799,6 +2220,15 @@ export const quizData = [
           "C": "dans l'hémisphère nord et à l'est du méridien de Greenwich",
           "D": "sur une longitude qui est à l'ouest du méridien de Greenwich sous-tendant un angle de 14,701 minutes au centre de la Terre"
         }
+      },
+      "ru": {
+        "question": "При подходе к другому судну ночью вы видите зеленый огонь. Это означает, что вы видите",
+        "options": {
+          "A": "левый борт судна",
+          "B": "правый борт судна",
+          "C": "корму судна",
+          "D": "нос судна"
+        }
       }
     },
     "images": [],
@@ -1824,6 +2254,15 @@ export const quizData = [
           "B": "augmenter la vitesse jusqu'à 16 nœuds et passer à pas moins de 50 mètres sous le vent.",
           "C": "ralentir et changer de cap à 320° C",
           "D": "ralentir et passer suffisamment près de la bouée mais sous le vent"
+        }
+      },
+      "ru": {
+        "question": "Минимальное количество спасательных жилетов на борту должно равняться",
+        "options": {
+          "A": "половине количества людей на борту",
+          "B": "количеству людей на борту",
+          "C": "количеству людей на борту плюс один",
+          "D": "двум на каждое судно"
         }
       }
     },
@@ -1853,6 +2292,15 @@ export const quizData = [
           "C": "C'est l'une des deux bouées latérales",
           "D": "Elle doit être laissée sur votre côté bâbord lorsque vous vous dirigez vers la haute mer depuis un port"
         }
+      },
+      "ru": {
+        "question": "Согласно приведенному выше изображению, если вы входите в гавань, вы должны оставить",
+        "options": {
+          "A": "красный буй слева и зеленый буй справа",
+          "B": "зеленый буй слева и красный буй справа",
+          "C": "оба буя справа",
+          "D": "оба буя слева"
+        }
       }
     },
     "images": [
@@ -1881,6 +2329,15 @@ export const quizData = [
           "C": "des marées HAUTES plus hautes et des marées BASSES plus basses",
           "D": "des courants de marée faibles dans et hors des passes"
         }
+      },
+      "ru": {
+        "question": "VHF означает",
+        "options": {
+          "A": "очень высокая частота",
+          "B": "изменяемая высокая частота",
+          "C": "вертикальная высокая частота",
+          "D": "видимая высокая частота"
+        }
       }
     },
     "images": [],
@@ -1906,6 +2363,15 @@ export const quizData = [
           "B": "conseillant l'officier de quart sur le pont quant au moment de changer de cap pour éviter une collision",
           "C": "signalant la présence d'autres navires ou dangers afin que l'officier de quart sur le pont puisse évaluer s'il y a un risque de collision",
           "D": "signalant les changements de conditions météorologiques"
+        }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений НЕВЕРНО?",
+        "options": {
+          "A": "опьянение является правонарушением при управлении судном",
+          "B": "шкипер несет ответственность за безопасность всех на борту",
+          "C": "можно управлять судном без лицензии в пределах лагуны",
+          "D": "превышение скорости в лагуне является правонарушением"
         }
       }
     },
@@ -1935,6 +2401,15 @@ export const quizData = [
           "C": "il y a un risque élevé de collision",
           "D": "le navire A peut maintenir son cap et sa vitesse"
         }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "ограничено в маневренности",
+          "B": "лишено возможности управляться",
+          "C": "занято рыболовством",
+          "D": "стоит на якоре"
+        }
       }
     },
     "images": [
@@ -1962,6 +2437,15 @@ export const quizData = [
           "B": "émettre deux coups de sifflet courts et changer de cap à bâbord d'au moins 60 degrés",
           "C": "émettre trois coups de sifflet courts et engager la propulsion arrière",
           "D": "émettre au moins cinq coups de sifflet courts et rapides et mouiller l'ancre"
+        }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "лишено возможности управляться",
+          "B": "ограничено в маневренности",
+          "C": "занято буксировкой",
+          "D": "парусное судно"
         }
       }
     },
@@ -1991,6 +2475,15 @@ export const quizData = [
           "C": "vous devez émettre deux coups de sifflet courts et changer de cap à bâbord",
           "D": "le navire de parachute ascensionnel est limité dans sa capacité de manœuvre"
         }
+      },
+      "ru": {
+        "question": "Один длинный звуковой сигнал означает",
+        "options": {
+          "A": "я изменяю курс вправо",
+          "B": "я изменяю курс влево",
+          "C": "я даю задний ход",
+          "D": "предупреждение или сомнение"
+        }
       }
     },
     "images": [
@@ -2018,6 +2511,15 @@ export const quizData = [
           "B": "vous êtes le navire rattrapé",
           "C": "vous devez prendre des mesures pour éviter une collision",
           "D": "vous ne pouvez pas changer de cap à tribord"
+        }
+      },
+      "ru": {
+        "question": "Это знак",
+        "options": {
+          "A": "северного кардинального буя",
+          "B": "южного кардинального буя",
+          "C": "восточного кардинального буя",
+          "D": "западного кардинального буя"
         }
       }
     },
@@ -2047,6 +2549,15 @@ export const quizData = [
           "C": "émettre deux coups de sifflet courts et effectuer un changement de cap audacieux à bâbord pour vous tenir bien à l'écart d'elle",
           "D": "augmenter la vitesse et passer devant elle"
         }
+      },
+      "ru": {
+        "question": "Это знак",
+        "options": {
+          "A": "северного кардинального буя",
+          "B": "южного кардинального буя",
+          "C": "восточного кардинального буя",
+          "D": "западного кардинального буя"
+        }
       }
     },
     "images": [
@@ -2074,6 +2585,15 @@ export const quizData = [
           "B": "changer de cap soit à bâbord soit à tribord parce qu'elle est échouée",
           "C": "changer de cap à tribord d'au moins 60 degrés car elle est au mouillage et engagée dans certains travaux",
           "D": "arrêter les moteurs et engager la propulsion arrière"
+        }
+      },
+      "ru": {
+        "question": "Это знак",
+        "options": {
+          "A": "буя безопасных вод",
+          "B": "буя изолированной опасности",
+          "C": "буя специальной зоны",
+          "D": "западного кардинального буя"
         }
       }
     },
@@ -2103,6 +2623,15 @@ export const quizData = [
           "C": "limitée dans sa capacité de manœuvre",
           "D": "contrainte par son tirant d'eau"
         }
+      },
+      "ru": {
+        "question": "Это знак",
+        "options": {
+          "A": "зеленого конического буя",
+          "B": "красного цилиндрического буя",
+          "C": "буя безопасных вод",
+          "D": "северного кардинального буя"
+        }
       }
     },
     "images": [
@@ -2131,6 +2660,15 @@ export const quizData = [
           "C": "45 degrés",
           "D": "60 degrés"
         }
+      },
+      "ru": {
+        "question": "Это знак",
+        "options": {
+          "A": "красного цилиндрического буя",
+          "B": "зеленого конического буя",
+          "C": "буя безопасных вод",
+          "D": "буя изолированной опасности"
+        }
       }
     },
     "images": [],
@@ -2156,6 +2694,15 @@ export const quizData = [
           "B": "vous devriez gouverner un cap supérieur à 032° C pour retrouver la route",
           "C": "vous devriez gouverner un cap inférieur à 032° C pour retrouver la route",
           "D": "vous devez inverser le cap et recommencer votre approche"
+        }
+      },
+      "ru": {
+        "question": "Это знак",
+        "options": {
+          "A": "буя специальной зоны",
+          "B": "буя безопасных вод",
+          "C": "буя изолированной опасности",
+          "D": "западного кардинального буя"
         }
       }
     },
@@ -2185,6 +2732,15 @@ export const quizData = [
           "C": "il existe un risque élevé de collision",
           "D": "vous devez maintenir votre cap et votre vitesse"
         }
+      },
+      "ru": {
+        "question": "Это знак",
+        "options": {
+          "A": "буя безопасных вод",
+          "B": "буя изолированной опасности",
+          "C": "северного кардинального буя",
+          "D": "буя специальной зоны"
+        }
       }
     },
     "images": [
@@ -2213,6 +2769,15 @@ export const quizData = [
           "C": "sensibiliser tous les passagers qu'il existe toujours un certain degré de risque en mer mais qui peut être réduit en respectant les consignes de sécurité",
           "D": "garantir à tous les passagers que la sortie sera sans incident grâce à ses années d'expérience en tant que skipper"
         }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "лишено возможности управляться",
+          "B": "ограничено осадкой",
+          "C": "занято рыболовством",
+          "D": "стоит на мели"
+        }
       }
     },
     "images": [],
@@ -2238,6 +2803,15 @@ export const quizData = [
           "B": "Compas",
           "C": "Radar",
           "D": "Radio VHF"
+        }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно ремней безопасности?",
+        "options": {
+          "A": "они нужны только на быстрых лодках",
+          "B": "их следует использовать при движении на высокой скорости",
+          "C": "они не нужны на малых судах",
+          "D": "они обязательны только для детей"
         }
       }
     },
@@ -2265,6 +2839,15 @@ export const quizData = [
           "C": "The knot",
           "D": "The current"
         }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "занято тралением",
+          "B": "занято буксировкой",
+          "C": "лишено возможности управляться",
+          "D": "ограничено в маневренности"
+        }
       }
     },
     "images": [],
@@ -2291,6 +2874,15 @@ export const quizData = [
           "C": "Tsunami",
           "D": "Anticyclone"
         }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "на якоре",
+          "B": "на мели",
+          "C": "занято рыболовством",
+          "D": "лишено возможности управляться"
+        }
       }
     },
     "images": [],
@@ -2316,6 +2908,15 @@ export const quizData = [
           "B": "west of the lighthouse",
           "C": "southeast of the lighthouse",
           "D": "northwest of the lighthouse"
+        }
+      },
+      "ru": {
+        "question": "Два коротких звуковых сигнала означают",
+        "options": {
+          "A": "я изменяю курс вправо",
+          "B": "я изменяю курс влево",
+          "C": "я даю задний ход",
+          "D": "я не могу маневрировать"
         }
       }
     },
@@ -2345,6 +2946,15 @@ export const quizData = [
           "C": "is in the southern hemisphere and west of the Greenwich meridian",
           "D": "is at a latitude that is 19 degrees 53.823 minutes north of the equator"
         }
+      },
+      "ru": {
+        "question": "Три коротких звуковых сигнала означают",
+        "options": {
+          "A": "я изменяю курс вправо",
+          "B": "я изменяю курс влево",
+          "C": "я работаю задним ходом",
+          "D": "опасность столкновения"
+        }
       }
     },
     "images": [],
@@ -2370,6 +2980,15 @@ export const quizData = [
           "B": "make a large course change to starboard",
           "C": "stop and go astern",
           "D": "call a coast guard station to confirm the maneuver to make"
+        }
+      },
+      "ru": {
+        "question": "Пять или более коротких звуковых сигналов означают",
+        "options": {
+          "A": "я изменяю курс вправо",
+          "B": "я изменяю курс влево",
+          "C": "сомнение в намерениях другого судна",
+          "D": "я стою на якоре"
         }
       }
     },
@@ -2399,6 +3018,15 @@ export const quizData = [
           "C": "when he must arrive at his destination on time",
           "D": "when visibility is reduced"
         }
+      },
+      "ru": {
+        "question": "При постановке на якорь, якорный трос должен быть",
+        "options": {
+          "A": "полностью выпущен сразу",
+          "B": "выпущен медленно по мере остановки судна",
+          "C": "привязан к носу перед сбросом",
+          "D": "сброшен на полной скорости"
+        }
       }
     },
     "images": [],
@@ -2424,6 +3052,15 @@ export const quizData = [
           "B": "to stay tuned to VHF radio channel 16 for the weather bulletin",
           "C": "to keep radar watch during the evening only",
           "D": "to use all available means onboard to check if there is a risk of collision"
+        }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "парусное судно",
+          "B": "судно с механическим двигателем",
+          "C": "судно на якоре",
+          "D": "судно на мели"
         }
       }
     },
@@ -2451,6 +3088,15 @@ export const quizData = [
           "C": "a speed that allows the skipper to take appropriate and effective measures to prevent a collision",
           "D": "the maximum speed recommended by the boat manufacturer"
         }
+      },
+      "ru": {
+        "question": "Навигационные огни должны быть видны на расстоянии не менее",
+        "options": {
+          "A": "1 морская миля",
+          "B": "2 морских мили",
+          "C": "3 морских мили",
+          "D": "5 морских миль"
+        }
       }
     },
     "images": [],
@@ -2477,6 +3123,15 @@ export const quizData = [
           "C": "visibility",
           "D": "the engine power"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений НЕВЕРНО относительно огнетушителей?",
+        "options": {
+          "A": "они должны регулярно проверяться",
+          "B": "они должны быть легкодоступными",
+          "C": "можно использовать воду для тушения электрического пожара",
+          "D": "на борту должно быть достаточно огнетушителей"
+        }
       }
     },
     "images": [],
@@ -2502,6 +3157,15 @@ export const quizData = [
           "B": "turn sharply to starboard given that boat X must make the same maneuver",
           "C": "maintain your course and speed",
           "D": "improvise the best maneuver to prevent a collision while maintaining the safety of your boat"
+        }
+      },
+      "ru": {
+        "question": "Осадка судна - это",
+        "options": {
+          "A": "ширина судна",
+          "B": "длина судна",
+          "C": "глубина судна под водой от ватерлинии до киля",
+          "D": "высота судна над водой"
         }
       }
     },
@@ -2531,6 +3195,15 @@ export const quizData = [
           "C": "there is a high risk of collision",
           "D": "there is no risk of collision"
         }
+      },
+      "ru": {
+        "question": "Шкипер должен сообщить о столкновении в Управление по туризму в течение",
+        "options": {
+          "A": "6 часов",
+          "B": "12 часов",
+          "C": "24 часов",
+          "D": "48 часов"
+        }
       }
     },
     "images": [
@@ -2559,6 +3232,15 @@ export const quizData = [
           "C": "call the vessel on channel 16 to ascertain its intentions",
           "D": "turn decisively to port to keep well clear of its route"
         }
+      },
+      "ru": {
+        "question": "Максимальная вместимость прогулочного судна определяется",
+        "options": {
+          "A": "шкипером",
+          "B": "пассажирами",
+          "C": "производителем судна",
+          "D": "погодными условиями"
+        }
       }
     },
     "images": [
@@ -2585,6 +3267,15 @@ export const quizData = [
           "B": "is constrained by its draft.",
           "C": "is not under command.",
           "D": "has run aground"
+        }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "занято рыболовством",
+          "B": "ограничено в маневренности",
+          "C": "лишено возможности управляться",
+          "D": "парусное судно"
         }
       }
     },
@@ -2613,6 +3304,15 @@ export const quizData = [
           "C": "The propeller",
           "D": "The radar"
         }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "судно с механическим двигателем на ходу",
+          "B": "парусное судно на ходу",
+          "C": "судно на якоре",
+          "D": "судно, занятое буксировкой"
+        }
       }
     },
     "images": []
@@ -2637,6 +3337,15 @@ export const quizData = [
           "B": "A red light visible from ahead to 22.5 degrees abaft the port beam",
           "C": "A green light visible from ahead to 22.5 degrees abaft the starboard beam",
           "D": "A white light visible from astern to 22.5 degrees abaft each beam"
+        }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "парусное судно на ходу",
+          "B": "судно с механическим двигателем на ходу",
+          "C": "судно на якоре",
+          "D": "судно, лишенное возможности управляться"
         }
       }
     },
@@ -2663,6 +3372,15 @@ export const quizData = [
           "C": "045°",
           "D": "065°"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно буксировки воднолыжника?",
+        "options": {
+          "A": "можно буксировать в любое время дня",
+          "B": "нельзя буксировать между закатом и восходом солнца",
+          "C": "можно буксировать в главном канале",
+          "D": "наблюдатель не нужен"
+        }
       }
     },
     "images": []
@@ -2687,6 +3405,15 @@ export const quizData = [
           "B": "Boat B will pass in front of your boat",
           "C": "Boat A will pass behind your boat",
           "D": "Boat B will pass behind your boat"
+        }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "на якоре",
+          "B": "на мели",
+          "C": "занято рыболовством",
+          "D": "ограничено в маневренности"
         }
       }
     },
@@ -2713,6 +3440,15 @@ export const quizData = [
           "C": "Channel 67",
           "D": "Channel 69"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих действий НЕ является обязанностью шкипера?",
+        "options": {
+          "A": "обеспечить безопасность всех на борту",
+          "B": "обеспечить наличие достаточного количества топлива",
+          "C": "обеспечить наличие надлежащего оборудования безопасности",
+          "D": "позволить пассажирам управлять судном без надзора"
+        }
       }
     },
     "images": []
@@ -2737,6 +3473,15 @@ export const quizData = [
           "B": "14 and 78",
           "C": "18 and 74",
           "D": "12 and 72"
+        }
+      },
+      "ru": {
+        "question": "Рация VHF должна",
+        "options": {
+          "A": "всегда быть включенной на канал 16",
+          "B": "использоваться только в экстренных случаях",
+          "C": "быть выключенной в гавани",
+          "D": "использоваться только для социальных разговоров"
         }
       }
     },
@@ -2763,6 +3508,15 @@ export const quizData = [
           "C": "Skipper's licence number, boat registration, and mobile phone number",
           "D": "Boat length, engine power, and fuel remaining"
         }
+      },
+      "ru": {
+        "question": "Узел - это единица измерения",
+        "options": {
+          "A": "расстояния",
+          "B": "скорости",
+          "C": "глубины",
+          "D": "веса"
+        }
       }
     },
     "images": []
@@ -2787,6 +3541,15 @@ export const quizData = [
           "B": "the position of the boat at sea, the name of the boat builder and a description of the problem",
           "C": "the identity of the boat, its position at sea, a description of the problem and the number of people onboard",
           "D": "the identity of the boat, a description of the problem, the number of people onboard and their nationalities"
+        }
+      },
+      "ru": {
+        "question": "Морская миля равна примерно",
+        "options": {
+          "A": "1 километр",
+          "B": "1,5 километра",
+          "C": "1,852 километра",
+          "D": "2 километра"
         }
       }
     },
@@ -2813,6 +3576,15 @@ export const quizData = [
           "C": "its stability",
           "D": "its watertightness"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений НЕВЕРНО относительно подачи топлива?",
+        "options": {
+          "A": "выключите двигатель",
+          "B": "запретите курить",
+          "C": "держите огнетушитель под рукой",
+          "D": "оставьте двигатель работающим для вентиляции"
+        }
       }
     },
     "images": []
@@ -2837,6 +3609,15 @@ export const quizData = [
           "B": "an INSIDE LAGOON (IL) class pleasure craft up to only 200 metres from the shore",
           "C": "a pleasure craft IL (Inside Lagoon) or OUTSIDE LAGOON (OL) class up to 12 nautical miles from the shore",
           "D": "an OUTSIDE LAGOON (OL) class pleasure craft anywhere without any restriction on the distance from the shore"
+        }
+      },
+      "ru": {
+        "question": "При буксировке воднолыжника флаг наблюдателя должен быть",
+        "options": {
+          "A": "красным",
+          "B": "оранжевым",
+          "C": "желтым",
+          "D": "зеленым"
         }
       }
     },
@@ -2863,6 +3644,15 @@ export const quizData = [
           "C": "leeward side",
           "D": "starboard leeward side"
         }
+      },
+      "ru": {
+        "question": "Килевая качка - это",
+        "options": {
+          "A": "движение судна вверх и вниз",
+          "B": "движение судна из стороны в сторону",
+          "C": "вращение судна",
+          "D": "движение судна вперед"
+        }
       }
     },
     "images": []
@@ -2887,6 +3677,15 @@ export const quizData = [
           "B": "north-east of the lighthouse",
           "C": "south-east of the lighthouse",
           "D": "east of the lighthouse"
+        }
+      },
+      "ru": {
+        "question": "Бортовая качка - это",
+        "options": {
+          "A": "движение судна вверх и вниз",
+          "B": "движение судна из стороны в сторону",
+          "C": "вращение судна",
+          "D": "движение судна назад"
         }
       }
     },
@@ -2913,6 +3712,15 @@ export const quizData = [
           "C": "4 knots",
           "D": "16 knots"
         }
+      },
+      "ru": {
+        "question": "Рыскание - это",
+        "options": {
+          "A": "движение судна вверх и вниз",
+          "B": "движение судна из стороны в сторону",
+          "C": "вращение судна вокруг вертикальной оси",
+          "D": "движение судна по кругу"
+        }
       }
     },
     "images": []
@@ -2938,6 +3746,15 @@ export const quizData = [
           "C": "on a latitude which is 19 degrees 53.823 minutes south of the equator",
           "D": "on a longitude which is 57 degrees 55.209 minutes west of the Greenwich meridian"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно алкоголя и управления судном?",
+        "options": {
+          "A": "можно употреблять алкоголь во время управления судном",
+          "B": "употребление алкоголя во время управления судном является правонарушением",
+          "C": "можно употреблять алкоголь, если вы опытный шкипер",
+          "D": "алкоголь улучшает способность управлять судном"
+        }
       }
     },
     "images": []
@@ -2962,6 +3779,15 @@ export const quizData = [
           "B": "alter course to starboard in order to leave the buoy on your port side",
           "C": "pass as close as possible to the buoy",
           "D": "avoid altering course to starboard"
+        }
+      },
+      "ru": {
+        "question": "Минимальный возраст для управления гидроциклом составляет",
+        "options": {
+          "A": "14 лет",
+          "B": "16 лет",
+          "C": "18 лет",
+          "D": "21 год"
         }
       }
     },
@@ -2990,6 +3816,15 @@ export const quizData = [
           "C": "stop your craft because this buoy is indicating an area of danger",
           "D": "stop and seek instructions from the Port Authority"
         }
+      },
+      "ru": {
+        "question": "При швартовке к причалу следует",
+        "options": {
+          "A": "подходить на полной скорости",
+          "B": "подходить медленно под углом",
+          "C": "подходить быстро прямо",
+          "D": "использовать задний ход на полной скорости"
+        }
       }
     },
     "images": [
@@ -3017,6 +3852,15 @@ export const quizData = [
           "C": "2 consecutive High Waters followed by 2 consecutive Low Waters",
           "D": "2 High Waters and 2 Low Waters in the order HIGH – LOW – HIGH - LOW or LOW - HIGH – LOW – HIGH"
         }
+      },
+      "ru": {
+        "question": "Фендеры используются для",
+        "options": {
+          "A": "защиты судна от повреждений при швартовке",
+          "B": "увеличения скорости судна",
+          "C": "улучшения устойчивости",
+          "D": "украшения судна"
+        }
       }
     },
     "images": []
@@ -3041,6 +3885,15 @@ export const quizData = [
           "B": "a speed adopted by the skipper which shall enable him to take proper and effective action to prevent a collision",
           "C": "any speed provided it is less than 10 knots",
           "D": "a speed which is determined by the boat manufacturer"
+        }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений НЕВЕРНО относительно погодных условий?",
+        "options": {
+          "A": "всегда проверяйте прогноз погоды перед выходом",
+          "B": "вернитесь в порт, если погода ухудшается",
+          "C": "можно игнорировать небольшие штормовые предупреждения",
+          "D": "имейте план действий в плохую погоду"
         }
       }
     },
@@ -3067,6 +3920,15 @@ export const quizData = [
           "C": "a vessel which is being approached from behind by another vessel",
           "D": "a vessel which is approaching any other vessel"
         }
+      },
+      "ru": {
+        "question": "Это флаг",
+        "options": {
+          "A": "флаг А - у меня есть водолаз",
+          "B": "флаг В - я загружаю опасный груз",
+          "C": "флаг Q - я прошу свободную практику",
+          "D": "флаг О - человек за бортом"
+        }
       }
     },
     "images": []
@@ -3091,6 +3953,15 @@ export const quizData = [
           "B": "This is a fishing vessel, you must keep clear as it is restricted in its ability to maneuver",
           "C": "This vessel is a larger power-driven vessel heading in the same direction as you, it is on your port side and you are overtaking it, you must keep clear.",
           "D": "This vessel is a sailing vessel and is the privileged vessel. You must give way and alter course to starboard to pass astern of it."
+        }
+      },
+      "ru": {
+        "question": "Это флаг",
+        "options": {
+          "A": "флаг А - у меня есть водолаз",
+          "B": "флаг В - я загружаю опасный груз",
+          "C": "флаг Q - я прошу свободную практику",
+          "D": "флаг О - человек за бортом"
         }
       }
     },
@@ -3117,6 +3988,15 @@ export const quizData = [
           "C": "An inverted black cone forward and a black ball aft",
           "D": "It does not need to display a day shape as it is considered a sailing vessel"
         }
+      },
+      "ru": {
+        "question": "Трюмный насос используется для",
+        "options": {
+          "A": "откачки воды из судна",
+          "B": "подачи топлива",
+          "C": "охлаждения двигателя",
+          "D": "мытья палубы"
+        }
       }
     },
     "images": []
@@ -3141,6 +4021,15 @@ export const quizData = [
           "B": "try to bail out the water to keep the vessel afloat",
           "C": "swim out to look for the man overboard",
           "D": "direct the person with you to swim out to look for the man overboard"
+        }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно спасательных плотов?",
+        "options": {
+          "A": "они не нужны на малых судах",
+          "B": "они должны регулярно обслуживаться",
+          "C": "их можно хранить где угодно на судне",
+          "D": "они нужны только на коммерческих судах"
         }
       }
     },
@@ -3167,6 +4056,15 @@ export const quizData = [
           "C": "leeward side",
           "D": "port side"
         }
+      },
+      "ru": {
+        "question": "Винт - это",
+        "options": {
+          "A": "рулевое устройство",
+          "B": "якорное устройство",
+          "C": "движитель с лопастями",
+          "D": "навигационное устройство"
+        }
       }
     },
     "images": []
@@ -3191,6 +4089,15 @@ export const quizData = [
           "B": "16 knots",
           "C": "18 knots",
           "D": "6 knots"
+        }
+      },
+      "ru": {
+        "question": "Какое из следующих действий следует предпринять перед запуском двигателя?",
+        "options": {
+          "A": "проверить, нет ли людей в воде вокруг судна",
+          "B": "включить радио",
+          "C": "поднять якорь",
+          "D": "открыть все люки"
         }
       }
     },
@@ -3217,6 +4124,15 @@ export const quizData = [
           "C": "True",
           "D": "True only during the day"
         }
+      },
+      "ru": {
+        "question": "Трим судна - это",
+        "options": {
+          "A": "ширина судна",
+          "B": "разница в осадке между носом и кормой",
+          "C": "общий вес судна",
+          "D": "скорость судна"
+        }
       }
     }
   },
@@ -3240,6 +4156,15 @@ export const quizData = [
           "B": "there is too much water ingress",
           "C": "it is no longer floating and has settled on the seabed",
           "D": "it is no longer visible on the horizon"
+        }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно детей на борту?",
+        "options": {
+          "A": "они должны всегда носить спасательные жилеты",
+          "B": "они могут свободно перемещаться по судну",
+          "C": "им не нужны спасательные жилеты в спокойную погоду",
+          "D": "они могут сидеть на поручнях"
         }
       }
     }
@@ -3265,6 +4190,15 @@ export const quizData = [
           "C": "Le canal 16 ne doit pas être utilisé dans une zone où des exercices militaires ou paramilitaires sont en cours",
           "D": "Le canal 16 ne doit pas être occupé pendant longtemps."
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений НЕВЕРНО относительно использования VHF радио?",
+        "options": {
+          "A": "канал 16 является каналом бедствия и вызова",
+          "B": "можно использовать канал 16 для связи в военных зонах",
+          "C": "после установления контакта следует перейти на рабочий канал",
+          "D": "следует говорить четко и медленно"
+        }
       }
     }
   },
@@ -3288,6 +4222,15 @@ export const quizData = [
           "B": "vessel constrained by her draft",
           "C": "vessel not under command",
           "D": "vessel aground"
+        }
+      },
+      "ru": {
+        "question": "Дифферент судна - это",
+        "options": {
+          "A": "боковой наклон судна",
+          "B": "продольный наклон судна",
+          "C": "вертикальное движение судна",
+          "D": "горизонтальное движение судна"
         }
       }
     }
@@ -3313,6 +4256,15 @@ export const quizData = [
           "C": "change course to port or starboard depending on the side of the overtaking vessel",
           "D": "stop the engine"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно навигационных огней?",
+        "options": {
+          "A": "они нужны только ночью",
+          "B": "они должны быть включены от заката до восхода и при ограниченной видимости",
+          "C": "они не нужны в лагуне",
+          "D": "они нужны только на больших судах"
+        }
       }
     }
   },
@@ -3336,6 +4288,15 @@ export const quizData = [
           "B": "An authorized officer of the Tourism Authority only",
           "C": "A police officer, a National Coast Guard officer and an authorized officer of the Tourism Authority",
           "D": "A National Coast Guard officer only"
+        }
+      },
+      "ru": {
+        "question": "Транец - это",
+        "options": {
+          "A": "передняя часть судна",
+          "B": "плоская задняя поверхность кормы",
+          "C": "боковая часть судна",
+          "D": "палуба судна"
         }
       }
     }
@@ -3361,6 +4322,15 @@ export const quizData = [
           "C": "When, in their opinion, the voyage to be undertaken by the craft is dangerous due to adverse weather conditions",
           "D": "When the pleasure craft is not equipped with navigation lights"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих действий следует предпринять, если вы видите человека, упавшего за борт?",
+        "options": {
+          "A": "продолжать движение",
+          "B": "немедленно бросить спасательный круг",
+          "C": "ждать помощи",
+          "D": "выключить двигатель и ждать"
+        }
       }
     }
   },
@@ -3384,6 +4354,15 @@ export const quizData = [
           "B": "Channel 12",
           "C": "Channel 18",
           "D": "Channel 69"
+        }
+      },
+      "ru": {
+        "question": "Надводный борт - это",
+        "options": {
+          "A": "расстояние от ватерлинии до палубы",
+          "B": "расстояние от киля до ватерлинии",
+          "C": "ширина судна",
+          "D": "длина судна"
         }
       }
     }
@@ -3409,6 +4388,15 @@ export const quizData = [
           "C": "a fishing vessel",
           "D": "a vessel not under command"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений НЕВЕРНО относительно якорной стоянки?",
+        "options": {
+          "A": "выбирайте защищенное место",
+          "B": "убедитесь, что якорь держит",
+          "C": "можно оставить судно без присмотра на долгое время",
+          "D": "проверьте глубину и тип дна"
+        }
       }
     }
   },
@@ -3433,6 +4421,15 @@ export const quizData = [
           "C": "That they verify the boat is heading in the right direction",
           "D": "That they remind you of the time on their watch"
         }
+      },
+      "ru": {
+        "question": "Лаг используется для измерения",
+        "options": {
+          "A": "глубины воды",
+          "B": "скорости судна",
+          "C": "направления",
+          "D": "температуры воды"
+        }
       }
     }
   },
@@ -3456,6 +4453,15 @@ export const quizData = [
           "B": "the sailing vessel is also using its engine to proceed",
           "C": "the sailing vessel is engaged in fishing",
           "D": "the sailing vessel is equipped with an engine, but it has broken down"
+        }
+      },
+      "ru": {
+        "question": "Эхолот используется для измерения",
+        "options": {
+          "A": "скорости судна",
+          "B": "глубины воды",
+          "C": "направления",
+          "D": "расстояния до берега"
         }
       }
     },
@@ -3482,6 +4488,15 @@ export const quizData = [
           "C": "change your course to port and keep a safe distance from the sailing vessel",
           "D": "wait for the sailing vessel to manoeuvre first"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно прогноза погоды?",
+        "options": {
+          "A": "его можно игнорировать, если небо чистое",
+          "B": "его следует всегда проверять перед выходом в море",
+          "C": "он нужен только для дальних плаваний",
+          "D": "он не важен в лагуне"
+        }
       }
     }
   },
@@ -3505,6 +4520,15 @@ export const quizData = [
           "B": "2.5 nautical miles",
           "C": "10 nautical miles",
           "D": "12.5 nautical miles"
+        }
+      },
+      "ru": {
+        "question": "Румб компаса равен",
+        "options": {
+          "A": "11,25 градусов",
+          "B": "15 градусов",
+          "C": "22,5 градусов",
+          "D": "45 градусов"
         }
       }
     }
@@ -3530,6 +4554,15 @@ export const quizData = [
           "C": "maintain course and speed",
           "D": "increase speed but maintain course"
         }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений НЕВЕРНО относительно топлива?",
+        "options": {
+          "A": "всегда проверяйте уровень топлива перед выходом",
+          "B": "имейте достаточный запас на обратный путь",
+          "C": "можно заправляться при работающем двигателе",
+          "D": "держите огнетушитель рядом при заправке"
+        }
       }
     }
   },
@@ -3553,6 +4586,15 @@ export const quizData = [
           "B": "is engaged in diving activities",
           "C": "is drifting",
           "D": "has had a diving accident"
+        }
+      },
+      "ru": {
+        "question": "Какова цель этого знака?",
+        "options": {
+          "A": "указать на безопасные воды",
+          "B": "указать на зону для купания",
+          "C": "указать на запрет для судов",
+          "D": "указать на зону якорной стоянки"
         }
       }
     },
@@ -3579,6 +4621,15 @@ export const quizData = [
           "C": "slow down and maintain your course",
           "D": "approach the vessel to provide assistance"
         }
+      },
+      "ru": {
+        "question": "EPIRB - это",
+        "options": {
+          "A": "радиомаяк для определения местоположения при бедствии",
+          "B": "тип огнетушителя",
+          "C": "навигационное устройство",
+          "D": "спасательный плот"
+        }
       }
     },
     "imageUrl": "assets/placeholder-missing.png"
@@ -3603,6 +4654,15 @@ export const quizData = [
           "B": "must leave this buoy on your port side",
           "C": "can leave this buoy on either your port or starboard side",
           "D": "can pass very close to the buoy because there is safe water on each side"
+        }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно буксировки?",
+        "options": {
+          "A": "можно буксировать на высокой скорости",
+          "B": "буксировочный трос должен быть достаточно длинным",
+          "C": "не нужно сообщать другим судам",
+          "D": "можно буксировать в любую погоду"
         }
       }
     },
@@ -3629,6 +4689,15 @@ export const quizData = [
           "C": "a set of two special marks",
           "D": "a set of two red marks"
         }
+      },
+      "ru": {
+        "question": "Когда следует использовать аварийный сигнал MAYDAY?",
+        "options": {
+          "A": "когда нужна помощь в навигации",
+          "B": "когда судно или жизнь находятся в серьезной опасности",
+          "C": "когда нужна медицинская консультация",
+          "D": "когда нужна информация о погоде"
+        }
       }
     }
   },
@@ -3653,6 +4722,15 @@ export const quizData = [
           "C": "channel 18",
           "D": "channel 69"
         }
+      },
+      "ru": {
+        "question": "Это судно показывает, что оно",
+        "options": {
+          "A": "занято рыболовством",
+          "B": "ограничено в маневренности",
+          "C": "на якоре",
+          "D": "лишено возможности управляться"
+        }
       }
     }
   },
@@ -3676,6 +4754,15 @@ export const quizData = [
           "B": "slow down and make a large course change to port",
           "C": "maintain your course and speed",
           "D": "maintain your course and increase your speed to pass ahead of the fast boat"
+        }
+      },
+      "ru": {
+        "question": "Правило 5 МППСС требует, чтобы",
+        "options": {
+          "A": "включались навигационные огни",
+          "B": "велась надлежащая вахта",
+          "C": "использовались звуковые сигналы",
+          "D": "проверялась погода"
         }
       }
     },
@@ -3702,6 +4789,15 @@ export const quizData = [
           "C": "the tanker cannot maneuver under the rules due to exceptional circumstances",
           "D": "the tanker requires assistance"
         }
+      },
+      "ru": {
+        "question": "Это судно показывает, что оно",
+        "options": {
+          "A": "занято тралением",
+          "B": "ограничено в маневренности",
+          "C": "лишено возможности управляться",
+          "D": "на мели"
+        }
       }
     },
     "imageUrl": "assets/q142.png"
@@ -3726,6 +4822,15 @@ export const quizData = [
           "B": "they need assistance",
           "C": "they are indicating that your boat is heading towards shallow water",
           "D": "they are indicating that you must change your course to port"
+        }
+      },
+      "ru": {
+        "question": "Какое из следующих утверждений ВЕРНО относительно спасательных жилетов?",
+        "options": {
+          "A": "они должны подходить по размеру",
+          "B": "один размер подходит всем",
+          "C": "они не нужны умеющим плавать",
+          "D": "их можно хранить в запертом шкафчике"
         }
       }
     },
@@ -3752,6 +4857,15 @@ export const quizData = [
           "C": "cannot keep out of the way of another vessel due to exceptional circumstances",
           "D": "is in distress and needs immediate assistance"
         }
+      },
+      "ru": {
+        "question": "Киль - это",
+        "options": {
+          "A": "верхняя часть судна",
+          "B": "нижняя центральная конструктивная часть судна",
+          "C": "боковая часть судна",
+          "D": "задняя часть судна"
+        }
       }
     },
     "imageUrl": "assets/q144.png"
@@ -3777,6 +4891,15 @@ export const quizData = [
           "C": "stop the engines and throw a lifebuoy to port",
           "D": "stop the engines and jump into the water to rescue the person"
         }
+      },
+      "ru": {
+        "question": "Этот знак указывает на",
+        "options": {
+          "A": "зону купания",
+          "B": "запрет для судов с двигателем",
+          "C": "зону якорной стоянки",
+          "D": "безопасные воды"
+        }
       }
     }
   },
@@ -3800,6 +4923,15 @@ export const quizData = [
           "B": "the port side light",
           "C": "the stern light",
           "D": "the masthead light"
+        }
+      },
+      "ru": {
+        "question": "Правильный способ поднять якорь",
+        "options": {
+          "A": "быстро потянуть трос",
+          "B": "использовать двигатель для подтягивания к якорю, затем поднять его",
+          "C": "разрезать трос",
+          "D": "оставить якорь на дне"
         }
       }
     }
@@ -3825,6 +4957,15 @@ export const quizData = [
           "C": "ensure that the pirogue is not damaged",
           "D": "ensure that your boat is not damaged"
         }
+      },
+      "ru": {
+        "question": "Пирога столкнулась с вашим судном во время швартовки в гавани. Что вы должны сделать в первую очередь?",
+        "options": {
+          "A": "покинуть место происшествия",
+          "B": "проверить наличие пострадавших",
+          "C": "сфотографировать повреждения",
+          "D": "позвонить в страховую компанию"
+        }
       }
     }
   },
@@ -3849,6 +4990,15 @@ export const quizData = [
           "C": "must report this collision case to the NCG as soon as possible within 24 hours",
           "D": "do not need to report this collision case to the NCG because there were no injuries or casualties"
         }
+      },
+      "ru": {
+        "question": "В соответствии с Законом об Управлении по туризму, шкипер должен сообщить о столкновении, повлекшем травму или материальный ущерб, в течение",
+        "options": {
+          "A": "6 часов",
+          "B": "12 часов",
+          "C": "24 часов",
+          "D": "48 часов"
+        }
       }
     }
   },
@@ -3872,6 +5022,15 @@ export const quizData = [
           "B": "is constrained by its draft",
           "C": "is not under command",
           "D": "has run aground"
+        }
+      },
+      "ru": {
+        "question": "Это судно",
+        "options": {
+          "A": "парусное судно",
+          "B": "ограничено осадкой",
+          "C": "занято рыболовством",
+          "D": "лишено возможности управляться"
         }
       }
     },
@@ -3903,5 +5062,16 @@ export const appTexts = {
     correctAnswers: "Réponses Correctes",
     reviewAnswers: "Revoir les Réponses",
     restartQuiz: "Recommencer le Quiz"
+  },
+  ru: {
+    title: "Тест Шкипера",
+    startQuiz: "Начать Тест",
+    nextQuestion: "Следующий Вопрос",
+    previousQuestion: "Назад",
+    submitQuiz: "Завершить Тест",
+    score: "Результат",
+    correctAnswers: "Правильные Ответы",
+    reviewAnswers: "Просмотр Ответов",
+    restartQuiz: "Начать Заново"
   }
 };

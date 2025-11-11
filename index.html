@@ -105,9 +105,15 @@
                                 >
                                     FR
                                 </button>
+                                <button
+                                    onClick={() => setLanguage('ru')}
+                                    className={`px-3 py-1 rounded ${language === 'ru' ? 'bg-indigo-600 text-white' : 'bg-gray-200'}`}
+                                >
+                                    RU
+                                </button>
                             </div>
                             <h2 className="text-3xl font-bold text-center text-indigo-600 mb-6">
-                                {language === 'fr' ? 'Quiz Terminé!' : 'Quiz Complete!'}
+                                {language === 'fr' ? 'Quiz Terminé!' : language === 'ru' ? 'Тест Завершён!' : 'Quiz Complete!'}
                             </h2>
                             <div className="text-center mb-8">
                                 <div className="text-6xl font-bold text-indigo-600 mb-2">{score}/{totalQuestions}</div>
@@ -148,6 +154,12 @@
                                         className={`px-3 py-1 rounded ${language === 'fr' ? 'bg-indigo-600 text-white' : 'bg-gray-200'}`}
                                     >
                                         FR
+                                    </button>
+                                    <button
+                                        onClick={() => setLanguage('ru')}
+                                        className={`px-3 py-1 rounded ${language === 'ru' ? 'bg-indigo-600 text-white' : 'bg-gray-200'}`}
+                                    >
+                                        RU
                                     </button>
                                 </div>
                             </div>

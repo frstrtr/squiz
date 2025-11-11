@@ -1,49 +1,26 @@
 #!/usr/bin/env python3
 """
 Sync quiz-data.js from quiz-data-final.json
-Generates an import-based JS file with image imports
+Generates a browser-compatible JS file without image imports
 """
 import json
-import re
-from pathlib import Path
 
 # Read the canonical JSON
 with open('quiz-data-final.json', 'r', encoding='utf-8') as f:
     quiz_data = json.load(f)
 
-# Collect all unique image paths
-image_imports = {}
-for question in quiz_data:
-    for img_path in question.get('images', []):
-        if img_path.startswith('assets/'):
-            # Create import name: assets/q2_0.png -> img_q2_0
-            base_name = Path(img_path).stem  # q2_0
-            import_name = f"img_{base_name}"
-            image_imports[img_path] = import_name
-
-# Generate the JS file
+# Generate the JS file - browser compatible version (no imports)
 output_lines = [
-    "// Auto-generated quiz data (imports for image assets)",
+    "// Auto-generated quiz data - Browser compatible version",
     "// Generated from quiz-data-final.json",
+    "",
+    "export const quizData = ["
 ]
-
-# Add imports
-for img_path in sorted(image_imports.keys()):
-    import_name = image_imports[img_path]
-    output_lines.append(f"import {import_name} from './{img_path}';")
-
-output_lines.append("")
-output_lines.append("export const quizData = [")
 
 # Process each question
 for i, question in enumerate(quiz_data):
-    # Replace image paths with import variables
+    # Keep images as-is (paths, not imports)
     question_copy = question.copy()
-    if question_copy.get('images'):
-        question_copy['images'] = [
-            image_imports.get(img, img) 
-            for img in question_copy['images']
-        ]
     
     # Convert to JSON string and indent
     json_str = json.dumps(question_copy, indent=2, ensure_ascii=False)
@@ -56,10 +33,51 @@ for i, question in enumerate(quiz_data):
         output_lines[-1] += ","
 
 output_lines.append("];")
+output_lines.append("")
+
+# Add appTexts with Russian support
+app_texts = """
+export const appTexts = {
+  en: {
+    title: "Skipper Quiz",
+    startQuiz: "Start Quiz",
+    nextQuestion: "Next Question",
+    previousQuestion: "Previous",
+    submitQuiz: "Submit Quiz",
+    score: "Score",
+    correctAnswers: "Correct Answers",
+    reviewAnswers: "Review Answers",
+    restartQuiz: "Restart Quiz"
+  },
+  fr: {
+    title: "Quiz Skipper",
+    startQuiz: "Commencer le Quiz",
+    nextQuestion: "Question Suivante",
+    previousQuestion: "Précédent",
+    submitQuiz: "Soumettre le Quiz",
+    score: "Score",
+    correctAnswers: "Réponses Correctes",
+    reviewAnswers: "Revoir les Réponses",
+    restartQuiz: "Recommencer le Quiz"
+  },
+  ru: {
+    title: "Тест Шкипера",
+    startQuiz: "Начать Тест",
+    nextQuestion: "Следующий Вопрос",
+    previousQuestion: "Назад",
+    submitQuiz: "Завершить Тест",
+    score: "Результат",
+    correctAnswers: "Правильные Ответы",
+    reviewAnswers: "Просмотр Ответов",
+    restartQuiz: "Начать Заново"
+  }
+};
+"""
+output_lines.append(app_texts.strip())
 
 # Write output
 with open('quiz-data.js', 'w', encoding='utf-8') as f:
     f.write('\n'.join(output_lines))
 
 print(f"✓ Generated quiz-data.js with {len(quiz_data)} questions")
-print(f"✓ Added {len(image_imports)} image imports")
+print(f"✓ Added Russian language support (EN/FR/RU)")
