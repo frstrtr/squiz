@@ -73,9 +73,12 @@
         }
       },
       "fr": {
-        "question": "Un navire qui parcourt une distance de 6 nautiques en 20 minutes à une vitesse de",
+        "question": "'Bilge' d'un navire se réfère à",
         "options": {
-          "A": "9 nœudsB 16nœudsC 18 nœudsD 6 nœuds"
+          "A": "la partie submergée lorsqu'il flotte",
+          "B": "la section la plus basse à l'intérieur du navire qui est la plus proche de la quille",
+          "C": "la hauteur verticale entre la ligne de flottaison et la quille",
+          "D": "la largeur du pont exposé"
         }
       },
       "ru": {
@@ -582,12 +585,12 @@
         }
       },
       "fr": {
-        "question": "Z Vous êtes le skipper d’un bateau ā moteur en haute mer. Le bateau ā moteur Z est droit devant vous et fait route directement opposée. La distance est moins de 50 mètres et il y a grand risque de collision. Quelle est la meilleure manœuvre ā faire dans cette situation ?",
+        "question": "Vous êtes le skipper d'un bateau à moteur en mer avec des membres d'équipage et des passagers à bord. Vous êtes dans la timonerie et ne pouvez pas voir tout autour de votre navire. Soudain, vous entendez \"HOMME À LA MER BÂBORD\". Quelle est la meilleure séquence d'actions à prendre pour assurer une récupération rapide et sûre de la personne ?",
         "options": {
-          "A": "un grand changement de cap sur bâbord",
-          "B": "un changement de cap de 10 ā 15 degrés sur tribord",
-          "C": "stopper et engager les moteurs en arrière",
-          "D": "maintenir votre cap et vitesse parce que vous êtes sur le bateau privilegié"
+          "A": "changer de cap à tribord, ordonner de jeter la bouée de sauvetage, placer un veilleur",
+          "B": "changer de cap à bâbord, appeler NCG sur le canal 16, faire un virage Williamson",
+          "C": "changer de cap à bâbord, ordonner de jeter la bouée de sauvetage, placer un veilleur",
+          "D": "changer de cap à tribord, appuyer sur le bouton MOB du GPS, placer un veilleur"
         }
       },
       "ru": {
@@ -686,7 +689,7 @@
   },
   {
     "id": 24,
-    "correctOptionKey": "B",
+    "correctOptionKey": "D",
     "translations": {
       "en": {
         "question": "Who is the authority or person that makes the decision to abandon a vessel in a crisis and to launch the liferaft?",
@@ -1034,7 +1037,7 @@
   },
   {
     "id": 36,
-    "correctOptionKey": "B",
+    "correctOptionKey": "D",
     "translations": {
       "en": {
         "question": "According to the Tourism Authority Act 2006, a case of collision at sea must be reported to the National Coast Guard",
@@ -1198,7 +1201,7 @@
   },
   {
     "id": 43,
-    "correctOptionKey": "B",
+    "correctOptionKey": "D",
     "translations": {
       "en": {
         "question": "Which one of the following is the recommended angle of approach when coming alongside a jetty for securing your pleasure craft?",
@@ -1224,7 +1227,7 @@
   },
   {
     "id": 44,
-    "correctOptionKey": "B",
+    "correctOptionKey": "D",
     "translations": {
       "en": {
         "question": "Which one of these observations at sea confirms, beyond doubt, that your craft is approaching a tropical storm?",
@@ -1288,12 +1291,12 @@
         }
       },
       "fr": {
-        "question": "Comment décririez-vous un feu de poupe qui fait partie des feux de navigation sur un bateau de plaisance ?",
+        "question": "Considérez que vous exploitez un bateau de plaisance à moteur entièrement équipé en mer à 17 nœuds et tout à coup, en raison de fortes pluies, la visibilité se réduit considérablement. Quelle est la première action à prendre ?",
         "options": {
-          "A": "Un feu blanc visible sur tout l'horizon sur le mât",
-          "B": "Un feu rouge visible de l'avant jusqu'à 22,5 degrés en arrière du travers bâbord",
-          "C": "Un feu vert visible de l'avant jusqu'à 22,5 degrés en arrière du travers tribord",
-          "D": "Un feu blanc visible de l'arrière jusqu'à 22,5 degrés en arrière de chaque travers"
+          "A": "Appeler tous les navires à proximité sur le canal VHF 16 et demander leurs positions GPS",
+          "B": "Réduire la vitesse",
+          "C": "Vérifier la profondeur de l'eau à l'aide du sondeur",
+          "D": "Cesser de maintenir une veille visuelle"
         }
       }
     },
@@ -1302,7 +1305,7 @@
   },
   {
     "id": 47,
-    "correctOptionKey": "B",
+    "correctOptionKey": "C",
     "translations": {
       "en": {
         "question": "Consider yourself to be operating a 12 metres long power-driven vessel inside Port Louis harbour during the day to proceed to Caudan jetty. Which one of the following actions is strictly forbidden inside the channel?",
@@ -1314,12 +1317,12 @@
         }
       },
       "fr": {
-        "question": "Supposez que vous opériez un bateau de plaisance à moteur entièrement équipé en mer à 17 nœuds et que vous remarquiez un navire devant vous. D'après les feux que ce navire affiche, laquelle des affirmations suivantes semble la plus raisonnable et sûre ?",
+        "question": "Considérez-vous comme opérant un navire à moteur de 12 mètres de long à l'intérieur du port de Port Louis pendant la journée pour vous rendre à la jetée de Caudan. Laquelle des actions suivantes est strictement interdite à l'intérieur du chenal ?",
         "options": {
-          "A": "Ce navire n'est pas sous commandement, vous devez vous tenir bien à l'écart.",
-          "B": "C'est un navire de pêche, vous devez vous tenir à l'écart car il est limité dans sa capacité de manœuvre",
-          "C": "Ce navire est un navire à moteur plus grand qui se dirige dans la même direction que vous, il est sur votre bâbord et vous le dépassez, vous devez vous tenir à l'écart.",
-          "D": "Ce navire est un voilier et c'est le navire privilégié. Vous devez céder le passage et modifier votre cap vers tribord pour passer derrière lui."
+          "A": "utiliser votre poste radio VHF sur le canal 16 sans la permission de la Mauritius Port Authority",
+          "B": "utiliser un appareil de signalisation sonore tel qu'une corne sans la permission de la Mauritius Port Authority",
+          "C": "traverser le chenal d'un côté à l'autre de manière à gêner le passage d'un grand navire",
+          "D": "jeter l'ancre en cas d'urgence"
         }
       }
     },
@@ -1366,12 +1369,12 @@
         }
       },
       "fr": {
-        "question": "Que affiche un bateau de plaisance à voile comme marque de jour lorsqu'il est à moteur et également propulsé par les voiles ?",
+        "question": "Dans une situation d'\"Homme à la mer\", laquelle de ces séquences est celle recommandée pour s'assurer que les meilleures actions sont prises et dans un ordre de priorité ?",
         "options": {
-          "A": "Un cylindre noir",
-          "B": "Un cône noir, pointe vers le bas, à l'avant du mât",
-          "C": "Un cône noir inversé à l'avant et une boule noire à l'arrière",
-          "D": "Il n'a pas besoin d'afficher une marque de jour car il est considéré comme un voilier"
+          "A": "Appel Mayday sur le canal VHF 16, appuyer sur le bouton MOB du GPS, manœuvre du bateau",
+          "B": "Manœuvre du bateau, appuyer sur le bouton MOB du GPS, jeter la bouée de sauvetage vers la personne",
+          "C": "Jeter la bouée de sauvetage vers la personne, placer un veilleur, manœuvre du bateau",
+          "D": "Jeter la bouée de sauvetage vers la personne, appel Mayday sur le canal VHF 16, manœuvre du bateau"
         }
       }
     },
@@ -1470,16 +1473,18 @@
         }
       },
       "en": {
-        "question": "What term is used to describe the onboard system that allows the heading of a boat to be changed?",
+        "question": "You are the skipper of a power-driven vessel at sea. Power-driven vessel Z is directly ahead of you on a directly opposite course. The distance is less than 50 meters and there is high risk of collision. What is the best maneuver to make in this situation?",
         "options": {
-          "A": "The compass",
-          "B": "The helm",
-          "C": "The propeller",
-          "D": "The radar"
+          "A": "a large change of course to port",
+          "B": "a change of course of 10 to 15 degrees to starboard",
+          "C": "stop and engage engines astern",
+          "D": "maintain your course and speed because you are on the privileged vessel"
         }
       }
     },
-    "images": [],
+    "images": [
+      "assets/q53.png"
+    ],
     "source": "model questions -french (1).docx"
   },
   {
@@ -1496,12 +1501,12 @@
         }
       },
       "en": {
-        "question": "Ignoring leeway, what would be the approximate ground track of a boat that is steering 045° by gyro compass, if the variation is 15° W and the deviation is 5° E?",
+        "question": "How would you describe a stern light that is part of the navigation lights on a boat?",
         "options": {
-          "A": "055°",
-          "B": "035°",
-          "C": "045°",
-          "D": "065°"
+          "A": "yellow in color and visible on the whole horizon.",
+          "B": "yellow in color and visible over an angle of 135 degrees.",
+          "C": "white in color and visible on the whole horizon.",
+          "D": "white in color and visible over an angle of 135 degrees."
         }
       }
     },
@@ -1522,12 +1527,12 @@
         }
       },
       "en": {
-        "question": "What would be the meaning of a red light appearing on another boat after you have altered your course, if initially you were seeing the port and starboard lights of that boat?",
+        "question": "Skippers of pleasure craft for commercial activities have a legal duty to conduct a 'safety briefing' before departure for a trip at sea. What is a 'safety briefing'?",
         "options": {
-          "A": "Boat A will pass in front of your boat",
-          "B": "Boat B will pass in front of your boat",
-          "C": "Boat A will pass behind your boat",
-          "D": "Boat B will pass behind your boat"
+          "A": "a description of the places passengers will be able to visit",
+          "B": "a presentation by the skipper of existing safety measures and safety instructions to be followed during the voyage",
+          "C": "a presentation by the skipper of their expertise in the field of safety at sea",
+          "D": "a presentation of the company that manages the boat"
         }
       }
     },
@@ -1548,16 +1553,18 @@
         }
       },
       "en": {
-        "question": "All National Coast Guard stations maintain an auditory watch on the radio. On which channel would a skipper expect to establish communication with the Coast Guard?",
+        "question": "You are the skipper of this boat which is equipped with two 115 HP outboard engines. You need to start the boat in an onshore wind of about 20 knots. What maneuver will help the stern of the boat move away from the jetty so that the boat can then reverse?",
         "options": {
-          "A": "Channel 06",
-          "B": "Channel 16",
-          "C": "Channel 67",
-          "D": "Channel 69"
+          "A": "release both lines, rudder to the left, starboard engine forward",
+          "B": "release the aft line, rudder to zero, both engines astern",
+          "C": "release the aft line, rudder to the right, port engine forward",
+          "D": "release both lines, rudder to the left, both engines forward"
         }
       }
     },
-    "images": [],
+    "images": [
+      "assets/q56.png"
+    ],
     "source": "model questions -french (1).docx"
   },
   {
@@ -1574,12 +1581,12 @@
         }
       },
       "en": {
-        "question": "What are the most important pieces of information that should absolutely be included in a distress message?",
+        "question": "What is the recommended approach angle for docking a boat?",
         "options": {
-          "A": "Name of the boat, nature of distress, position, and number of people onboard",
-          "B": "Name of the boat, speed, and heading",
-          "C": "Skipper's licence number, boat registration, and mobile phone number",
-          "D": "Boat length, engine power, and fuel remaining"
+          "A": "30 degrees",
+          "B": "60 degrees",
+          "C": "90 degrees",
+          "D": "5 degrees"
         }
       }
     },
@@ -1591,12 +1598,12 @@
     "correctOptionKey": "B",
     "translations": {
       "fr": {
-        "question": "Quelles sont les informations les plus importantes qu’on doit absolument inclure dans un message de détresse concernant un bateau qui a besoin d’aide ?",
+        "question": "Comment appelle-t-on la capacité d'un bateau à revenir à sa position verticale après avoir été incliné ?",
         "options": {
-          "A": "l’identité du bateau, le nom du propriétaire et une description du problème",
-          "B": "la position du bateau en mer, le nom du constructeur du bateau et une description du problème",
-          "C": "l’identité du bateau, sa position en mer, une description du problème et le nombre de personnes abord",
-          "D": "l’identité du bateau, une description du problème, le nombre des personnes abord et leurs nationalités"
+          "A": "Flottabilité",
+          "B": "Stabilité",
+          "C": "Déplacement",
+          "D": "Équilibre"
         }
       },
       "en": {
@@ -1617,12 +1624,12 @@
     "correctOptionKey": "B",
     "translations": {
       "fr": {
-        "question": "Comment appelle-t-on la capacité d’un bateau à revenir à sa position verticale après avoir été incliné par une force extérieure comme le vent ou une vague ?",
+        "question": "Quelle est votre plus grande responsabilité en tant que skipper ?",
         "options": {
-          "A": "sa gîte permanente",
-          "B": "sa flottabilité",
-          "C": "sa stabilité",
-          "D": "sa étanchéité"
+          "A": "S'assurer que le bateau est propre et bien entretenu",
+          "B": "Assurer la sécurité de toutes les personnes à bord",
+          "C": "Arriver à destination à l'heure",
+          "D": "Communiquer régulièrement avec la Garde côtière"
         }
       },
       "en": {
@@ -2635,5 +2642,609 @@
     "images": [
       "assets/q97.png"
     ]
+  },
+  {
+    "id": 98,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Quel terme est utilisé pour décrire le système de bord qui permet de changer le cap d'un bateau ?",
+        "options": {
+          "A": "Le compas",
+          "B": "La barre",
+          "C": "L'hélice",
+          "D": "Le radar"
+        }
+      },
+      "en": {
+        "question": "What term is used to describe the onboard system that allows the heading of a boat to be changed?",
+        "options": {
+          "A": "The compass",
+          "B": "The helm",
+          "C": "The propeller",
+          "D": "The radar"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 99,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Comment décririez-vous un feu de poupe qui fait partie des feux de navigation sur un bateau de plaisance ?",
+        "options": {
+          "A": "Un feu blanc visible sur tout l'horizon sur le mât",
+          "B": "Un feu rouge visible de l'avant jusqu'à 22,5 degrés en arrière du travers bâbord",
+          "C": "Un feu vert visible de l'avant jusqu'à 22,5 degrés en arrière du travers tribord",
+          "D": "Un feu blanc visible de l'arrière jusqu'à 22,5 degrés en arrière de chaque travers"
+        }
+      },
+      "en": {
+        "question": "How would you describe a stern light that is part of the navigation lights on a pleasure craft?",
+        "options": {
+          "A": "A white light visible all around the horizon on the mast",
+          "B": "A red light visible from ahead to 22.5 degrees abaft the port beam",
+          "C": "A green light visible from ahead to 22.5 degrees abaft the starboard beam",
+          "D": "A white light visible from astern to 22.5 degrees abaft each beam"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 100,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "En ignorant la dérive, quelle serait la route fond approximative d'un bateau qui gouverne 045° au compas gyroscopique, si la déclinaison est de 15° W et la déviation est de 5° E ?",
+        "options": {
+          "A": "055°",
+          "B": "035°",
+          "C": "045°",
+          "D": "065°"
+        }
+      },
+      "en": {
+        "question": "Ignoring leeway, what would be the approximate ground track of a boat that is steering 045° by gyro compass, if the variation is 15° W and the deviation is 5° E?",
+        "options": {
+          "A": "055°",
+          "B": "035°",
+          "C": "045°",
+          "D": "065°"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 101,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Quelle serait la signification d'un feu rouge apparaissant sur un autre bateau après que vous ayez modifié votre cap, si initialement vous voyiez les feux de bâbord et tribord de ce bateau ?",
+        "options": {
+          "A": "Le bateau A passera devant votre bateau",
+          "B": "Le bateau B passera devant votre bateau",
+          "C": "Le bateau A passera derrière votre bateau",
+          "D": "Le bateau B passera derrière votre bateau"
+        }
+      },
+      "en": {
+        "question": "What would be the meaning of a red light appearing on another boat after you have altered your course, if initially you were seeing the port and starboard lights of that boat?",
+        "options": {
+          "A": "Boat A will pass in front of your boat",
+          "B": "Boat B will pass in front of your boat",
+          "C": "Boat A will pass behind your boat",
+          "D": "Boat B will pass behind your boat"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 102,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Toutes les stations de la Garde côtière nationale maintiennent une écoute auditive sur la radio. Sur quel canal un skipper s'attendrait-il à établir une communication avec la Garde côtière ?",
+        "options": {
+          "A": "Canal 06",
+          "B": "Canal 16",
+          "C": "Canal 67",
+          "D": "Canal 69"
+        }
+      },
+      "en": {
+        "question": "All National Coast Guard stations maintain an auditory watch on the radio. On which channel would a skipper expect to establish communication with the Coast Guard?",
+        "options": {
+          "A": "Channel 06",
+          "B": "Channel 16",
+          "C": "Channel 67",
+          "D": "Channel 69"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 103,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Toutes les stations de la National Coast Guard maintiennent la veille auditive sur la radio VHF sur le canal 16 et aussi les canaux",
+        "options": {
+          "A": "11 et 78",
+          "B": "14 et 78",
+          "C": "18 et 74",
+          "D": "12 et 72"
+        }
+      },
+      "en": {
+        "question": "All National Coast Guard stations maintain an auditory watch on VHF radio on channel 16 and also channels",
+        "options": {
+          "A": "11 and 78",
+          "B": "14 and 78",
+          "C": "18 and 74",
+          "D": "12 and 72"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 104,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Quelles sont les informations les plus importantes qui devraient absolument être incluses dans un message de détresse ?",
+        "options": {
+          "A": "Nom du bateau, nature de la détresse, position et nombre de personnes à bord",
+          "B": "Nom du bateau, vitesse et cap",
+          "C": "Numéro de licence du skipper, immatriculation du bateau et numéro de téléphone portable",
+          "D": "Longueur du bateau, puissance du moteur et carburant restant"
+        }
+      },
+      "en": {
+        "question": "What are the most important pieces of information that should absolutely be included in a distress message?",
+        "options": {
+          "A": "Name of the boat, nature of distress, position, and number of people onboard",
+          "B": "Name of the boat, speed, and heading",
+          "C": "Skipper's licence number, boat registration, and mobile phone number",
+          "D": "Boat length, engine power, and fuel remaining"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 105,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Quelles sont les informations les plus importantes qu'on doit absolument inclure dans un message de détresse concernant un bateau qui a besoin d'aide ?",
+        "options": {
+          "A": "l'identité du bateau, le nom du propriétaire et une description du problème",
+          "B": "la position du bateau en mer, le nom du constructeur du bateau et une description du problème",
+          "C": "l'identité du bateau, sa position en mer, une description du problème et le nombre de personnes à bord",
+          "D": "l'identité du bateau, une description du problème, le nombre des personnes à bord et leurs nationalités"
+        }
+      },
+      "en": {
+        "question": "What are the most important pieces of information that must absolutely be included in a distress message concerning a boat that needs help?",
+        "options": {
+          "A": "the identity of the boat, the owner's name and a description of the problem",
+          "B": "the position of the boat at sea, the name of the boat builder and a description of the problem",
+          "C": "the identity of the boat, its position at sea, a description of the problem and the number of people onboard",
+          "D": "the identity of the boat, a description of the problem, the number of people onboard and their nationalities"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 106,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Comment appelle-t-on la capacité d'un bateau à revenir à sa position verticale après avoir été incliné par une force extérieure comme le vent ou une vague ?",
+        "options": {
+          "A": "sa gîte permanente",
+          "B": "sa flottabilité",
+          "C": "sa stabilité",
+          "D": "son étanchéité"
+        }
+      },
+      "en": {
+        "question": "What do we call the ability of a boat to return to its vertical position after being heeled over by an external force such as wind or a wave?",
+        "options": {
+          "A": "its permanent heel",
+          "B": "its buoyancy",
+          "C": "its stability",
+          "D": "its watertightness"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 107,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Le permis de skipper de catégorie C (anciennement catégorie A : navigation jusqu'à 12 milles nautiques) permet au titulaire d'exploiter",
+        "options": {
+          "A": "un bateau de plaisance de classe INSIDE LAGOON (IL) jusqu'à 12 milles nautiques de la côte",
+          "B": "un bateau de plaisance de classe INSIDE LAGOON (IL) jusqu'à seulement 200 mètres de la côte",
+          "C": "un bateau de plaisance de classe IL (Inside Lagoon) ou OUTSIDE LAGOON (OL) jusqu'à 12 milles nautiques de la côte",
+          "D": "un bateau de plaisance de classe OUTSIDE LAGOON (OL) n'importe où sans aucune restriction sur la distance de la côte"
+        }
+      },
+      "en": {
+        "question": "The category C skipper's licence (previously category A: navigation up to 12 nautical miles) enables the holder to operate",
+        "options": {
+          "A": "an INSIDE LAGOON (IL) class pleasure craft up to 12 nautical miles from the shore",
+          "B": "an INSIDE LAGOON (IL) class pleasure craft up to only 200 metres from the shore",
+          "C": "a pleasure craft IL (Inside Lagoon) or OUTSIDE LAGOON (OL) class up to 12 nautical miles from the shore",
+          "D": "an OUTSIDE LAGOON (OL) class pleasure craft anywhere without any restriction on the distance from the shore"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 108,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Imaginez que le côté tribord d'un navire reçoit le vent. Nous appelons donc ce côté",
+        "options": {
+          "A": "le côté au vent",
+          "B": "le côté tribord au vent",
+          "C": "le côté sous le vent",
+          "D": "le côté tribord sous le vent"
+        }
+      },
+      "en": {
+        "question": "Imagine the starboard side of a craft is receiving wind. We therefore refer to this side as the",
+        "options": {
+          "A": "windward side",
+          "B": "starboard windward side",
+          "C": "leeward side",
+          "D": "starboard leeward side"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 109,
+    "correctOptionKey": "D",
+    "translations": {
+      "fr": {
+        "question": "Considérez que votre bateau dérive la nuit en raison d'une panne moteur et le seul repère visible pour vous est ce phare. Vous avez un compas magnétique portable et vous lisez son relèvement à 270°C. Votre bateau est donc",
+        "options": {
+          "A": "à l'ouest du phare",
+          "B": "au nord-est du phare",
+          "C": "au sud-est du phare",
+          "D": "à l'est du phare"
+        }
+      },
+      "en": {
+        "question": "Consider your craft is adrift at night due to an engine breakdown and the only landmark visible to you is this lighthouse. You have a portable magnetic compass and you read its bearing as 270°C. Your craft is therefore",
+        "options": {
+          "A": "west of the lighthouse",
+          "B": "north-east of the lighthouse",
+          "C": "south-east of the lighthouse",
+          "D": "east of the lighthouse"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 110,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Si un bateau parcourt une distance de 4 milles nautiques en 20 minutes, sa vitesse sera",
+        "options": {
+          "A": "20 nœuds",
+          "B": "12 nœuds",
+          "C": "4 nœuds",
+          "D": "16 nœuds"
+        }
+      },
+      "en": {
+        "question": "If a craft is covering a distance of 4 nautical miles in 20 minutes, its speed shall be",
+        "options": {
+          "A": "20 knots",
+          "B": "12 knots",
+          "C": "4 knots",
+          "D": "16 knots"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 111,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Votre GPS affiche la position de votre bateau comme étant 19° 53'.823 S 057° 55'.209 E. Cela signifie donc que votre bateau est",
+        "options": {
+          "A": "dans l'hémisphère Nord et à l'Est du méridien de Greenwich",
+          "B": "dans l'hémisphère Sud et à l'Ouest du méridien de Greenwich",
+          "C": "sur une latitude qui est de 19 degrés 53.823 minutes au sud de l'équateur",
+          "D": "sur une longitude qui est de 57 degrés 55.209 minutes à l'ouest du méridien de Greenwich"
+        }
+      },
+      "en": {
+        "question": "Your GPS is showing the position of your craft as 19° 53'.823 S 057° 55'.209 E. It therefore means that your craft is",
+        "options": {
+          "A": "in the Northern hemisphere and East of the Greenwich meridian",
+          "B": "in the Southern hemisphere and West of the Greenwich meridian",
+          "C": "on a latitude which is 19 degrees 53.823 minutes south of the equator",
+          "D": "on a longitude which is 57 degrees 55.209 minutes west of the Greenwich meridian"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 112,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Vous naviguez avec votre bateau sur un cap nord de 010°C et vous trouvez cette bouée de navigation droit devant vous à une distance de moins de 200 mètres. Afin de rester en eaux sûres, vous devriez",
+        "options": {
+          "A": "changer de cap vers bâbord afin de laisser la bouée sur votre tribord",
+          "B": "changer de cap vers tribord afin de laisser la bouée sur votre bâbord",
+          "C": "passer aussi près que possible de la bouée",
+          "D": "éviter de changer de cap vers tribord"
+        }
+      },
+      "en": {
+        "question": "You are navigating your craft on a northerly course of 010°C and you find this navigational buoy right ahead of you at a distance of less than 200 metres. In order to stay in safe waters, you should",
+        "options": {
+          "A": "alter course to port in order to leave the buoy on your starboard side",
+          "B": "alter course to starboard in order to leave the buoy on your port side",
+          "C": "pass as close as possible to the buoy",
+          "D": "avoid altering course to starboard"
+        }
+      }
+    },
+    "images": [
+      "assets/q112.png"
+    ]
+  },
+  {
+    "id": 113,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Imaginez-vous être le skipper d'un bateau qui est sur le point d'entrer dans un port depuis la haute mer et à l'entrée vous trouvez seulement cette bouée. Dans ce cas, vous devriez",
+        "options": {
+          "A": "laisser la bouée sur votre tribord",
+          "B": "laisser la bouée sur votre bâbord",
+          "C": "arrêter votre bateau car cette bouée indique une zone de danger",
+          "D": "vous arrêter et demander des instructions à l'Autorité portuaire"
+        }
+      },
+      "en": {
+        "question": "Imagine yourself to be the skipper of a craft which is about to enter a harbour from high seas and at the entrance you find only this buoy. In this case, you should",
+        "options": {
+          "A": "leave the buoy on your starboard side",
+          "B": "leave the buoy on your port side",
+          "C": "stop your craft because this buoy is indicating an area of danger",
+          "D": "stop and seek instructions from the Port Authority"
+        }
+      }
+    },
+    "images": [
+      "assets/q113.png"
+    ]
+  },
+  {
+    "id": 114,
+    "correctOptionKey": "D",
+    "translations": {
+      "fr": {
+        "question": "À Maurice, nous connaissons des marées sur une période moyenne de 24 heures comme suit :",
+        "options": {
+          "A": "2 Hautes Eaux consécutives suivies d'1 Basse Eau",
+          "B": "1 Haute Eau suivie d'1 Basse Eau",
+          "C": "2 Hautes Eaux consécutives suivies de 2 Basses Eaux consécutives",
+          "D": "2 Hautes Eaux et 2 Basses Eaux dans l'ordre HAUTE - BASSE - HAUTE - BASSE ou BASSE - HAUTE - BASSE - HAUTE"
+        }
+      },
+      "en": {
+        "question": "In Mauritius, we experience tides over an average period of 24 hours as follows:",
+        "options": {
+          "A": "2 consecutive High Waters followed by 1 Low Water",
+          "B": "1 High Water followed by 1 Low Water",
+          "C": "2 consecutive High Waters followed by 2 consecutive Low Waters",
+          "D": "2 High Waters and 2 Low Waters in the order HIGH – LOW – HIGH - LOW or LOW - HIGH – LOW – HIGH"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 115,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Une 'vitesse de sécurité' est",
+        "options": {
+          "A": "la vitesse maximale recommandée pour le nombre et la capacité du/des moteur(s) installé(s) sur un bateau",
+          "B": "une vitesse adoptée par le skipper qui lui permettra de prendre des mesures appropriées et efficaces pour éviter une collision",
+          "C": "n'importe quelle vitesse à condition qu'elle soit inférieure à 10 nœuds",
+          "D": "une vitesse qui est déterminée par le fabricant du bateau"
+        }
+      },
+      "en": {
+        "question": "A 'safe speed' is",
+        "options": {
+          "A": "the recommended highest speed for the number and capacity of engine/s fitted on a craft",
+          "B": "a speed adopted by the skipper which shall enable him to take proper and effective action to prevent a collision",
+          "C": "any speed provided it is less than 10 knots",
+          "D": "a speed which is determined by the boat manufacturer"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 116,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Un 'navire rattrapé' est",
+        "options": {
+          "A": "un navire à moteur",
+          "B": "un voilier qui est également propulsé par un moteur",
+          "C": "un navire qui est approché par l'arrière par un autre navire",
+          "D": "un navire qui approche tout autre navire"
+        }
+      },
+      "en": {
+        "question": "An 'overtaken vessel' is",
+        "options": {
+          "A": "a power-driven vessel",
+          "B": "a sailing vessel which is also being propelled by machinery",
+          "C": "a vessel which is being approached from behind by another vessel",
+          "D": "a vessel which is approaching any other vessel"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 117,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Supposez que vous opériez un bateau de plaisance à moteur entièrement équipé en mer à 17 nœuds et que vous remarquiez un navire devant vous. D'après les feux que ce navire affiche, laquelle des affirmations suivantes semble la plus raisonnable et sûre ?",
+        "options": {
+          "A": "Ce navire n'est pas sous commandement, vous devez vous tenir bien à l'écart.",
+          "B": "C'est un navire de pêche, vous devez vous tenir à l'écart car il est limité dans sa capacité de manœuvre",
+          "C": "Ce navire est un navire à moteur plus grand qui se dirige dans la même direction que vous, il est sur votre bâbord et vous le dépassez, vous devez vous tenir à l'écart.",
+          "D": "Ce navire est un voilier et c'est le navire privilégié. Vous devez céder le passage et modifier votre cap vers tribord pour passer derrière lui."
+        }
+      },
+      "en": {
+        "question": "Suppose you are operating a fully equipped power-driven pleasure craft at sea at 17 knots and you notice a vessel ahead of you. Based on the lights this vessel is displaying, which of the following statements seems most reasonable and safe?",
+        "options": {
+          "A": "This vessel is not under command, you must keep well clear.",
+          "B": "This is a fishing vessel, you must keep clear as it is restricted in its ability to maneuver",
+          "C": "This vessel is a larger power-driven vessel heading in the same direction as you, it is on your port side and you are overtaking it, you must keep clear.",
+          "D": "This vessel is a sailing vessel and is the privileged vessel. You must give way and alter course to starboard to pass astern of it."
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 118,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Que affiche un bateau de plaisance à voile comme marque de jour lorsqu'il est à moteur et également propulsé par les voiles ?",
+        "options": {
+          "A": "Un cylindre noir",
+          "B": "Un cône noir, pointe vers le bas, à l'avant du mât",
+          "C": "Un cône noir inversé à l'avant et une boule noire à l'arrière",
+          "D": "Il n'a pas besoin d'afficher une marque de jour car il est considéré comme un voilier"
+        }
+      },
+      "en": {
+        "question": "What does a sailing pleasure craft display as a day shape when it is under power and also propelled by sails?",
+        "options": {
+          "A": "A black cylinder",
+          "B": "A black cone, point downward, forward of the mast",
+          "C": "An inverted black cone forward and a black ball aft",
+          "D": "It does not need to display a day shape as it is considered a sailing vessel"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 119,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Considérez-vous comme le skipper d'un bateau de plaisance de 6 mètres de long qui est entré en collision avec une structure flottante non éclairée la nuit à l'extérieur du lagon. L'impact a été si grand que l'eau a commencé à entrer et l'une des deux autres personnes à bord est tombée à la mer mais ne peut être vue. Il portait un gilet de sauvetage. Votre première réaction devrait être de",
+        "options": {
+          "A": "appeler la Garde côtière nationale pour une assistance immédiate",
+          "B": "essayer d'écoper l'eau pour maintenir le navire à flot",
+          "C": "nager pour chercher l'homme à la mer",
+          "D": "demander à la personne avec vous de nager pour chercher l'homme à la mer"
+        }
+      },
+      "en": {
+        "question": "Consider yourself to be the skipper of a 6 metres long pleasure craft which has collided with an unlit floating structure at night outside the lagoon. The impact has been so great that water has started getting in and one of the other two persons onboard has fallen at sea but cannot be seen. He was wearing a life jacket. Your first reaction should be to",
+        "options": {
+          "A": "call the National Coast Guard for immediate assistance",
+          "B": "try to bail out the water to keep the vessel afloat",
+          "C": "swim out to look for the man overboard",
+          "D": "direct the person with you to swim out to look for the man overboard"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 120,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Lorsque vous utilisez un extincteur pour éteindre un incendie à bord d'un bateau en mer, vous devez vous assurer que par rapport à la direction du vent, vous vous positionnez du",
+        "options": {
+          "A": "côté au vent",
+          "B": "côté tribord",
+          "C": "côté sous le vent",
+          "D": "côté bâbord"
+        }
+      },
+      "en": {
+        "question": "When you are using a fire extinguisher to put out a fire onboard a craft at sea, you must ensure that with respect to wind direction, you position yourself on the",
+        "options": {
+          "A": "windward side",
+          "B": "starboard side",
+          "C": "leeward side",
+          "D": "port side"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 121,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Un navire qui parcourt une distance de 6 nautiques en 20 minutes a une vitesse de",
+        "options": {
+          "A": "9 nœuds",
+          "B": "16 nœuds",
+          "C": "18 nœuds",
+          "D": "6 nœuds"
+        }
+      },
+      "en": {
+        "question": "A vessel covering a distance of 6 nautical miles in 20 minutes has a speed of",
+        "options": {
+          "A": "9 knots",
+          "B": "16 knots",
+          "C": "18 knots",
+          "D": "6 knots"
+        }
+      }
+    },
+    "images": []
   }
 ]
