@@ -602,7 +602,7 @@
   },
   {
     "id": 21,
-    "correctOptionKey": "B",
+    "correctOptionKey": "C",
     "translations": {
       "en": {
         "question": "Which day shape(s) indicates a sailing vessel that is also propelled by machinery?",
@@ -1334,12 +1334,12 @@
     "correctOptionKey": "B",
     "translations": {
       "en": {
-        "question": "Which one of the following statements about VHF channel 16 is FALSE?",
+        "question": "How would a 60-meter motor pleasure boat at anchor in coastal waters where visibility is greater than 5 nautical miles indicate its status?",
         "options": {
-          "A": "Channel 16 is an international calling channel on the VHF marine band",
-          "B": "Channel 16 is an international distress channel on the VHF marine band",
-          "C": "Channel 16 is not to be used in an area where military or paramilitary exercises are being conducted",
-          "D": "Channel 16 is not to be kept busy for a long time."
+          "A": "By displaying a black ball forward and another black ball aft of the vessel",
+          "B": "By displaying a black ball forward only and a white light visible all around the horizon aft of the vessel",
+          "C": "By displaying a black ball forward, a flashing yellow light aft, and emitting one prolonged sound followed by 2 short sounds at intervals not exceeding 2 minutes",
+          "D": "By displaying a black ball forward and at the stern 3 black balls in a vertical line"
         }
       },
       "fr": {
@@ -1489,7 +1489,7 @@
   },
   {
     "id": 54,
-    "correctOptionKey": "B",
+    "correctOptionKey": "D",
     "translations": {
       "fr": {
         "question": "Comment décririez-vous un feu de poupe qui fait partie des feux de navigation sur un bateau ?",
@@ -3246,5 +3246,221 @@
       }
     },
     "images": []
+  },
+  {
+    "id": 122,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Les marques latérales sont utilisée pour indiquer un chenal ou un passage navigable",
+        "options": {
+          "A": "Faux",
+          "B": "Vrai seulement dans les ports",
+          "C": "Vrai",
+          "D": "Vrai seulement pendant le jour"
+        }
+      },
+      "en": {
+        "question": "Lateral marks are used to indicate a channel or navigable passage",
+        "options": {
+          "A": "False",
+          "B": "True only in ports",
+          "C": "True",
+          "D": "True only during the day"
+        }
+      }
+    }
+  },
+  {
+    "id": 123,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "On dit qu'un navire s'est échoué quand",
+        "options": {
+          "A": "son moteur est en panne et il est à la dérive",
+          "B": "il y a une voie d'eau trop importante",
+          "C": "il ne flotte plus et s'est posé sur le fond de la mer",
+          "D": "il n'est plus visible sur l'horizon"
+        }
+      },
+      "en": {
+        "question": "A vessel is said to be aground when",
+        "options": {
+          "A": "its engine has failed and it is drifting",
+          "B": "there is too much water ingress",
+          "C": "it is no longer floating and has settled on the seabed",
+          "D": "it is no longer visible on the horizon"
+        }
+      }
+    }
+  },
+  {
+    "id": 124,
+    "correctOptionKey": "B",
+    "translations": {
+      "en": {
+        "question": "Which one of the following statements about VHF channel 16 is FALSE?",
+        "options": {
+          "A": "Channel 16 is an international calling channel on the VHF marine band",
+          "B": "Channel 16 is an international distress channel on the VHF marine band",
+          "C": "Channel 16 is not to be used in an area where military or paramilitary exercises are being conducted",
+          "D": "Channel 16 is not to be kept busy for a long time."
+        }
+      },
+      "fr": {
+        "question": "Laquelle des affirmations suivantes concernant le canal VHF 16 est FAUSSE?",
+        "options": {
+          "A": "Le canal 16 est un canal d'appel international sur la bande VHF marine",
+          "B": "Le canal 16 est un canal de détresse international sur la bande VHF marine",
+          "C": "Le canal 16 ne doit pas être utilisé dans une zone où des exercices militaires ou paramilitaires sont en cours",
+          "D": "Le canal 16 ne doit pas être occupé pendant longtemps."
+        }
+      }
+    }
+  },
+  {
+    "id": 125,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Comment classeriez-vous un bateau qui, par la nature de son travail, ne peut pas manœuvrer pour éviter un autre navire ?",
+        "options": {
+          "A": "navire a capacité de manœuvre restreinte",
+          "B": "navire handicapé par son tirant d'eau",
+          "C": "navire non-maitre de sa manœuvre",
+          "D": "navire échoué"
+        }
+      },
+      "en": {
+        "question": "How would you classify a vessel which, by the nature of its work, cannot maneuver to avoid another vessel?",
+        "options": {
+          "A": "vessel restricted in her ability to maneuver",
+          "B": "vessel constrained by her draft",
+          "C": "vessel not under command",
+          "D": "vessel aground"
+        }
+      }
+    }
+  },
+  {
+    "id": 126,
+    "correctOptionKey": "B",
+    "translations": {
+      "fr": {
+        "question": "Que feriez-vous si vous étiez le skipper d'un bateau à propulsion mécanique qui est en train d'être rattrapé ?",
+        "options": {
+          "A": "maintenir le cap, mais augmenter la vitesse",
+          "B": "maintenir le cap et la vitesse.",
+          "C": "changer le cap vers bâbord ou tribord selon le côté du bateau rattrapant",
+          "D": "stopper le moteur"
+        }
+      },
+      "en": {
+        "question": "What would you do if you were the skipper of a power-driven vessel that is being overtaken?",
+        "options": {
+          "A": "maintain course but increase speed",
+          "B": "maintain course and speed",
+          "C": "change course to port or starboard depending on the side of the overtaking vessel",
+          "D": "stop the engine"
+        }
+      }
+    }
+  },
+  {
+    "id": 127,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Qui sont les officiers qui sont autorisés par la loi à vérifier les documents du bateau ?",
+        "options": {
+          "A": "Un officier des services de pêche",
+          "B": "Un officier autorisé de la Tourism Authority seulement.",
+          "C": "Un officier de police, de la National Coast Guard et un officier autorisé de la Tourism Authority",
+          "D": "Un officier de la National Coast Guard seulement."
+        }
+      },
+      "en": {
+        "question": "Which officers are authorized by law to check boat documents?",
+        "options": {
+          "A": "A fisheries officer",
+          "B": "An authorized officer of the Tourism Authority only",
+          "C": "A police officer, a National Coast Guard officer and an authorized officer of the Tourism Authority",
+          "D": "A National Coast Guard officer only"
+        }
+      }
+    }
+  },
+  {
+    "id": 128,
+    "correctOptionKey": "C",
+    "translations": {
+      "fr": {
+        "question": "Dans quelle circonstance un membre de la National Coast Guard peut-t-il vous interdire l'utilisation d'un bateau de plaisance?",
+        "options": {
+          "A": "Lorsque le bateau de plaisance est sur ​​le point de quitter le lagon pour haute mer sachant qu'il n'est pas équipé d'un GPS",
+          "B": "Lorsque la visibilité est réduite",
+          "C": "Lorsque, selon lui, le voyage que va effectuer le bateau est dangereux en raison des conditions climatiques défavorables.",
+          "D": "Lorsque le bateau de plaisance n'est pas équipé de feux de navigation."
+        }
+      },
+      "en": {
+        "question": "Under what circumstances can a member of the National Coast Guard prohibit you from using a pleasure craft?",
+        "options": {
+          "A": "When the pleasure craft is about to leave the lagoon for the high seas knowing that it is not equipped with a GPS",
+          "B": "When visibility is reduced",
+          "C": "When, in their opinion, the voyage to be undertaken by the craft is dangerous due to adverse weather conditions",
+          "D": "When the pleasure craft is not equipped with navigation lights"
+        }
+      }
+    }
+  },
+  {
+    "id": 129,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Sur quel canal d'un radio VHF passeriez-vous un message de détresse?",
+        "options": {
+          "A": "Canal 16",
+          "B": "Canal 12",
+          "C": "Canal 18",
+          "D": "Canal 69"
+        }
+      },
+      "en": {
+        "question": "On which VHF radio channel would you transmit a distress message?",
+        "options": {
+          "A": "Channel 16",
+          "B": "Channel 12",
+          "C": "Channel 18",
+          "D": "Channel 69"
+        }
+      }
+    }
+  },
+  {
+    "id": 130,
+    "correctOptionKey": "A",
+    "translations": {
+      "fr": {
+        "question": "Lequel de ces navires montre deux feux superposés visibles sur tout l'horizon, le haut étant rouge et le bas étant vert ?",
+        "options": {
+          "A": "un voilier",
+          "B": "un navire remorqué",
+          "C": "un navire de pêche",
+          "D": "un navire non-maitre de sa manœuvre"
+        }
+      },
+      "en": {
+        "question": "Which of these vessels displays two vertical all-round lights, the upper being red and the lower being green?",
+        "options": {
+          "A": "a sailing vessel",
+          "B": "a vessel being towed",
+          "C": "a fishing vessel",
+          "D": "a vessel not under command"
+        }
+      }
+    }
   }
 ]
