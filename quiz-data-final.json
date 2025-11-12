@@ -66,7 +66,7 @@
       }
     },
     "images": [
-      "assets/q2_0.png"
+      "assets/q2.png"
     ]
   },
   {
@@ -101,9 +101,7 @@
         }
       }
     },
-    "images": [
-      "assets/q3_0.png"
-    ]
+    "images": []
   },
   {
     "id": 4,
@@ -172,7 +170,7 @@
       }
     },
     "images": [
-      "assets/q5_0.png"
+      "assets/q5.png"
     ]
   },
   {
@@ -182,34 +180,32 @@
       "en": {
         "question": "Your craft is on course 265◦ C at night and at about 1 nautical mile ahead, you sight a buoy flashing white light continuously. You should therefore",
         "options": {
+          "A": "come to course to 205 ◦ C",
+          "B": "come to course to 325 ◦ C",
           "C": "come to port by not more than 15 degrees",
-          "A": "come to course to 205 ◦",
-          "D": "keep well clear since it is an isolated danger buoy",
-          "B": "stay on the same course and pass about 100 m to starboard of this buoy"
+          "D": "keep well clear since it is an isolated danger buoy"
         }
       },
       "fr": {
         "question": "Votre embarcation est sur le cap 265° C la nuit et à environ 1 mille nautique devant, vous apercevez une bouée émettant un feu blanc continu. Vous devriez donc",
         "options": {
+          "A": "venir au cap 205° C",
+          "B": "venir au cap 325° C",
           "C": "venir à bâbord de pas plus de 15 degrés",
-          "A": "venir au cap 205°",
-          "D": "rester bien à l'écart car c'est une bouée de danger isolé",
-          "B": "rester sur le même cap et passer à environ 100 m à tribord de cette bouée"
+          "D": "rester bien à l'écart car c'est une bouée de danger isolé"
         }
       },
       "ru": {
         "question": "Ваше судно идет курсом 265° C ночью, и примерно в 1 морской миле впереди вы видите два зеленых огня, один над другим. В соответствии с МППСС, вы должны",
         "options": {
-          "A": "лечь на курс 205°",
-          "B": "оставаться на том же курсе и пройти примерно в 100 м справа от этого буя",
+          "A": "лечь на курс 205° C",
+          "B": "лечь на курс 325° C",
           "C": "повернуть влево не более чем на 15 градусов",
           "D": "держаться подальше, так как это буй изолированной опасности"
         }
       }
     },
-    "images": [
-      "assets/q6_0.png"
-    ]
+    "images": []
   },
   {
     "id": 7,
@@ -277,9 +273,7 @@
         }
       }
     },
-    "images": [
-      "assets/q8_0.png"
-    ]
+    "images": []
   },
   {
     "id": 9,
@@ -314,7 +308,7 @@
       }
     },
     "images": [
-      "assets/q9_0.png"
+      "assets/q9.png"
     ]
   },
   {

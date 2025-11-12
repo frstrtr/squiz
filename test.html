@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skipper Quiz - Test</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen p-8">
+    <div id="root"></div>
+    
+    <script type="module">
+        // Import quiz data
+        import { quizData, appTexts } from './quiz-data.js';
+        
+        // Simple test to verify data loads
+        const root = document.getElementById('root');
+        
+        if (!quizData || quizData.length === 0) {
+            root.innerHTML = `
+                <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded">
+                    <strong>Error:</strong> Quiz data failed to load!
+                </div>
+            `;
+        } else {
+            root.innerHTML = `
+                <div class="bg-white rounded-lg shadow-lg p-8 max-w-2xl mx-auto">
+                    <h1 class="text-3xl font-bold text-indigo-600 mb-4">Quiz Data Loaded Successfully!</h1>
+                    <p class="text-lg mb-2">Total Questions: <strong>${quizData.length}</strong></p>
+                    <p class="text-lg mb-4">Languages: <strong>English, French</strong></p>
+                    
+                    <div class="border-t pt-4 mt-4">
+                        <h2 class="text-xl font-semibold mb-2">Sample Question (Q1):</h2>
+                        <p class="mb-2"><strong>EN:</strong> ${quizData[0].translations.en.question.substring(0, 100)}...</p>
+                        <p class="mb-2"><strong>FR:</strong> ${quizData[0].translations.fr.question.substring(0, 100)}...</p>
+                        <p class="mt-4"><strong>Correct Answer:</strong> ${quizData[0].correctOptionKey}</p>
+                    </div>
+                    
+                    <div class="mt-6">
+                        <a href="/" class="bg-indigo-600 text-white px-6 py-2 rounded hover:bg-indigo-700">
+                            Back to Main Quiz
+                        </a>
+                    </div>
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>

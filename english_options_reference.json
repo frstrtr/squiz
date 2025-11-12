@@ -1,0 +1,1307 @@
+{
+  "1": {
+    "question": "In which one of the following scenarios would a skipper be committing an offence under the Tourism Authority Act 2006?",
+    "options": {
+      "A": "operating a pleasure craft without a second person onboard to do lookout duties",
+      "B": "operating a pleasure craft not equipped with navigational lights during a moonlit night",
+      "C": "operating a pleasure craft at 27 knots in open seas when no other craft is in sight",
+      "D": "operating a pleasure craft at 21.5 nautical miles off the shore of Flic en Flac being holder of a Category"
+    }
+  },
+  "2": {
+    "question": "When reporting the position of your craft at sea by the use of this magnetic compass, you need to mention the correct direction with respect to the lighthouse as",
+    "options": {
+      "A": "345 C",
+      "B": "185 C",
+      "C": "350 C",
+      "D": "165 C"
+    }
+  },
+  "3": {
+    "question": "‘Bilge’ of a vessel refers to",
+    "options": {
+      "A": "the submerged part when afloat",
+      "B": "the lowest section inside the vessel which is closest to the keel",
+      "C": "the vertical height between the waterline and the keel",
+      "D": "the width of the weather deck"
+    }
+  },
+  "4": {
+    "question": "How much distance will a pleasure craft cover in 1 h 15 minutes at a constant speed of 16 knots ?",
+    "options": {
+      "A": "12 nautical miles",
+      "B": "16 nautical miles",
+      "C": "20 nautical miles",
+      "D": "24 nautical miles"
+    }
+  },
+  "5": {
+    "question": "How would you identify this navigational buoy by night?",
+    "options": {
+      "A": "By its red and black bands",
+      "B": "By its position on the rocks",
+      "C": "By a series of six short flashes of red light",
+      "D": "By a series of two flashes of white light"
+    }
+  },
+  "6": {
+    "question": "Your craft is on course 265◦ C at night and at about 1 nautical mile ahead, you sight a buoy flashing white light continuously. You should therefore",
+    "options": {
+      "C": "come to port by not more than 15 degrees",
+      "A": "come to course to 205 ◦",
+      "D": "keep well clear since it is an isolated danger buoy",
+      "B": "stay on the same course and pass about 100 m to starboard of this buoy"
+    }
+  },
+  "7": {
+    "question": "Which statement in respect of lookout duties at sea is FALSE?",
+    "options": {
+      "A": "when alone onboard a craft at sea, the responsibility of maintaining lookout rests with the skipper",
+      "B": "a skipper is not relieved of his obligation to maintain lookout at night even though visibility is excellent",
+      "C": "a skipper should ensure that lookout is being maintained at all times by day and by night",
+      "D": "a skipper may stop maintaining visual lookout in restricted visibility if a radar is being operated"
+    }
+  },
+  "8": {
+    "question": "‘Safe speed’ is a speed adopted by a skipper based on several factors. One of them is",
+    "options": {
+      "A": "his age and experience",
+      "B": "the number of persons detailed for lookout duties",
+      "C": "the length of the craft",
+      "D": "the boat traffic density at any given time"
+    }
+  },
+  "9": {
+    "question": "Your boat is approaching a harbour to enter the channel before berthing at a jetty, but you can only see this buoy directly ahead. You should then",
+    "options": {
+      "A": "leave this buoy to port at the start of the channel",
+      "B": "call the port authority on channel 16 for instructions",
+      "C": "leave this buoy to starboard at the start of the channel",
+      "D": "stop the engines and go astern"
+    }
+  },
+  "10": {
+    "question": "These two power-driven pleasure craft are meeting in a crossing situation where collision is imminent. According to the Collision Regulations, which statement in this situation is TRUE?",
+    "options": {
+      "A": "vessel P should alter course to port to avoid the collision",
+      "B": "vessel P may maintain her course and speed",
+      "C": "vessel Q should have altered course to port much earlier",
+      "D": "vessel Q should have altered course to starboard much earlier"
+    }
+  },
+  "11": {
+    "question": "You are operating a pleasure craft at 17 knots on high seas when suddenly the visibility reduces drastically. You come down in speed to 6 knots. What is the next action you would take in an order of priority?",
+    "options": {
+      "A": "Plot a GPS fix on the chart",
+      "B": "Call all vessels on channel 16 and request their GPS positions",
+      "C": "Switch on navigational lights",
+      "D": "Switch on the radar"
+    }
+  },
+  "12": {
+    "question": "You see this light at about 1 nautical off your port bow when you are on course 050 C. As a competent skipper, you must",
+    "options": {
+      "A": "maintain your course and speed",
+      "B": "come to course 350",
+      "C": "to keep well clear of her",
+      "D": "call her on channel 16 to know her intentions"
+    }
+  },
+  "13": {
+    "question": "Which statement is TRUE concerning this vessel ?",
+    "options": {
+      "A": "she cannot deviate from her course because of her deep draught",
+      "B": "she is aground",
+      "C": "she cannot manoeuvre to avoid a collision because of the work she is doing",
+      "D": "she cannot manoeuvre to avoid a collision because of a technical problem"
+    }
+  },
+  "14": {
+    "question": "You are nearing a bend in a harbour and because of buildings you cannot see whether there is traffic on the other side. You must therefore",
+    "options": {
+      "A": "sound one prolonged blast",
+      "B": "sound at least five short and rapid blasts",
+      "C": "sound three short blasts",
+      "D": "sound one short blast"
+    }
+  },
+  "15": {
+    "question": "The direction of ocean current around Mauritius is primarily",
+    "options": {
+      "A": "Northerly",
+      "B": "Easterly",
+      "C": "North Westerly",
+      "D": "South Easterly"
+    }
+  },
+  "16": {
+    "question": "Which statement concerning LOW PRESSURE areas is FALSE?",
+    "options": {
+      "A": "wind blows counter-clockwise around the centre of a Low Pressure area in the Southern Hemisphere",
+      "B": "atmospheric pressure gradually increases when moving away from the centre of a Low Pressure area",
+      "C": "Low Pressure Areas are characterised by unstable weather conditions",
+      "D": "Continuous heating of a large body of seawater results in Low Pressure areas being formed"
+    }
+  },
+  "17": {
+    "question": "You are the skipper aboard pleasure craft 'A' on course 120°C at a speed of 18 knots. Vessel 'B' is directly ahead of you at a distance of one nautical mile. Its bearing (120°C) has not changed during the last ten minutes. What manoeuvre should you make if you believe you are the give-way vessel?",
+    "options": {
+      "A": "turn to port by 15 degrees and increase speed to pass ahead of vessel B",
+      "B": "slow down and turn to starboard by at least 60 degrees",
+      "C": "stop and engage the engines astern",
+      "D": "stop and make a radio call to ascertain vessel B's intentions"
+    }
+  },
+  "18": {
+    "question": "Which statement is TRUE if you were leaving this bay for high seas by using these two marks in transit and a few minutes later the marks appear as shown below ?",
+    "options": {
+      "A": "You must alter course to starboard to regain track",
+      "B": "Your vessel is starboard of track",
+      "C": "Your vessel is port of track",
+      "D": "You vessel is experiencing a slight drift towards port"
+    }
+  },
+  "19": {
+    "question": "You are at sea off Port Louis Harbour and you hear a radio call starting with the words SECURITE SECURITE SECURITE. It means that what follows will be a message concerning",
+    "options": {
+      "A": "a case of imminent danger to life",
+      "B": "a case where safety of navigation may be jeopardised",
+      "C": "a case of vessel incapacitated by engine failure",
+      "D": "a case of vessel carrying dangerous cargo"
+    }
+  },
+  "20": {
+    "question": "You are the skipper of a power-driven vessel at sea with crew members and passengers onboard. You are in the wheel house and cannot see all around your vessel.Suddenly you hear “MAN OVERBOARD PORT SIDE”.Which one is the best sequence of actions to be taken to ensure quick and safe recovery of the person?",
+    "options": {
+      "A": "alter course to starboard, order lifebuoy to be thrown, place a lookout",
+      "B": "alter course to port, call NCG on channel 16, make a williamson turn",
+      "C": "alter course to port, order lifebuoy to be thrown, place a lookout",
+      "D": "alter course to starboard, press the MOB switch on GPS, place a lookout"
+    }
+  },
+  "21": {
+    "question": "Which day shape(s) indicates a sailing vessel that is also propelled by machinery?",
+    "options": {
+      "A": "two black balls one above the other",
+      "B": "a black bicone",
+      "C": "a black conical shape with the apex pointing downwards",
+      "D": "a black ball"
+    }
+  },
+  "22": {
+    "question": "In this situation, according to the International Regulations for Preventing Collisions at Sea, you should",
+    "options": {
+      "A": "change your course to starboard and keep a safe distance from the sailing vessel",
+      "B": "maintain your course and speed",
+      "C": "change your course to port and keep a safe distance from the sailing vessel",
+      "D": "wait for the sailing vessel to manoeuvre first"
+    }
+  },
+  "23": {
+    "question": "A skipper should always manoeuvre his boat so that he can recover a man overboard on the",
+    "options": {
+      "A": "starboard side",
+      "B": "windward side",
+      "C": "port side",
+      "D": "leeward side"
+    }
+  },
+  "24": {
+    "question": "Who is the authority or person that makes the decision to abandon a vessel in a crisis and to launch the liferaft?",
+    "options": {
+      "A": "the National Coast Guard",
+      "B": "the owner of the vessel",
+      "C": "the Tourism Authority",
+      "D": "the skipper of the vessel"
+    }
+  },
+  "25": {
+    "question": "Which of the following statements is FALSE regarding VHF channel 16?",
+    "options": {
+      "A": "you may use channel 16 to contact another vessel",
+      "B": "you may broadcast a distress message on channel 16",
+      "C": "you may not transmit on channel 16 when navigating inside a port",
+      "D": "you may not make long transmissions on channel 16"
+    }
+  },
+  "26": {
+    "question": "To call the Mauritius Ports Authority on VHF you should select",
+    "options": {
+      "A": "channel 8",
+      "B": "channel 78",
+      "C": "channel 16",
+      "D": "channel 74"
+    }
+  },
+  "27": {
+    "question": "These marks indicate that",
+    "options": {
+      "A": "the tanker is aground",
+      "B": "the tanker is at anchor",
+      "C": "the tanker cannot manoeuvre under the rules due to exceptional circumstances",
+      "D": "the tanker requires assistance"
+    }
+  },
+  "28": {
+    "question": "You are the skipper of a boat making 20 knots on the high seas when heavy rain suddenly reduces visibility. You should first",
+    "options": {
+      "A": "switch on the radar",
+      "B": "reduce speed",
+      "C": "call on channel 16 to request GPS positions of vessels in the area",
+      "D": "take a fix on your chart"
+    }
+  },
+  "29": {
+    "question": "The movement of air from a high pressure area to a low pressure area is better known as",
+    "options": {
+      "A": "an ocean current",
+      "B": "the wind",
+      "C": "the tide",
+      "D": "an anticyclone"
+    }
+  },
+  "30": {
+    "question": "An isobar on a weather chart is a curve, line or even a circle that joins areas at sea which have the same",
+    "options": {
+      "A": "water temperature",
+      "B": "atmospheric pressure",
+      "C": "depth",
+      "D": "salinity"
+    }
+  },
+  "31": {
+    "question": "You receive a radio call on channel 16 beginning ‘MAYDAY MAYDAY MAYDAY’. This means that the station calling",
+    "options": {
+      "A": "is facing an engine problem",
+      "B": "is facing a situation where human life is in danger",
+      "C": "is about to transmit information concerning a danger to navigation",
+      "D": "is about to transmit the position of a liner that has just anchored"
+    }
+  },
+  "32": {
+    "question": "Your lookout points out another vessel further offshore showing lights he cannot identify. You explain that it is a vessel",
+    "options": {
+      "A": "engaged in line fishing",
+      "B": "probably over 50 metres making way from left to right",
+      "C": "probably over 50 metres and not in command of its manoeuvre",
+      "D": "probably over 50 metres making way from right to left"
+    }
+  },
+  "33": {
+    "question": "What are the three elements that make up the fire triangle?",
+    "options": {
+      "A": "oxygen, heat and fuel",
+      "B": "heat, nitrogen and fuel",
+      "C": "heat, moisture and fuel",
+      "D": "oxygen, moisture and nitrogen"
+    }
+  },
+  "34": {
+    "question": "Where should you generally position yourself before using a fire extinguisher on a deck fire at sea?",
+    "options": {
+      "A": "on the port side",
+      "B": "on the starboard side",
+      "C": "on the windward side",
+      "D": "on the leeward side"
+    }
+  },
+  "35": {
+    "question": "One of the precautions to take before starting an outboard engine is",
+    "options": {
+      "A": "to ensure the water pump is operational",
+      "B": "to ensure the engine is not already engaged forward or astern",
+      "C": "to ensure the engine is a 4-stroke type",
+      "D": "to ensure there is no one else on the boat"
+    }
+  },
+  "36": {
+    "question": "According to the Tourism Authority Act 2006, a case of collision at sea must be reported to the National Coast Guard",
+    "options": {
+      "A": "by the skipper only",
+      "B": "by the owner of the vessel only",
+      "C": "by one of the passengers on board the vessel",
+      "D": "by the skipper or by the owner of the vessel"
+    }
+  },
+  "37": {
+    "question": "Which one of the following actions does not amount to an offence under the Tourism Authority Act 2006?",
+    "options": {
+      "A": "permitting 14 persons to take a trip at sea on a pleasure craft bearing registration mark PC 2145 OL 12",
+      "B": "operating a pleasure craft at night alone",
+      "C": "failing to produce skipper’s licence or a copy thereof when requested by an authorised officer",
+      "D": "operating a pleasure craft at night without navigational lights"
+    }
+  },
+  "38": {
+    "question": "Under which of these circumstances shall a skipper be right in his decision not to comply with the International Regulations for the Prevention of Collisions at Sea (IRPCS)?",
+    "options": {
+      "A": "when he is navigating in a channel and there is no other craft in the channel",
+      "B": "when there is a situation of danger which makes it necessary to manoeuvre differently for the safety and security of the craft and the persons onboard",
+      "C": "when he needs to reach his destination in time",
+      "D": "when navigating in an area where visibility is restricted"
+    }
+  },
+  "39": {
+    "question": "What is meant by ‘maintaining a lookout at sea’?",
+    "options": {
+      "A": "keeping watch by eyes only",
+      "B": "watching for presence of other ships on the radar only",
+      "C": "maintaining a listening watch on VHF channel 16 only",
+      "D": "using all available means available onboard the vessel to ascertain if there is any risk of collision"
+    }
+  },
+  "40": {
+    "question": "Which one of the following is the recommended angle of approach when coming alongside a jetty for securing your pleasure craft?",
+    "options": {
+      "A": "5 degrees",
+      "B": "60 degrees",
+      "C": "90 degrees",
+      "D": "30 degrees"
+    }
+  },
+  "41": {
+    "question": "Which one of these observations at sea confirms, beyond doubt, that your craft is approaching a tropical storm?",
+    "options": {
+      "A": "Heavy rainfall",
+      "B": "A drop in temperature",
+      "C": "An increase in wind speed",
+      "D": "A drop in atmospheric pressure of more than 3 mb after correcting for height of barometer above sea level"
+    }
+  },
+  "42": {
+    "question": "Skippers of commercial pleasure craft have a legal obligation to conduct a safety briefing with all the persons onboard prior to casting off their pleasure craft for a trip. What is a safety briefing?",
+    "options": {
+      "A": "A description of the places which the passengers will be visiting during the trip",
+      "B": "A brief on the security measures to be observed and actions to be taken in a ny emergency",
+      "C": "A brief on the experience of the skipper in skippering vessels at sea",
+      "D": "A description of the profile of the company for which they work"
+    }
+  },
+  "43": {
+    "question": "Consider yourself to be operating a fully equipped power-driven pleasure craft at sea at 17 knots and all of a sudden, due to heavy rainfall, the visibility reduces drastically. Which one of the following is the first action to be taken?",
+    "options": {
+      "A": "Call all vessels in the vicinity on VHF channel 16 and request their GPS positions",
+      "B": "Reduce speed",
+      "C": "Check the depth of water using the echo sounder",
+      "D": "Stop maintaining visual lookout"
+    }
+  },
+  "44": {
+    "question": "Consider yourself to be operating a 12 metres long power-driven vessel inside Port Louis harbour during the day to proceed to Caudan jetty. Which one of the following actions is strictly forbidden inside the channel?",
+    "options": {
+      "A": "using your VHF radio set on channel 16 without the permission of the Mauritius Port Authority",
+      "B": "using sound signalling apparatus such as a horn without the permission of the Mauritius Port Authority",
+      "C": "crossing the channel from one side to the other in such a way to impede the passage of a large vessel",
+      "D": "letting go the anchor in an emergency"
+    }
+  },
+  "45": {
+    "question": "How would a 60-meter motor pleasure boat at anchor in coastal waters where visibility is greater than 5 nautical miles indicate its status?",
+    "options": {
+      "A": "By displaying a black ball forward and another black ball aft of the vessel",
+      "B": "By displaying a black ball forward only and a white light visible all around the horizon aft of the vessel",
+      "C": "By displaying a black ball forward, a flashing yellow light aft, and emitting one prolonged sound followed by 2 short sounds at intervals not exceeding 2 minutes",
+      "D": "By displaying a black ball forward and at the stern 3 black balls in a vertical line"
+    }
+  },
+  "46": {
+    "question": "In a situation of “Man Overboard”, which one of these sequences is the recommended one to ensure that the best actions are being taken and in an order of priority?",
+    "options": {
+      "A": "Mayday call on VHF channel 16, press MOB switch on GPS, boat manoeuvre",
+      "B": "Boat manoeuvre, press MOB switch on GPS, throw lifebuoy towards the person",
+      "C": "Throw lifebuoy towards the person, place a lookout, boat manoeuvre",
+      "D": "Throw lifebuoy towards the person, Mayday call on VHF channel 16, boat manoeuvre"
+    }
+  },
+  "47": {
+    "question": "A pleasure craft carries the registration PC 1898 OL 12. Which one of these statements is FALSE concerning this pleasure craft?",
+    "options": {
+      "A": "The maximum number of persons that can be carried onboard is 12 including the skipper",
+      "B": "The craft is not allowed to navigate beyond 12 nautical miles from shore",
+      "C": "The craft is licensed for commercial activity",
+      "D": "The craft can also navigate in the lagoon"
+    }
+  },
+  "48": {
+    "question": "What is the 'draft' of a boat?",
+    "options": {
+      "A": "the weight of the boat without the means of propulsion",
+      "B": "the vertical distance between the waterline and the keel of the boat",
+      "C": "the vertical distance between the waterline and the gunwale of the boat",
+      "D": "the distance between the bow and the stern of the boat"
+    }
+  },
+  "49": {
+    "question": "What distance is covered in 20 minutes by a boat navigating at 18 knots?",
+    "options": {
+      "A": "12 nautical miles",
+      "B": "6 nautical miles",
+      "C": "3 nautical miles",
+      "D": "9 nautical miles"
+    }
+  },
+  "50": {
+    "question": "You are the skipper of a power-driven vessel at sea. Power-driven vessel Z is directly ahead of you on a directly opposite course. The distance is less than 50 meters and there is high risk of collision. What is the best maneuver to make in this situation?",
+    "options": {
+      "A": "a large change of course to port",
+      "B": "a change of course of 10 to 15 degrees to starboard",
+      "C": "stop and engage engines astern",
+      "D": "maintain your course and speed because you are on the privileged vessel"
+    }
+  },
+  "51": {
+    "question": "How would you describe a stern light that is part of the navigation lights on a boat?",
+    "options": {
+      "A": "yellow in color and visible on the whole horizon.",
+      "B": "yellow in color and visible over an angle of 135 degrees.",
+      "C": "white in color and visible on the whole horizon.",
+      "D": "white in color and visible over an angle of 135 degrees."
+    }
+  },
+  "52": {
+    "question": "Skippers of pleasure craft for commercial activities have a legal duty to conduct a 'safety briefing' before departure for a trip at sea. What is a 'safety briefing'?",
+    "options": {
+      "A": "a description of the places passengers will be able to visit",
+      "B": "a presentation by the skipper of existing safety measures and safety instructions to be followed during the voyage",
+      "C": "a presentation by the skipper of their expertise in the field of safety at sea",
+      "D": "a presentation of the company that manages the boat"
+    }
+  },
+  "53": {
+    "question": "You are the skipper of this boat which is equipped with two 115 HP outboard engines. You need to start the boat in an onshore wind of about 20 knots. What maneuver will help the stern of the boat move away from the jetty so that the boat can then reverse?",
+    "options": {
+      "A": "release both lines, rudder to the left, starboard engine forward",
+      "B": "release the aft line, rudder to zero, both engines astern",
+      "C": "release the aft line, rudder to the right, port engine forward",
+      "D": "release both lines, rudder to the left, both engines forward"
+    }
+  },
+  "54": {
+    "question": "What is the recommended approach angle for docking a boat?",
+    "options": {
+      "A": "30 degrees",
+      "B": "60 degrees",
+      "C": "90 degrees",
+      "D": "5 degrees"
+    }
+  },
+  "55": {
+    "question": "What do we call the ability of a boat to return to its vertical position after being heeled over?",
+    "options": {
+      "A": "Buoyancy",
+      "B": "Stability",
+      "C": "Displacement",
+      "D": "Balance"
+    }
+  },
+  "56": {
+    "question": "What is your greatest responsibility as a skipper?",
+    "options": {
+      "A": "To ensure the boat is clean and well maintained",
+      "B": "To ensure the safety of all persons onboard",
+      "C": "To arrive at the destination on time",
+      "D": "To communicate regularly with the Coast Guard"
+    }
+  },
+  "57": {
+    "question": "What are the two colors used to indicate lateral marks (buoys)?",
+    "options": {
+      "A": "Red and white",
+      "B": "Red and green",
+      "C": "Yellow and black",
+      "D": "Blue and white"
+    }
+  },
+  "58": {
+    "question": "Lateral marks are used...",
+    "options": {
+      "A": "to mark the center line of a navigable channel",
+      "B": "to mark the sides of a navigable channel",
+      "C": "to mark areas of danger",
+      "D": "to mark anchorage areas"
+    }
+  },
+  "59": {
+    "question": "You are a skipper and also the licensee of commercial pleasure craft PC 1081 OL 14. Through which one of the following actions do you contribute to the safety and security of all persons onboard if your craft under charge of another skipper has been hired for a trip to Ilot Gabriel today?",
+    "options": {
+      "A": "verifying that the only operational engine which is a 40 HP outboard motor is in perfect running condition",
+      "B": "giving clear instructions to the skipper that no more than 14 persons embark the craft including himself",
+      "C": "passing on to the skipper the times of high water and low water",
+      "D": "advising the skipper never to alter course to port in any situation at sea"
+    }
+  },
+  "60": {
+    "question": "Which one of the following actions by a licensed skipper DOES NOT amount to an offence under the Tourism Authority Act 2006 ?",
+    "options": {
+      "A": "failing to report an accident where his pleasure craft has sustained a damage within 24 hours to the Director of the Tourism Authority",
+      "B": "failing to give the name and address of the owner of the pleasure craft when so requested by an authorised officer",
+      "C": "operating a pleasure craft for private purposes when being only 16 years old",
+      "D": "operating a pleasure craft at a speed of 12 knots in the channel of Grand River South East"
+    }
+  },
+  "61": {
+    "question": "While standing on the stem of a pleasure craft and facing aft at night, the sternlight shall",
+    "options": {
+      "A": "be visual on your left hand side",
+      "B": "not be visual",
+      "C": "be visual on your right hand side",
+      "D": "be visual but green coloured"
+    }
+  },
+  "62": {
+    "question": "You were heading on Ilot Benoit lighthouse by a gyro compass when suddenly the engine failed. You dropped the anchor and decided to call the NCG for assistance before attempting to rectify the defect. You would report the position of your craft as being",
+    "options": {
+      "A": "west of Ilot Benoit lighthouse",
+      "B": "on bearing 022° T from Ilot Benoit lighthouse",
+      "C": "south west of Ilot Benoit lighthouse",
+      "D": "east of Ilot Benoit lighthouse"
+    }
+  },
+  "63": {
+    "question": "Your pleasure craft is covering an average distance of 1.2 nautical miles within every 6 minutes. She is then proceeding at an average speed of",
+    "options": {
+      "A": "6 Knots",
+      "B": "12 knots",
+      "C": "18 knots",
+      "D": "24 knots"
+    }
+  },
+  "64": {
+    "question": "If your GPS is showing your position as 00° 23'.123 N 000° 14'.701 E, your pleasure craft shall be",
+    "options": {
+      "A": "in the southern hemisphere",
+      "B": "on a latitude which is 23.123 nautical miles south of the equator",
+      "C": "in the northern hemisphere and east of the Greenwich Meridian",
+      "D": "on a longitude which is west of the Greenwich Meridian subtending an angle of 14.701 minutes at the centre of the earth"
+    }
+  },
+  "65": {
+    "question": "You are steering 260°C at 12 knots and you notice this buoy right ahead of you at a distance of about 500 metres. As a competent skipper, which manoeuvre will you carry out?",
+    "options": {
+      "A": "slow down and alter course to 200° C",
+      "B": "increase speed up to 16 knots and pass not less than 50 metres downwind.",
+      "C": "slow down and alter course to 320° C",
+      "D": "slow down and pass close enough to the buoy but downwind"
+    }
+  },
+  "66": {
+    "question": "Which statement in respect of this buoy is FALSE?",
+    "options": {
+      "A": "It cannot be seen on high seas",
+      "B": "It has a top mark which is painted black",
+      "C": "It is one of the two lateral buoys",
+      "D": "It is to be left on your port side when proceeding to high seas from a harbour"
+    }
+  },
+  "67": {
+    "question": "Spring tides are characterised by",
+    "options": {
+      "A": "only one HIGH WATER in 24 hours",
+      "B": "higher LOW WATERS and lower HIGH WATERS",
+      "C": "higher HIGH WATERS and lower LOW WATERS",
+      "D": "weak tidal currents in and out of passes"
+    }
+  },
+  "68": {
+    "question": "This sailor is assisting in the safe navigation of the ship by",
+    "options": {
+      "A": "ensuring that the ship is following the correct course",
+      "B": "advising the Deck Watch Officer as to when to alter course to prevent a collision",
+      "C": "reporting presence of other ships or dangers so that the Deck Watch Officer can assess if there is risk of collision",
+      "D": "reporting changes in the weather conditions"
+    }
+  },
+  "69": {
+    "question": "Based on the above scenario, it can be deduced at 0812 h that",
+    "options": {
+      "A": "vessel B will pass ahead of vessel A without any risk of collision",
+      "B": "vessel B needs to sound two short blasts and alter course to port to pass astern of vessel A",
+      "C": "there is high risk of collision",
+      "D": "vessel A can maintain her course and speed"
+    }
+  },
+  "70": {
+    "question": "This power-driven vessel is 5 degrees off your starboard bow and is maintaining her course and speed. There is risk of collision. What is the best action to be taken to avoid the collision?",
+    "options": {
+      "A": "sound one short blast and alter course to starboard by at least 60 degrees",
+      "B": "sound two short blasts and alter course to port by at least 60 degrees",
+      "C": "sound three short blasts and engage astern propulsion",
+      "D": "sound at least five short and rapid blasts and let go the anchor"
+    }
+  },
+  "71": {
+    "question": "This power-driven vessel is engaged in parasailing activity and is off your port bow at a distance of about 200 metres. There is risk of collision. Which one of the following statements is FALSE in respect of this situation?",
+    "options": {
+      "A": "the parasailing vessel has right of way",
+      "B": "your vessel is the stand on vessel",
+      "C": "you need to sound two short blasts and alter course to port",
+      "D": "the parasailing vessel is restricted in her ability to manoeuvre"
+    }
+  },
+  "72": {
+    "question": "This tanker is right ahead of you and distance is gradually decreasing. There is risk of collision. It follows that",
+    "options": {
+      "A": "you have to sound three short blasts and alter course to port",
+      "B": "you are the overtaken vessel",
+      "C": "you should take action to prevent a collision",
+      "D": "you cannot alter course to starboard"
+    }
+  },
+  "73": {
+    "question": "This sailing vessel is off your port bow and you cannot make out if she is also being propelled by engine. She is maintaining her course and speed and there is risk of collision. What is the best action to be taken being given you are operating a power-driven vessel?",
+    "options": {
+      "A": "sound three short blasts and engage astern propulsion",
+      "B": "sound two short blasts and make a bold alteration of course to starboard to keep well clear of her",
+      "C": "sound two short blasts and make a bold alteration of course to port to keep well clear of her",
+      "D": "increase speed and pass ahead of her"
+    }
+  },
+  "74": {
+    "question": "These lights are visual to you at night at a distance of 2 nautical miles off your port bow. There is risk of collision. What is the best action to be taken to avoid a collision?",
+    "options": {
+      "A": "alter course to port by at least 60 degrees to pass astern of her",
+      "B": "alter course either to port or to starboard because she is aground",
+      "C": "alter course to starboard by at least 60 degrees since she is at anchor and engaged in some work",
+      "D": "stop engines and engage astern propulsion"
+    }
+  },
+  "75": {
+    "question": "This vessel is showing a black cylinder by day. It means that she is",
+    "options": {
+      "A": "at anchor",
+      "B": "aground",
+      "C": "restricted in her ability to manoeuvre",
+      "D": "constrained by her draught"
+    }
+  },
+  "76": {
+    "question": "What is the recommended angle of approach when manoeuvring a craft to come alongside a jetty?",
+    "options": {
+      "A": "15 degrees",
+      "B": "30 degrees",
+      "C": "45 degrees",
+      "D": "60 degrees"
+    }
+  },
+  "77": {
+    "question": "You are entering a harbour keeping these two leading marks in transit on course 032° C. Because of tidal current, some minutes later you find that the front leading mark has 'moved' to the left. It follows that",
+    "options": {
+      "A": "your craft is port of track",
+      "B": "you should steer a course higher than 032° C to regain track",
+      "C": "you should steer a course lower than 032° C to regain track",
+      "D": "you have to reverse course and start your approach anew"
+    }
+  },
+  "78": {
+    "question": "A container vessel is off your starboard bow at a distance of 2 nautical miles. You take her bearing at 0910 and read 018 C. At 0916, you take a second bearing and read 010 C as shown below. As a competent skipper, you know that",
+    "options": {
+      "A": "you must alter course to port by at least 60 degrees",
+      "B": "the container vessel will pass ahead of you",
+      "C": "there is high risk of collision",
+      "D": "you must maintain your course and speed"
+    }
+  },
+  "79": {
+    "question": "A safety briefing by a skipper comprises various points. The primary aim of the briefing is to",
+    "options": {
+      "A": "reassure the passengers that there are life jackets available onboard",
+      "B": "advise the passengers not to go on the weather deck without wearing a life jacket",
+      "C": "sensitize all the passengers that there always exists a certain degree of risk when being at sea but which can be reduced by complying with safety instructions",
+      "D": "guarantee all the passengers that the sortie will be incident-free based on his years of experience as skipper"
+    }
+  },
+  "80": {
+    "question": "What navigational equipment indicates the heading of a vessel?",
+    "options": {
+      "A": "GPS",
+      "B": "Compass",
+      "C": "Radar",
+      "D": "VHF radio"
+    }
+  },
+  "81": {
+    "question": "What is the onboard system used to change the boat's heading called?",
+    "options": {
+      "A": "The compass",
+      "B": "The helm",
+      "C": "The knot",
+      "D": "The current"
+    }
+  },
+  "82": {
+    "question": "The periodic rise and fall of sea level is better known in navigation as:",
+    "options": {
+      "A": "Ocean current",
+      "B": "Tide",
+      "C": "Tsunami",
+      "D": "Anticyclone"
+    }
+  },
+  "83": {
+    "question": "The compass bearing of this lighthouse from your boat is 345° C. Your boat is then located",
+    "options": {
+      "A": "north of the lighthouse",
+      "B": "west of the lighthouse",
+      "C": "southeast of the lighthouse",
+      "D": "northwest of the lighthouse"
+    }
+  },
+  "84": {
+    "question": "The Global Positioning System (GPS) indicates your boat's position as 19° 53'.823 S 057° 55.'209 E. This means that your boat",
+    "options": {
+      "A": "is in the northern hemisphere and east of the Greenwich meridian",
+      "B": "is in the southern hemisphere and east of the Greenwich meridian",
+      "C": "is in the southern hemisphere and west of the Greenwich meridian",
+      "D": "is at a latitude that is 19 degrees 53.823 minutes north of the equator"
+    }
+  },
+  "85": {
+    "question": "Your boat is heading south at 180° C and this buoy is directly ahead of you. You should then",
+    "options": {
+      "A": "make a large course change to port",
+      "B": "make a large course change to starboard",
+      "C": "stop and go astern",
+      "D": "call a coast guard station to confirm the maneuver to make"
+    }
+  },
+  "86": {
+    "question": "Under what circumstance would a skipper be right not to follow the rules under the International Regulations for Preventing Collisions at Sea (COLREGS)?",
+    "options": {
+      "A": "during channeling",
+      "B": "when there is a danger situation that requires a different maneuver for the safety of the boat and persons onboard",
+      "C": "when he must arrive at his destination on time",
+      "D": "when visibility is reduced"
+    }
+  },
+  "87": {
+    "question": "To keep a 'nautical watch' means",
+    "options": {
+      "A": "to use a pair of binoculars to see the islands and the coast",
+      "B": "to stay tuned to VHF radio channel 16 for the weather bulletin",
+      "C": "to keep radar watch during the evening only",
+      "D": "to use all available means onboard to check if there is a risk of collision"
+    }
+  },
+  "88": {
+    "question": "What is a 'safe speed'?",
+    "options": {
+      "A": "the maximum recommended speed based on the engine power",
+      "B": "a speed of less than 10 knots",
+      "C": "a speed that allows the skipper to take appropriate and effective measures to prevent a collision",
+      "D": "the maximum speed recommended by the boat manufacturer"
+    }
+  },
+  "89": {
+    "question": "One of the factors to consider when determining a safe speed is",
+    "options": {
+      "A": "the skipper's experience",
+      "B": "the skipper's age",
+      "C": "visibility",
+      "D": "the engine power"
+    }
+  },
+  "90": {
+    "question": "You are the skipper of boat Y and directly ahead, boat X is on a directly opposite course and there is a risk of collision. Both boats are power-driven vessels and the distance between them is less than 30 meters. On your right side, there is a navigation hazard less than 5 meters away. In this situation, you must",
+    "options": {
+      "A": "turn sharply to port given that boat X must make the same maneuver",
+      "B": "turn sharply to starboard given that boat X must make the same maneuver",
+      "C": "maintain your course and speed",
+      "D": "improvise the best maneuver to prevent a collision while maintaining the safety of your boat"
+    }
+  },
+  "91": {
+    "question": "You are the skipper aboard pleasure craft 'A' on course 120°C at a speed of 18 knots. Vessel 'B' is directly ahead of you at a distance of one nautical mile. Its bearing (120°C) has not changed for the last ten minutes. According to the situation,",
+    "options": {
+      "A": "vessel B will pass ahead of your boat",
+      "B": "your boat will pass ahead of vessel B",
+      "C": "there is a high risk of collision",
+      "D": "there is no risk of collision"
+    }
+  },
+  "92": {
+    "question": "You are the skipper aboard a boat approaching a foreign port in the evening for the first time. You see these lights on your starboard. You should then",
+    "options": {
+      "A": "slow down and turn to starboard",
+      "B": "navigate with great caution",
+      "C": "call the vessel on channel 16 to ascertain its intentions",
+      "D": "turn decisively to port to keep well clear of its route"
+    }
+  },
+  "93": {
+    "question": "This vessel",
+    "options": {
+      "A": "is restricted in its ability to maneuver.",
+      "B": "is constrained by its draft.",
+      "C": "is not under command.",
+      "D": "has run aground"
+    }
+  },
+  "94": {
+    "question": "What term is used to describe the onboard system that allows the heading of a boat to be changed?",
+    "options": {
+      "A": "The compass",
+      "B": "The helm",
+      "C": "The propeller",
+      "D": "The radar"
+    }
+  },
+  "95": {
+    "question": "How would you describe a stern light that is part of the navigation lights on a pleasure craft?",
+    "options": {
+      "A": "A white light visible all around the horizon on the mast",
+      "B": "A red light visible from ahead to 22.5 degrees abaft the port beam",
+      "C": "A green light visible from ahead to 22.5 degrees abaft the starboard beam",
+      "D": "A white light visible from astern to 22.5 degrees abaft each beam"
+    }
+  },
+  "96": {
+    "question": "Ignoring leeway, what would be the approximate ground track of a boat that is steering 045° by gyro compass, if the variation is 15° W and the deviation is 5° E?",
+    "options": {
+      "A": "055°",
+      "B": "035°",
+      "C": "045°",
+      "D": "065°"
+    }
+  },
+  "97": {
+    "question": "What would be the meaning of a red light appearing on another boat after you have altered your course, if initially you were seeing the port and starboard lights of that boat?",
+    "options": {
+      "A": "Boat A will pass in front of your boat",
+      "B": "Boat B will pass in front of your boat",
+      "C": "Boat A will pass behind your boat",
+      "D": "Boat B will pass behind your boat"
+    }
+  },
+  "98": {
+    "question": "All National Coast Guard stations maintain an auditory watch on the radio. On which channel would a skipper expect to establish communication with the Coast Guard?",
+    "options": {
+      "A": "Channel 06",
+      "B": "Channel 16",
+      "C": "Channel 67",
+      "D": "Channel 69"
+    }
+  },
+  "99": {
+    "question": "All National Coast Guard stations maintain an auditory watch on VHF radio on channel 16 and also channels",
+    "options": {
+      "A": "11 and 78",
+      "B": "14 and 78",
+      "C": "18 and 74",
+      "D": "12 and 72"
+    }
+  },
+  "100": {
+    "question": "What are the most important pieces of information that should absolutely be included in a distress message?",
+    "options": {
+      "A": "Name of the boat, nature of distress, position, and number of people onboard",
+      "B": "Name of the boat, speed, and heading",
+      "C": "Skipper's licence number, boat registration, and mobile phone number",
+      "D": "Boat length, engine power, and fuel remaining"
+    }
+  },
+  "101": {
+    "question": "What are the most important pieces of information that must absolutely be included in a distress message concerning a boat that needs help?",
+    "options": {
+      "A": "the identity of the boat, the owner's name and a description of the problem",
+      "B": "the position of the boat at sea, the name of the boat builder and a description of the problem",
+      "C": "the identity of the boat, its position at sea, a description of the problem and the number of people onboard",
+      "D": "the identity of the boat, a description of the problem, the number of people onboard and their nationalities"
+    }
+  },
+  "102": {
+    "question": "What do we call the ability of a boat to return to its vertical position after being heeled over by an external force such as wind or a wave?",
+    "options": {
+      "A": "its permanent heel",
+      "B": "its buoyancy",
+      "C": "its stability",
+      "D": "its watertightness"
+    }
+  },
+  "103": {
+    "question": "The category C skipper's licence (previously category A: navigation up to 12 nautical miles) enables the holder to operate",
+    "options": {
+      "A": "an INSIDE LAGOON (IL) class pleasure craft up to 12 nautical miles from the shore",
+      "B": "an INSIDE LAGOON (IL) class pleasure craft up to only 200 metres from the shore",
+      "C": "a pleasure craft IL (Inside Lagoon) or OUTSIDE LAGOON (OL) class up to 12 nautical miles from the shore",
+      "D": "an OUTSIDE LAGOON (OL) class pleasure craft anywhere without any restriction on the distance from the shore"
+    }
+  },
+  "104": {
+    "question": "Imagine the starboard side of a craft is receiving wind. We therefore refer to this side as the",
+    "options": {
+      "A": "windward side",
+      "B": "starboard windward side",
+      "C": "leeward side",
+      "D": "starboard leeward side"
+    }
+  },
+  "105": {
+    "question": "Consider your craft is adrift at night due to an engine breakdown and the only landmark visible to you is this lighthouse. You have a portable magnetic compass and you read its bearing as 270°C. Your craft is therefore",
+    "options": {
+      "A": "west of the lighthouse",
+      "B": "north-east of the lighthouse",
+      "C": "south-east of the lighthouse",
+      "D": "east of the lighthouse"
+    }
+  },
+  "106": {
+    "question": "If a craft is covering a distance of 4 nautical miles in 20 minutes, its speed shall be",
+    "options": {
+      "A": "20 knots",
+      "B": "12 knots",
+      "C": "4 knots",
+      "D": "16 knots"
+    }
+  },
+  "107": {
+    "question": "Your GPS is showing the position of your craft as 19° 53'.823 S 057° 55'.209 E. It therefore means that your craft is",
+    "options": {
+      "A": "in the Northern hemisphere and East of the Greenwich meridian",
+      "B": "in the Southern hemisphere and West of the Greenwich meridian",
+      "C": "on a latitude which is 19 degrees 53.823 minutes south of the equator",
+      "D": "on a longitude which is 57 degrees 55.209 minutes west of the Greenwich meridian"
+    }
+  },
+  "108": {
+    "question": "You are navigating your craft on a northerly course of 010°C and you find this navigational buoy right ahead of you at a distance of less than 200 metres. In order to stay in safe waters, you should",
+    "options": {
+      "A": "alter course to port in order to leave the buoy on your starboard side",
+      "B": "alter course to starboard in order to leave the buoy on your port side",
+      "C": "pass as close as possible to the buoy",
+      "D": "avoid altering course to starboard"
+    }
+  },
+  "109": {
+    "question": "Imagine yourself to be the skipper of a craft which is about to enter a harbour from high seas and at the entrance you find only this buoy. In this case, you should",
+    "options": {
+      "A": "leave the buoy on your starboard side",
+      "B": "leave the buoy on your port side",
+      "C": "stop your craft because this buoy is indicating an area of danger",
+      "D": "stop and seek instructions from the Port Authority"
+    }
+  },
+  "110": {
+    "question": "In Mauritius, we experience tides over an average period of 24 hours as follows:",
+    "options": {
+      "A": "2 consecutive High Waters followed by 1 Low Water",
+      "B": "1 High Water followed by 1 Low Water",
+      "C": "2 consecutive High Waters followed by 2 consecutive Low Waters",
+      "D": "2 High Waters and 2 Low Waters in the order HIGH – LOW – HIGH - LOW or LOW - HIGH – LOW – HIGH"
+    }
+  },
+  "111": {
+    "question": "A 'safe speed' is",
+    "options": {
+      "A": "the recommended highest speed for the number and capacity of engine/s fitted on a craft",
+      "B": "a speed adopted by the skipper which shall enable him to take proper and effective action to prevent a collision",
+      "C": "any speed provided it is less than 10 knots",
+      "D": "a speed which is determined by the boat manufacturer"
+    }
+  },
+  "112": {
+    "question": "An 'overtaken vessel' is",
+    "options": {
+      "A": "a power-driven vessel",
+      "B": "a sailing vessel which is also being propelled by machinery",
+      "C": "a vessel which is being approached from behind by another vessel",
+      "D": "a vessel which is approaching any other vessel"
+    }
+  },
+  "113": {
+    "question": "Suppose you are operating a fully equipped power-driven pleasure craft at sea at 17 knots and you notice a vessel ahead of you. Based on the lights this vessel is displaying, which of the following statements seems most reasonable and safe?",
+    "options": {
+      "A": "This vessel is not under command, you must keep well clear.",
+      "B": "This is a fishing vessel, you must keep clear as it is restricted in its ability to maneuver",
+      "C": "This vessel is a larger power-driven vessel heading in the same direction as you, it is on your port side and you are overtaking it, you must keep clear.",
+      "D": "This vessel is a sailing vessel and is the privileged vessel. You must give way and alter course to starboard to pass astern of it."
+    }
+  },
+  "114": {
+    "question": "What does a sailing pleasure craft display as a day shape when it is under power and also propelled by sails?",
+    "options": {
+      "A": "A black cylinder",
+      "B": "A black cone, point downward, forward of the mast",
+      "C": "An inverted black cone forward and a black ball aft",
+      "D": "It does not need to display a day shape as it is considered a sailing vessel"
+    }
+  },
+  "115": {
+    "question": "Consider yourself to be the skipper of a 6 metres long pleasure craft which has collided with an unlit floating structure at night outside the lagoon. The impact has been so great that water has started getting in and one of the other two persons onboard has fallen at sea but cannot be seen. He was wearing a life jacket. Your first reaction should be to",
+    "options": {
+      "A": "call the National Coast Guard for immediate assistance",
+      "B": "try to bail out the water to keep the vessel afloat",
+      "C": "swim out to look for the man overboard",
+      "D": "direct the person with you to swim out to look for the man overboard"
+    }
+  },
+  "116": {
+    "question": "When you are using a fire extinguisher to put out a fire onboard a craft at sea, you must ensure that with respect to wind direction, you position yourself on the",
+    "options": {
+      "A": "windward side",
+      "B": "starboard side",
+      "C": "leeward side",
+      "D": "port side"
+    }
+  },
+  "117": {
+    "question": "A vessel covering a distance of 6 nautical miles in 20 minutes has a speed of",
+    "options": {
+      "A": "9 knots",
+      "B": "16 knots",
+      "C": "18 knots",
+      "D": "6 knots"
+    }
+  },
+  "118": {
+    "question": "Lateral marks are used to indicate a channel or navigable passage",
+    "options": {
+      "A": "False",
+      "B": "True only in ports",
+      "C": "True",
+      "D": "True only during the day"
+    }
+  },
+  "119": {
+    "question": "A vessel is said to be aground when",
+    "options": {
+      "A": "its engine has failed and it is drifting",
+      "B": "there is too much water ingress",
+      "C": "it is no longer floating and has settled on the seabed",
+      "D": "it is no longer visible on the horizon"
+    }
+  },
+  "120": {
+    "question": "Which one of the following statements about VHF channel 16 is FALSE?",
+    "options": {
+      "A": "Channel 16 is an international calling channel on the VHF marine band",
+      "B": "Channel 16 is an international distress channel on the VHF marine band",
+      "C": "Channel 16 is not to be used in an area where military or paramilitary exercises are being conducted",
+      "D": "Channel 16 is not to be kept busy for a long time."
+    }
+  },
+  "121": {
+    "question": "How would you classify a vessel which, by the nature of its work, cannot maneuver to avoid another vessel?",
+    "options": {
+      "A": "vessel restricted in her ability to maneuver",
+      "B": "vessel constrained by her draft",
+      "C": "vessel not under command",
+      "D": "vessel aground"
+    }
+  },
+  "122": {
+    "question": "What would you do if you were the skipper of a power-driven vessel that is being overtaken?",
+    "options": {
+      "A": "maintain course but increase speed",
+      "B": "maintain course and speed",
+      "C": "change course to port or starboard depending on the side of the overtaking vessel",
+      "D": "stop the engine"
+    }
+  },
+  "123": {
+    "question": "Which officers are authorized by law to check boat documents?",
+    "options": {
+      "A": "A fisheries officer",
+      "B": "An authorized officer of the Tourism Authority only",
+      "C": "A police officer, a National Coast Guard officer and an authorized officer of the Tourism Authority",
+      "D": "A National Coast Guard officer only"
+    }
+  },
+  "124": {
+    "question": "Under what circumstances can a member of the National Coast Guard prohibit you from using a pleasure craft?",
+    "options": {
+      "A": "When the pleasure craft is about to leave the lagoon for the high seas knowing that it is not equipped with a GPS",
+      "B": "When visibility is reduced",
+      "C": "When, in their opinion, the voyage to be undertaken by the craft is dangerous due to adverse weather conditions",
+      "D": "When the pleasure craft is not equipped with navigation lights"
+    }
+  },
+  "125": {
+    "question": "On which VHF radio channel would you transmit a distress message?",
+    "options": {
+      "A": "Channel 16",
+      "B": "Channel 12",
+      "C": "Channel 18",
+      "D": "Channel 69"
+    }
+  },
+  "126": {
+    "question": "Which of these vessels displays two vertical all-round lights, the upper being red and the lower being green?",
+    "options": {
+      "A": "a sailing vessel",
+      "B": "a vessel being towed",
+      "C": "a fishing vessel",
+      "D": "a vessel not under command"
+    }
+  },
+  "127": {
+    "question": "What do you expect from your assistant in their role as lookout?",
+    "options": {
+      "A": "That they ensure all passengers are comfortable in their seats",
+      "B": "That they help you make a proper assessment of the navigation situation and inform you of any collision risk",
+      "C": "That they verify the boat is heading in the right direction",
+      "D": "That they remind you of the time on their watch"
+    }
+  },
+  "128": {
+    "question": "Directly ahead of you at a distance of approximately 200 meters, you notice a sailing vessel on an opposite course displaying the following day shape and there is a high risk of collision. What does this day shape indicate?",
+    "options": {
+      "A": "the sailing vessel needs assistance",
+      "B": "the sailing vessel is also using its engine to proceed",
+      "C": "the sailing vessel is engaged in fishing",
+      "D": "the sailing vessel is equipped with an engine, but it has broken down"
+    }
+  },
+  "129": {
+    "question": "In this situation, according to the International Regulations for Preventing Collisions at Sea, you should",
+    "options": {
+      "A": "change your course to starboard and keep a safe distance from the sailing vessel",
+      "B": "maintain your course and speed",
+      "C": "change your course to port and keep a safe distance from the sailing vessel",
+      "D": "wait for the sailing vessel to manoeuvre first"
+    }
+  },
+  "130": {
+    "question": "It is currently 1045 h and you realize that according to GPS your boat has made an average speed of 10 knots. What distance could the boat have traveled during the last 15 minutes?",
+    "options": {
+      "A": "5 nautical miles",
+      "B": "2.5 nautical miles",
+      "C": "10 nautical miles",
+      "D": "12.5 nautical miles"
+    }
+  },
+  "131": {
+    "question": "It starts to rain heavily and visibility is drastically reduced. In such a situation, you should",
+    "options": {
+      "A": "reduce speed and change course to port",
+      "B": "reduce speed, turn on navigation lights and continue with extreme caution",
+      "C": "maintain course and speed",
+      "D": "increase speed but maintain course"
+    }
+  },
+  "132": {
+    "question": "Your assistant reports seeing a vessel slightly on your port side ahead. Soon you realize it is flying a flag as shown below. This flag indicates that the vessel",
+    "options": {
+      "A": "needs urgent assistance",
+      "B": "is engaged in diving activities",
+      "C": "is drifting",
+      "D": "has had a diving accident"
+    }
+  },
+  "133": {
+    "question": "In this situation you must",
+    "options": {
+      "A": "slow down and change course maintaining a minimum distance of 100 meters",
+      "B": "slow down and change course maintaining a minimum distance of 50 meters",
+      "C": "slow down and maintain your course",
+      "D": "approach the vessel to provide assistance"
+    }
+  },
+  "134": {
+    "question": "You are off Baie du Tombeau, and you see a cardinal buoy directly ahead with these black cones above. While realizing you are heading SOUTH you",
+    "options": {
+      "A": "must leave this buoy on your starboard side",
+      "B": "must leave this buoy on your port side",
+      "C": "can leave this buoy on either your port or starboard side",
+      "D": "can pass very close to the buoy because there is safe water on each side"
+    }
+  },
+  "135": {
+    "question": "Your pleasure craft is approximately 2 nautical miles off Port Louis roadstead and you must navigate in the channel. After positioning the boat on the leading marks, you must identify",
+    "options": {
+      "A": "a set of two safe water marks",
+      "B": "lateral marks",
+      "C": "a set of two special marks",
+      "D": "a set of two red marks"
+    }
+  },
+  "136": {
+    "question": "On which VHF radio channel should you call the Port Louis port control tower to obtain permission to enter?",
+    "options": {
+      "A": "channel 12 or 16",
+      "B": "channel 61",
+      "C": "channel 18",
+      "D": "channel 69"
+    }
+  },
+  "137": {
+    "question": "You are in the channel and suddenly, on your starboard bow about 100 meters away you see a fast boat that is going to cross your path dangerously. In this case, you must:",
+    "options": {
+      "A": "slow down and make a large course change to starboard",
+      "B": "slow down and make a large course change to port",
+      "C": "maintain your course and speed",
+      "D": "maintain your course and increase your speed to pass ahead of the fast boat"
+    }
+  },
+  "138": {
+    "question": "You are offshore and you see a large tanker displaying these vertical day shapes. These marks indicate that",
+    "options": {
+      "A": "the tanker is aground",
+      "B": "the tanker is at anchor",
+      "C": "the tanker cannot maneuver under the rules due to exceptional circumstances",
+      "D": "the tanker requires assistance"
+    }
+  },
+  "139": {
+    "question": "Off the coast, a person aboard a pirogue inside the lagoon is making signals as shown below. What is this person trying to communicate to you?",
+    "options": {
+      "A": "they are greeting the tourists aboard your boat",
+      "B": "they need assistance",
+      "C": "they are indicating that your boat is heading towards shallow water",
+      "D": "they are indicating that you must change your course to port"
+    }
+  },
+  "140": {
+    "question": "You notice on your port side, a vessel displaying the following lights. These lights indicate that the vessel",
+    "options": {
+      "A": "cannot keep out of the way of another vessel due to the nature of the work it is doing",
+      "B": "cannot keep out of the way of another vessel because it is engaged in seine net fishing",
+      "C": "cannot keep out of the way of another vessel due to exceptional circumstances",
+      "D": "is in distress and needs immediate assistance"
+    }
+  },
+  "141": {
+    "question": "Suddenly, you hear someone shout 'MAN OVERBOARD PORT SIDE'. What are the initial actions you must take?",
+    "options": {
+      "A": "call the National Coast Guard on VHF radio and inform your company by mobile phone",
+      "B": "stop the engines and call the National Coast Guard on VHF radio",
+      "C": "stop the engines and throw a lifebuoy to port",
+      "D": "stop the engines and jump into the water to rescue the person"
+    }
+  },
+  "142": {
+    "question": "Directly ahead, you notice a boat moving slowly that you are overtaking. Which of its navigation lights is visible to you in this case?",
+    "options": {
+      "A": "the starboard side light",
+      "B": "the port side light",
+      "C": "the stern light",
+      "D": "the masthead light"
+    }
+  },
+  "143": {
+    "question": "When you are at the final stage of docking, you realize that something has just struck your boat. In fact, it is a fishing pirogue that has just collided with your boat. What should be your first reaction?",
+    "options": {
+      "A": "note the exact position of the collision according to GPS",
+      "B": "ensure that there are no casualties or injuries including on the pirogue",
+      "C": "ensure that the pirogue is not damaged",
+      "D": "ensure that your boat is not damaged"
+    }
+  },
+  "144": {
+    "question": "You notice minor damage to the hull on the starboard side and everything seems normal. According to the Tourism Authority Act 2006, you",
+    "options": {
+      "A": "are not required to report this collision case to the NCG because there was only minor damage",
+      "B": "must report this collision case to the NCG within 5 days",
+      "C": "must report this collision case to the NCG as soon as possible within 24 hours",
+      "D": "do not need to report this collision case to the NCG because there were no injuries or casualties"
+    }
+  },
+  "145": {
+    "question": "This vessel",
+    "options": {
+      "A": "is restricted in its ability to maneuver",
+      "B": "is constrained by its draft",
+      "C": "is not under command",
+      "D": "has run aground"
+    }
+  }
+}
