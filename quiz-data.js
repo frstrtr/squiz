@@ -346,7 +346,9 @@ export const quizData = [
         }
       }
     },
-    "images": []
+    "images": [
+      "assets/q10.png"
+    ]
   },
   {
     "id": 11,
