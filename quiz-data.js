@@ -276,9 +276,7 @@ export const quizData = [
         }
       }
     },
-    "images": [
-      "assets/q8_0.png"
-    ]
+    "images": []
   },
   {
     "id": 9,
@@ -313,7 +311,7 @@ export const quizData = [
       }
     },
     "images": [
-      "assets/q9_0.png"
+      "assets/q9.png"
     ]
   },
   {
