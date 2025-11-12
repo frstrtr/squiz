@@ -311,7 +311,7 @@ export const quizData = [
       }
     },
     "images": [
-      "assets/q9.png"
+      "assets/q2_0.png"
     ]
   },
   {
