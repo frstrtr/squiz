@@ -5071,6 +5071,40 @@ export const quizData = [
       }
     },
     "images": []
+  },
+  {
+    "id": 147,
+    "correctOptionKey": "D",
+    "translations": {
+      "en": {
+        "question": "When refueling a pleasure craft on the water, which of the following actions is NOT recommended?",
+        "options": {
+          "A": "ensure all electrical equipment is switched off",
+          "B": "stop the engine before refueling",
+          "C": "ensure no one is smoking nearby",
+          "D": "keep the engine running to power the bilge pump"
+        }
+      },
+      "fr": {
+        "question": "Lors du ravitaillement en carburant d'un bateau de plaisance sur l'eau, laquelle des actions suivantes n'est PAS recommandée?",
+        "options": {
+          "A": "s'assurer que tous les équipements électriques sont éteints",
+          "B": "arrêter le moteur avant le ravitaillement",
+          "C": "s'assurer que personne ne fume à proximité",
+          "D": "maintenir le moteur en marche pour alimenter la pompe de cale"
+        }
+      },
+      "ru": {
+        "question": "При заправке прогулочного судна топливом на воде, какое из следующих действий НЕ рекомендуется?",
+        "options": {
+          "A": "убедиться, что все электрическое оборудование выключено",
+          "B": "остановить двигатель перед заправкой",
+          "C": "убедиться, что рядом никто не курит",
+          "D": "держать двигатель работающим для питания трюмной помпы"
+        }
+      }
+    },
+    "images": []
   }
 ];
 
