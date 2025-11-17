@@ -1247,7 +1247,7 @@
   },
   {
     "id": 37,
-    "correctOptionKey": "B",
+    "correctOptionKey": "C",
     "translations": {
       "en": {
         "question": "Which one of the following actions does not amount to an offence under the Tourism Authority Act 2006?",
@@ -5098,6 +5098,40 @@
           "B": "остановить двигатель перед заправкой",
           "C": "убедиться, что рядом никто не курит",
           "D": "держать двигатель работающим для питания трюмной помпы"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 148,
+    "correctOptionKey": "C",
+    "translations": {
+      "en": {
+        "question": "Assuming a craft is at sea and her port side is receiving the wind. This side is referred to as",
+        "options": {
+          "A": "the port leeward side",
+          "B": "the leeward side",
+          "C": "the port windward side",
+          "D": "the windward side"
+        }
+      },
+      "fr": {
+        "question": "En supposant qu'un navire est en mer et que son côté bâbord reçoit le vent. Ce côté est désigné comme",
+        "options": {
+          "A": "le côté bâbord sous le vent",
+          "B": "le côté sous le vent",
+          "C": "le côté bâbord au vent",
+          "D": "le côté au vent"
+        }
+      },
+      "ru": {
+        "question": "Предположим, что судно находится в море, и его левый борт принимает ветер. Эта сторона называется",
+        "options": {
+          "A": "левая подветренная сторона",
+          "B": "подветренная сторона",
+          "C": "левая наветренная сторона",
+          "D": "наветренная сторона"
         }
       }
     },
