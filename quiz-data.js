@@ -595,7 +595,6 @@ export const quizData = [
       }
     },
     "images": [
-      "assets/q17_0.png",
       "assets/q95.png"
     ]
   },
@@ -773,7 +772,7 @@ export const quizData = [
   },
   {
     "id": 23,
-    "correctOptionKey": "B",
+    "correctOptionKey": "D",
     "translations": {
       "en": {
         "question": "A skipper should always manoeuvre his boat so that he can recover a man overboard on the",
@@ -1736,7 +1735,7 @@ export const quizData = [
       }
     },
     "images": [
-      "assets/q53.png"
+      "assets/q50.png"
     ],
     "source": "model questions -french (1).docx"
   },
@@ -1833,7 +1832,7 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "Вы шкипер этой лодки, оборудованной двумя подвесными двигателями по 115 л.с. Эта лодка показывает, что она",
+        "question": "Вы шкипер этой лодки, оборудованной двумя подвесными двигателями по 115 л.с. Вам нужно отойти от причала при береговом ветре около 20 узлов. Какой маневр поможет корме лодки отойти от пирса, чтобы затем можно было дать задний ход?",
         "options": {
           "A": "отдать оба конца, руль влево, правый двигатель вперед",
           "B": "отдать кормовой конец, руль на ноль, оба двигателя назад",
@@ -2962,7 +2961,7 @@ export const quizData = [
   },
   {
     "id": 85,
-    "correctOptionKey": "B",
+    "correctOptionKey": "A",
     "translations": {
       "fr": {
         "question": "Votre bateau fait cap sud au 180° C et cette bouée est droit devant vous. Vous devez alors",
@@ -2993,7 +2992,7 @@ export const quizData = [
       }
     },
     "images": [
-      "assets/q10_0.png"
+      "assets/q85.png"
     ],
     "source": "manual_addition"
   },
@@ -3244,7 +3243,7 @@ export const quizData = [
       }
     },
     "images": [
-      "assets/q18_0.png"
+      "assets/q92.png"
     ]
   },
   {
