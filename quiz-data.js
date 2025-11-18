@@ -384,9 +384,7 @@ export const quizData = [
         }
       }
     },
-    "images": [
-      "assets/q11_0.png"
-    ]
+    "images": []
   },
   {
     "id": 12,
@@ -455,7 +453,7 @@ export const quizData = [
       }
     },
     "images": [
-      "assets/q13_0.png"
+      "assets/q13.png"
     ]
   },
   {
@@ -524,9 +522,7 @@ export const quizData = [
         }
       }
     },
-    "images": [
-      "assets/q15_0.png"
-    ]
+    "images": []
   },
   {
     "id": 16,

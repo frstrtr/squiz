@@ -450,7 +450,7 @@
       }
     },
     "images": [
-      "assets/q13_0.png"
+      "assets/q13.png"
     ]
   },
   {
@@ -519,9 +519,7 @@
         }
       }
     },
-    "images": [
-      "assets/q15_0.png"
-    ]
+    "images": []
   },
   {
     "id": 16,
