@@ -1147,7 +1147,7 @@ export const quizData = [
   },
   {
     "id": 34,
-    "correctOptionKey": "B",
+    "correctOptionKey": "C",
     "translations": {
       "en": {
         "question": "Where should you generally position yourself before using a fire extinguisher on a deck fire at sea?",
@@ -1236,7 +1236,7 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "Согласно Закону об Управлении по туризму 2006 года, случай столкновения в море с участием прогулочного судна, повлекший травму или материальный ущерб, должен быть сообщен в Управление по туризму в течение",
+        "question": "Согласно Закону об Управлении по туризму 2006 года, случай столкновения в море с участием прогулочного судна, повлекший травму или материальный ущерб, должен быть сообщен в Управление по туризму",
         "options": {
           "A": "только шкипером",
           "B": "только владельцем судна",
@@ -1249,7 +1249,7 @@ export const quizData = [
   },
   {
     "id": 37,
-    "correctOptionKey": "C",
+    "correctOptionKey": "B",
     "translations": {
       "en": {
         "question": "Which one of the following actions does not amount to an offence under the Tourism Authority Act 2006?",
@@ -3611,12 +3611,12 @@ export const quizData = [
         }
       },
       "ru": {
-        "question": "Лицензия шкипера категории C (ранее категория A: навигация до 3 морских миль от берега) действительна в течение",
+        "question": "Лицензия шкипера категории C (ранее категория A: навигация до 12 морских миль) позволяет владельцу управлять",
         "options": {
-          "A": "1 года",
-          "B": "2 лет",
-          "C": "3 лет",
-          "D": "5 лет"
+          "A": "прогулочным судном класса INSIDE LAGOON (IL) на расстоянии до 12 морских миль от берега",
+          "B": "прогулочным судном класса INSIDE LAGOON (IL) на расстоянии до 200 метров от берега",
+          "C": "прогулочным судном класса IL (Inside Lagoon) или OUTSIDE LAGOON (OL) на расстоянии до 12 морских миль от берега",
+          "D": "прогулочным судном класса OUTSIDE LAGOON (OL) где угодно без ограничения расстояния от берега"
         }
       }
     },
