@@ -736,7 +736,7 @@
   },
   {
     "id": 22,
-    "correctOptionKey": "B",
+    "correctOptionKey": "A",
     "translations": {
       "en": {
         "question": "In this situation, according to the International Regulations for Preventing Collisions at Sea, you should",
@@ -4623,7 +4623,7 @@
         "question": "В этой ситуации вы должны",
         "options": {
           "A": "снизить скорость и изменить курс, держась на расстоянии не менее 100 метров",
-          "B": "снизить скорость и изменить курс, держась на расстоянии не менее 200 метров",
+          "B": "снизить скорость и изменить курс, держась на расстоянии не менее 50 метров",
           "C": "снизить скорость и поддерживать курс",
           "D": "подойти к судну для оказания помощи"
         }
@@ -5166,6 +5166,40 @@
           "B": "показывая навигационные огни",
           "C": "запуская красные ракеты каждые пять минут",
           "D": "показывая белый мигающий огонь, установленный на верхушке мачты"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 150,
+    "correctOptionKey": "C",
+    "translations": {
+      "en": {
+        "question": "You are navigating in a channel and a container ship is departing in the same channel. As a competent skipper, you must",
+        "options": {
+          "A": "leave the port in the center of the channel",
+          "B": "leave the port on the left side of the channel",
+          "C": "avoid impeding the passage of the container ship",
+          "D": "ask the container ship to give you the right of way"
+        }
+      },
+      "fr": {
+        "question": "Vous naviguez dans un chenal et un porte-conteneur est en train d'appareiller dans le même chenal. Comme un skipper compétent, vous devez",
+        "options": {
+          "A": "quitter le port au centre du chenal",
+          "B": "quitter le port sur le côté gauche du chenal",
+          "C": "éviter de gêner le passage du porte-conteneur",
+          "D": "demander au porte-conteneur de vous céder le passage"
+        }
+      },
+      "ru": {
+        "question": "Вы идете по каналу, и контейнеровоз отходит в том же канале. Как компетентный шкипер, вы должны",
+        "options": {
+          "A": "покинуть порт в центре канала",
+          "B": "покинуть порт по левой стороне канала",
+          "C": "избегать создания помех проходу контейнеровоза",
+          "D": "попросить контейнеровоз уступить вам дорогу"
         }
       }
     },
