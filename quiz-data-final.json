@@ -2841,7 +2841,7 @@
         "question": "Как называется бортовая система, используемая для изменения курса лодки?",
         "options": {
           "A": "Компас",
-          "B": "Руль",
+          "B": "Штурвал",
           "C": "Узел",
           "D": "Течение"
         }
@@ -4102,7 +4102,7 @@
   },
   {
     "id": 118,
-    "correctOptionKey": "C",
+    "correctOptionKey": "B",
     "translations": {
       "fr": {
         "question": "Les marques latérales sont utilisée pour indiquer un chenal ou un passage navigable",
@@ -4160,7 +4160,7 @@
         "options": {
           "A": "оно касается дна и не может двигаться",
           "B": "оно на якоре",
-          "C": "оно остановлено",
+          "C": "оно село на мель",
           "D": "у него отказал двигатель"
         }
       }
@@ -5132,6 +5132,40 @@
           "B": "подветренная сторона",
           "C": "левая наветренная сторона",
           "D": "наветренная сторона"
+        }
+      }
+    },
+    "images": []
+  },
+  {
+    "id": 149,
+    "correctOptionKey": "B",
+    "translations": {
+      "en": {
+        "question": "How does a 60-meter power-driven vessel underway indicate its presence at night?",
+        "options": {
+          "A": "by sounding its horn",
+          "B": "by displaying its navigation lights",
+          "C": "by launching red flares every five minutes",
+          "D": "by showing a white flashing light placed at the masthead"
+        }
+      },
+      "fr": {
+        "question": "Comment un navire à propulsion mécanique de 60 mètres qui fait route indique-t-il sa présence par nuit ?",
+        "options": {
+          "A": "en faisant retentir sa sirène",
+          "B": "en allumant ses feux de navigation",
+          "C": "en lançant des fusées rouges après chaque cinq minutes",
+          "D": "en montrant un feu blanc clignotant placé à la tête du mât"
+        }
+      },
+      "ru": {
+        "question": "Как судно с механическим двигателем длиной 60 метров на ходу указывает на свое присутствие ночью?",
+        "options": {
+          "A": "подавая звуковой сигнал",
+          "B": "показывая навигационные огни",
+          "C": "запуская красные ракеты каждые пять минут",
+          "D": "показывая белый мигающий огонь, установленный на верхушке мачты"
         }
       }
     },
