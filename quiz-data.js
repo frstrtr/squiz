@@ -5207,6 +5207,40 @@ export const quizData = [
       }
     },
     "images": []
+  },
+  {
+    "id": 151,
+    "correctOptionKey": "B",
+    "translations": {
+      "en": {
+        "question": "According to the Tourism Authority Act 2006, the 'skipper' of a pleasure craft is the one who",
+        "options": {
+          "A": "represents the owner of the boat when the boat is at sea",
+          "B": "changes the course and speed of the boat at sea",
+          "C": "is responsible for engine maintenance",
+          "D": "is responsible for rescue at sea"
+        }
+      },
+      "fr": {
+        "question": "D'après la Tourism Authority Act 2006, le 'skipper' d'un bateau de plaisance est celui qui",
+        "options": {
+          "A": "représente le propriétaire du bateau quand le bateau est en mer",
+          "B": "change le cap et la vitesse du bateau en mer",
+          "C": "se charge de la maintenance des moteurs",
+          "D": "se charge du sauvetage en mer"
+        }
+      },
+      "ru": {
+        "question": "Согласно Закону об Управлении по туризму 2006 года, 'шкипер' прогулочного судна - это тот, кто",
+        "options": {
+          "A": "представляет владельца судна, когда судно в море",
+          "B": "изменяет курс и скорость судна в море",
+          "C": "отвечает за обслуживание двигателей",
+          "D": "отвечает за спасение в море"
+        }
+      }
+    },
+    "images": []
   }
 ];
 
