@@ -388,11 +388,11 @@
     "correctOptionKey": "C",
     "translations": {
       "en": {
-        "question": "You see this light at about 1 nautical off your port bow when you are on course 050 C. As a competent skipper, you must",
+        "question": "You see this light at about 1 nautical mile off your port bow when you are on course 050 C. As a competent skipper, you must",
         "options": {
           "A": "maintain your course and speed",
-          "B": "come to course 350",
-          "C": "to keep well clear of her",
+          "B": "come to course 350 C to keep well clear of her",
+          "C": "come to course 110 C to keep well clear of her",
           "D": "call her on channel 16 to know her intentions"
         }
       },
@@ -400,8 +400,8 @@
         "question": "Vous voyez cette lumière à environ 1 mille nautique sur votre bâbord avant lorsque vous êtes sur le cap 050 C. En tant que skipper compétent, vous devez",
         "options": {
           "A": "maintenir votre cap et votre vitesse",
-          "B": "venir au cap 350",
-          "C": "rester bien à l'écart",
+          "B": "venir au cap 350 C pour rester bien à l'écart d'elle",
+          "C": "venir au cap 110 C pour rester bien à l'écart d'elle",
           "D": "l'appeler sur le canal 16 pour connaître ses intentions"
         }
       },
@@ -409,13 +409,13 @@
         "question": "Вы видите этот огонь примерно в 1 морской миле слева по носу, когда идете курсом 050 C. Как компетентный шкипер, вы должны",
         "options": {
           "A": "поддерживать курс и скорость",
-          "B": "лечь на курс 350",
-          "C": "держаться от нее подальше",
+          "B": "лечь на курс 350 C, чтобы держаться от нее подальше",
+          "C": "лечь на курс 110 C, чтобы держаться от нее подальше",
           "D": "вызвать ее на канале 16, чтобы узнать ее намерения"
         }
       }
     },
-    "images": []
+    "images": ["assets/q12.png"]
   },
   {
     "id": 13,
@@ -901,37 +901,37 @@
   },
   {
     "id": 27,
-    "correctOptionKey": "B",
+    "correctOptionKey": "A",
     "translations": {
       "en": {
-        "question": "These marks indicate that",
+        "question": "This vessel",
         "options": {
-          "A": "the tanker is aground",
-          "B": "the tanker is at anchor",
-          "C": "the tanker cannot manoeuvre under the rules due to exceptional circumstances",
-          "D": "the tanker requires assistance"
+          "A": "is restricted in her ability to manoeuvre",
+          "B": "is constrained by her draught",
+          "C": "is not under command",
+          "D": "has run aground"
         }
       },
       "fr": {
-        "question": "Ces marques indiquent que",
+        "question": "Ce navire",
         "options": {
-          "A": "le pétrolier s’est échoue",
-          "B": "le pétrolier est au mouillage",
-          "C": "le pétrolier ne peut pas manœuvrer d’ après les règlements en raison des circonstances exceptionnelles",
-          "D": "le pétrolier a besoin d’aide"
+          "A": "est restreint dans sa capacité de manœuvre",
+          "B": "est handicapé par son tirant d'eau",
+          "C": "est non-maître de sa manœuvre",
+          "D": "s'est échoué"
         }
       },
       "ru": {
-        "question": "Эти знаки указывают, что",
+        "question": "Это судно",
         "options": {
-          "A": "танкер на мели",
-          "B": "танкер на якоре",
-          "C": "танкер не может маневрировать согласно правилам из-за исключительных обстоятельств",
-          "D": "танкер требует помощи"
+          "A": "ограничено в возможности маневрировать",
+          "B": "стеснено своей осадкой",
+          "C": "лишено возможности управляться",
+          "D": "село на мель"
         }
       }
     },
-    "images": []
+    "images": ["assets/q97.png"]
   },
   {
     "id": 28,
@@ -3311,7 +3311,7 @@
   },
   {
     "id": 95,
-    "correctOptionKey": "B",
+    "correctOptionKey": "D",
     "translations": {
       "fr": {
         "question": "Comment décririez-vous un feu de poupe qui fait partie des feux de navigation sur un bateau de plaisance ?",
@@ -3341,7 +3341,7 @@
         }
       }
     },
-    "images": []
+    "images": ["assets/q95_i.png"]
   },
   {
     "id": 96,
@@ -3400,12 +3400,12 @@
         }
       },
       "ru": {
-        "question": "Что означает красный огонь, появляющийся на другой лодке после захода солнца?",
+        "question": "Что означает красный огонь, появляющийся на другом судне после того, как вы изменили курс, если изначально вы видели огни левого и правого бортов этого судна?",
         "options": {
-          "A": "Лодка A пройдет перед вашей лодкой",
-          "B": "Лодка B пройдет перед вашей лодкой",
-          "C": "Лодка A пройдет за вашей лодкой",
-          "D": "Лодка B пройдет за вашей лодкой"
+          "A": "Судно A пройдет перед вашим судном",
+          "B": "Судно B пройдет перед вашим судном",
+          "C": "Судно A пройдет за вашим судном",
+          "D": "Судно B пройдет за вашим судном"
         }
       }
     },
@@ -3948,12 +3948,12 @@
         }
       },
       "ru": {
-        "question": "Предположим, вы управляете полностью оборудованным прогулочным судном с механическим двигателем длиной 12 метров в прибрежных водах ночью и несете соответствующие навигационные огни. Эти огни включают",
+        "question": "Предположим, вы управляете полностью оборудованным прогулочным судном с механическим двигателем в море на скорости 17 узлов и замечаете судно впереди. Основываясь на огнях, которые показывает это судно, какое из следующих утверждений кажется наиболее разумным и безопасным?",
         "options": {
-          "A": "только белый круговой огонь",
-          "B": "красный, зеленый и белый кормовой огонь",
-          "C": "красный, зеленый, белый топовый и белый кормовой огонь",
-          "D": "только красный и зеленый огни"
+          "A": "Это судно лишено возможности управляться, вы должны держаться от него подальше.",
+          "B": "Это рыболовное судно, вы должны держаться от него подальше, так как оно ограничено в возможности маневрировать",
+          "C": "Это более крупное судно с механическим двигателем, идущее в том же направлении, что и вы, оно находится слева от вас, и вы его обгоняете, вы должны держаться от него подальше.",
+          "D": "Это парусное судно, и оно является привилегированным судном. Вы должны уступить дорогу и изменить курс вправо, чтобы пройти за его кормой."
         }
       }
     },
@@ -4783,11 +4783,11 @@
         }
       },
       "ru": {
-        "question": "Вы находитесь в открытом море и видите большой танкер, показывающий эти вертикальные огни. Это означает, что",
+        "question": "Вы находитесь в открытом море и видите большой танкер, показывающий эти вертикальные дневные знаки. Эти знаки указывают, что",
         "options": {
           "A": "танкер на мели",
           "B": "танкер на якоре",
-          "C": "танкер не может маневрировать согласно правилам из-за своей осадки",
+          "C": "танкер не может маневрировать согласно правилам из-за исключительных обстоятельств",
           "D": "танкер требует помощи"
         }
       }
